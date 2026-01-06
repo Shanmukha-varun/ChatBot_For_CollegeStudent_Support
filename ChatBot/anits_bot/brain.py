@@ -51,7 +51,7 @@ class AnitsBrain:
         # 📅 NEW FEATURE: SMART CALENDAR TRIGGERS
         # =========================================================
         # Replace with your actual Ngrok URL if deploying remotely
-        BASE_URL = "https://chatbot-for-collegestudent-support.onrender.com"
+        BASE_URL = "http://127.0.0.1:8000/static"
 
         if "calendar" in query_lower:
             # CASE 1: M.Tech Requests
