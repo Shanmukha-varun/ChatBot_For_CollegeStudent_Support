@@ -12,7 +12,7 @@ load_dotenv()
 
 class AnitsBrain:
     def __init__(self):
-        self.embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+        self.embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001") 
         self.persist_directory = "./chroma_db"
         
         
