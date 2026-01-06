@@ -8,7 +8,7 @@ function Footer() {
                             <div className="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center">
                                 <div className="icon-graduation-cap text-lg"></div>
                             </div>
-                            <span className="text-xl font-bold">Anits AI</span>
+                            <span className="text-xl font-bold">ANITS AI</span>
                         </div>
                         <p className="text-gray-400 max-w-sm">
                             Empowering students with instant access to college information through advanced AI technology.
