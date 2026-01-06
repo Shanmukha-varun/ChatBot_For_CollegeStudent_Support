@@ -16,7 +16,7 @@ function Hero() {
                             <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-blue-400 opacity-75"></span>
                             <span className="relative inline-flex rounded-full h-3 w-3 bg-blue-500"></span>
                         </span>
-                        AI Admissions 2026 Live
+                         Admissions 2026 Live
                     </div>
 
                     {/* The AI Agent floats above the chat */}
