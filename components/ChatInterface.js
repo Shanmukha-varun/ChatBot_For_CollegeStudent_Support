@@ -1,6 +1,6 @@
 function ChatInterface({ onStateChange }) { // Changed prop name to onStateChange
     const [messages, setMessages] = React.useState([
-        { id: 1, type: 'bot', text: 'Hi there! I am your campus guide. Ask me about admissions, placements, or campus facilities.' }
+        { id: 1, type: 'bot', text: 'Hi there! I am your campus guide. Ask me about admissions, placements.' }
     ]);
     const [inputValue, setInputValue] = React.useState('');
     const [isTyping, setIsTyping] = React.useState(false);
