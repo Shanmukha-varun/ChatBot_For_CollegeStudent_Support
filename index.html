@@ -26,6 +26,50 @@
             --bg-glass: rgba(255, 255, 255, 0.85);
         }
     }
+        @layer utilities {
+  .glass-3d {
+    background: linear-gradient(145deg, rgba(255,255,255,0.25), rgba(255,255,255,0.1));
+    backdrop-filter: blur(24px) saturate(180%);
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 
+      0 25px 45px -10px rgba(0,0,0,0.2),
+      0 8px 16px -8px rgba(0,0,0,0.1),
+      inset 0 1px 0 rgba(255,255,255,0.6);
+    position: relative;
+  }
+  .glass-3d::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.4), transparent);
+    border-radius: inherit;
+    padding: 2px;
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+    opacity: 0.8;
+    z-index: -1;
+  }
+  .bubble-3d-user {
+    background: linear-gradient(135deg, rgba(99,102,241,0.9), rgba(139,92,246,0.8));
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255,255,255,0.4);
+    box-shadow: 0 12px 32px rgba(99,102,241,0.4), inset 0 1px 0 rgba(255,255,255,0.6);
+  }
+  .bubble-3d-bot {
+    background: linear-gradient(135deg, rgba(255,255,255,0.9), rgba(255,255,255,0.7));
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255,255,255,0.5);
+    box-shadow: 0 12px 32px rgba(0,0,0,0.15), inset 0 1px 0 rgba(255,255,255,0.8);
+  }
+  .hover-lift {
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+  .hover-lift:hover {
+    transform: translateY(-4px) scale(1.02) rotateX(5deg);
+    box-shadow: 0 32px 64px rgba(0,0,0,0.25);
+  }
+}
+
 
     @layer base {
         body {
