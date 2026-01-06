@@ -6,7 +6,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_chroma import Chroma
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 
 load_dotenv()
 
