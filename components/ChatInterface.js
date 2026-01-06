@@ -80,7 +80,7 @@ function ChatInterface({ onStateChange }) { // Changed prop name to onStateChang
             <div className="bg-gradient-to-r from-blue-600 to-indigo-600 p-4 text-white flex justify-between items-center">
                 <div className="flex items-center gap-2">
                     <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
-                    <span className="font-semibold text-sm">Admissions Assistant</span>
+                    <span className="font-semibold text-sm">Your Assistant☺️</span>
                 </div>
                 <div className="icon-ellipsis text-white/80"></div>
             </div>
