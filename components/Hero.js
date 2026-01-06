@@ -4,7 +4,7 @@ function Hero() {
 
     return (
 
-        <section className="relative pt-32 pb-20 lg:pt-40 lg:pb-28 px-4 flex items-center justify-center min-h-[80vh]" data-name="hero" data-file="components/Hero.js">
+        <section className="relative pt-32 pb-20 lg:pt-40 lg:pb-28 px-4 flex items-center justify-center min-h-[60vh]" data-name="hero" data-file="components/Hero.js">
             <div className="w-full max-w-4xl mx-auto flex flex-col items-center justify-center">
 
                 {/* AI & Chat Container - Centered */}
