@@ -1,0 +1,1110 @@
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1 A21126551032 Modepalli Vamsi Sai Krishna CSD-DS Male Josh Technology Group 11.30
+2 A21126510027 Karthik Reddy Yadamakanti CSE Male FACTSET 10.30
+3 A21126510060 Tadimeti Ramakrishna Sashank CSE Male FACTSET 10.30
+4 A21126510185 Anudeep Sappa CSE Male FACTSET 10.30
+5 A21126511116 Harsha Vardhan Pentakota IT Male FACTSET 10.30
+6 A21126510100 Marpu Pavan Kumar CSE Male Inncircles 10.30
+7 A21126510107 Mutyala Deepika Akshaya CSE Female Inncircles 10.30
+8 A21126510156 Gorle Varshith CSE Male Inncircles 10.30
+9 A21126510057 Senapati Sai Ramya CSE Female Akrivia HCM 10.00
+10 A21126510079 Dhavaleswarapu Chaitanya CSE Male Akrivia HCM 10.00
+11 A21126510084 Gongada Lithesh Raja CSE Male Akrivia HCM 10.00
+12 A21126510050 Putheti Asreeth CSE Male Tejas Network 10.00
+13 A21126551017 Duppatla Ruchita CSD-DS Female Infosys Ltd -SP(On) 9.50
+14 A21126510038 Madaka Gnana Anusha CSE Female Infosys Ltd -SP(On) 9.50
+15 A21126510058 Sesetti Vidya Sri CSE Female Infosys Ltd -SP(On) 9.50
+16 A21126510082 Gandi Sonali Sri Sivani CSE Female Infosys Ltd -SP(On) 9.50
+17 A21126510110 Narsipuram Joseph Prasad CSE Male Infosys Ltd -SP(On) 9.50
+18 A21126552008 Bugatha Surya Teja CSE-AI&ML Male Infosys Ltd -SP(On) 9.50
+19 A21126552018 Karakavalasa Sai Divya Sri CSE-AI&ML Female Infosys Ltd -SP(On) 9.50
+20 A21126512178 Satti Samba Siva Reddy ECE Male Infosys Ltd -SP(On) 9.50
+21 A21126511134 Adabala Devi IT Female Infosys Ltd -SP(On) 9.50
+22 A21126510103 Mavuri Maha Lakshmi CSE Female Infosys -SP -Hackwith infy (off) 9.50
+23 A21126510004 Allu Venkata Hemanth Nageswara Naidu CSE Male Infosys -SP -Hackwith infy(off) 9.50
+24 A21126508018 Kella Rama Lakshmi Civil Female LIVSPACE 8.00
+25 A21126510040 Sumanth Mahantu CSE Male Neurofin AI Technologies Pvt. Ltd. 7.50
+26 A21126520173 Chigilipalli Pavankumar MECH Male Reliance Industries Ltd 7.50
+27 A21126520217 Abotula Vamsi Krishna MECH Male Reliance Industries Ltd 7.50
+28 A21126520220 Godaba.Amulya MECH Female Reliance Industries Ltd 7.50
+29 A21126502032 Saragadam Sudheer CHEM Male Reliance Industries Ltd 7.50
+30 A21126502029 Komati Lokesh CHEM Male Reliance Industries Ltd 7.50
+31 A21126512059 Singuru Pooja Pushkarani ECE Female Dalton IT Solutions 6.80
+32 A21126510039 Maddu Renuka CSE Female Cognizant Genc Next 6.75
+33 A21126510093 Karanam Venkata Sai Durga Darshini CSE Female Cognizant Genc Next 6.75
+34 A21126510162 Jyothika Inupakuthika CSE Female Cognizant Genc Next 6.75
+35 A21126510180 Padmanabhuni Deepika Thanmayi CSE Female Cognizant Genc Next 6.75
+36 A21126510188 Singuru Taniya CSE Female Cognizant Genc Next 6.75
+37 A21126511040 Munakala Reshwanth IT Male Cognizant Genc Next 6.75
+38 A21126552020 Khaithapalli Bhuvana Sri CSE-AI&ML Female o9 Solutions 6.50
+39 A21126552002 Angajala Kiran Kumar CSE-AI&ML Male o9 Solutions 6.50
+40 A21126510023 K V K Saibhaskar CSE Male Infosys Ltd. 6.25
+41 A21126510083 Gondyala Kalicharan CSE Male Infosys Ltd. 6.25
+42 A21126511057 Surla Pavan Kumar IT Male Infosys Ltd. 6.25
+43 A21126511139 Harithus V G S Attivilli IT Male Infosys Ltd. 6.25
+44 A21126511146 Beesetty Viswesh Satyavardhan IT Male Infosys Ltd. 6.25
+45 A21126512063 Tamarala Namrata Varshini ECE Female Infosys Ltd. 6.25
+46 A21126552021 Kongani Sai Manikanta Yadav CSE-AI&ML Male Infosys Ltd. 6.25
+47 A21126511120 Samudrala Amrutha IT Female Infosys Ltd. 6.25
+48 A21126510079 Dhavaleswarapu Chaitanya CSE Male Apxor 6.00
+49 A21126502004 Bollapragada V N Lakshmi Gnanasai CHEM Female Dexterity Edtech Pvt Ltd 6.00
+50 A21126551042 Penki Vinay Deepika CSD-DS Female Dexterity Edtech Pvt Ltd 6.00
+51 A21126512007 Chereddy Surya Kiran Reddy ECE Male Dexterity Edtech Pvt Ltd 6.00
+52 A21126512011 Dasari Navyasri ECE Female Dexterity Edtech Pvt Ltd 6.00
+53 A21126512020 Ippili Deepika ECE Female Dexterity Edtech Pvt Ltd 6.00
+54 A21126512031 Kurapati Anjani ECE Female Dexterity Edtech Pvt Ltd 6.00
+55 A21126512032 Malla Sai Thanuj ECE Male Dexterity Edtech Pvt Ltd 6.00
+56 A21126512035 Marri Vasantha Kumari ECE Female Dexterity Edtech Pvt Ltd 6.00
+57 A21126512041 Mongam Charishma ECE Female Dexterity Edtech Pvt Ltd 6.00
+58 A21126512042 Mullangi. Naga Pratheepa ECE Female Dexterity Edtech Pvt Ltd 6.00
+59 A21126512045 Padarthy Lakshmi Venkata Snehitha ECE Female Dexterity Edtech Pvt Ltd 6.00
+60 A21126512053 Rongali Neelima ECE Female Dexterity Edtech Pvt Ltd 6.00
+61 A21126512059 Singuru Pooja Pushkarani ECE Female Dexterity Edtech Pvt Ltd 6.00
+62 A21126512061 Surapathi Padma ECE Female Dexterity Edtech Pvt Ltd 6.00
+63 A21126512063 Tamarala Namrata Varshini ECE Female Dexterity Edtech Pvt Ltd 6.00
+64 A21126512067 Yaswanth Sai Bhaskar Balaga ECE Male Dexterity Edtech Pvt Ltd 6.00
+65 A21126512072 Boyina Rashmitha ECE Female Dexterity Edtech Pvt Ltd 6.00
+66 A21126512084 Gorrela Lakshmi Srivalli ECE Female Dexterity Edtech Pvt Ltd 6.00
+67 A21126512087 Gunana Sai Harsha Vardhan ECE Male Dexterity Edtech Pvt Ltd 6.00
+68 A21126512089 Nakka Jahnavi ECE Female Dexterity Edtech Pvt Ltd 6.00
+69 A21126512090 Joda Richard Rezeen ECE Male Dexterity Edtech Pvt Ltd 6.00
+70 A21126512093 Kollipaka Srilikitha ECE Female Dexterity Edtech Pvt Ltd 6.00
+71 A21126512099 Madabattula Sampath Kumar ECE Male Dexterity Edtech Pvt Ltd 6.00
+72 A21126512106 Nikhat Sulthana ECE Female Dexterity Edtech Pvt Ltd 6.00
+73 A21126512118 Surada Karthik ECE Male Dexterity Edtech Pvt Ltd 6.00
+74 A21126512125 Veyyidhalamula. Chandra Shekar ECE Male Dexterity Edtech Pvt Ltd 6.00
+75 A21126512131 Bandaru Kurmalingam ECE Male Dexterity Edtech Pvt Ltd 6.00
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+76 A21126512135 Darisi Asritha ECE Female Dexterity Edtech Pvt Ltd 6.00
+77 A21126512144 Kalla Dhanya Sri ECE Female Dexterity Edtech Pvt Ltd 6.00
+78 A21126512149 L.Durgadevi ECE Female Dexterity Edtech Pvt Ltd 6.00
+79 A21126512155 Hima Bindu. Mavuru ECE Female Dexterity Edtech Pvt Ltd 6.00
+80 A21126512173 Harshini Naga Sai Durga ECE Female Dexterity Edtech Pvt Ltd 6.00
+81 A21126512184 Teki Rohith ECE Male Dexterity Edtech Pvt Ltd 6.00
+82 A21126512187 Vankayala Siva Kumar ECE Male Dexterity Edtech Pvt Ltd 6.00
+83 A21126512190 Yanamareddy Vesly Akshay Kumar Reddy ECE Male Dexterity Edtech Pvt Ltd 6.00
+84 A21126512191 Potta Sai Rathna Kumar ECE Male Dexterity Edtech Pvt Ltd 6.00
+85 A21126512198 Karri Anusha ECE Female Dexterity Edtech Pvt Ltd 6.00
+86 A21126512200 Nammi Bharadwaz ECE Male Dexterity Edtech Pvt Ltd 6.00
+87 A21126512201 Palasetti Kusuma ECE Female Dexterity Edtech Pvt Ltd 6.00
+88 A21126512204 Mohammad Abdul Rehaman Baig ECE Male Dexterity Edtech Pvt Ltd 6.00
+89 A21126512208 Anantharapu Swetha ECE Female Dexterity Edtech Pvt Ltd 6.00
+90 A21126512211 Bajanki Yamini Iswarya ECE Female Dexterity Edtech Pvt Ltd 6.00
+91 A21126514002 Allanki Jaya Veera Satya Anupama EEE Female Dexterity Edtech Pvt Ltd 6.00
+92 A21126514007 Bongi Amrutha EEE Female Dexterity Edtech Pvt Ltd 6.00
+93 A21126514008 Danda Dhana sree EEE Female Dexterity Edtech Pvt Ltd 6.00
+94 A21126514018 Guttikonda Varshitha Sai Priya EEE Female Dexterity Edtech Pvt Ltd 6.00
+95 A21126514021 Josyula Sai Sahitya EEE Female Dexterity Edtech Pvt Ltd 6.00
+96 A21126514030 Latchipatinipushpalatha EEE Female Dexterity Edtech Pvt Ltd 6.00
+97 A21126514031 Maddala Sreehitha EEE Female Dexterity Edtech Pvt Ltd 6.00
+98 A21126514032 Mallidi Karthik EEE Male Dexterity Edtech Pvt Ltd 6.00
+99 A21126514045 R Sushant EEE Male Dexterity Edtech Pvt Ltd 6.00
+100 A21126514048 Akhil Sattaru EEE Male Dexterity Edtech Pvt Ltd 6.00
+101 A21126514053 Telagalapudi Jaya Sandeep EEE Male Dexterity Edtech Pvt Ltd 6.00
+102 A21126514062 Adapa Asha Bhavani EEE Female Dexterity Edtech Pvt Ltd 6.00
+103 A21126514064 Akula Durga Prasad EEE Male Dexterity Edtech Pvt Ltd 6.00
+104 A21126514073 Buddana Leela Naga Devika EEE Female Dexterity Edtech Pvt Ltd 6.00
+105 A21126514074 C D Deepthi EEE Female Dexterity Edtech Pvt Ltd 6.00
+106 A21126514076 Chodavarapu Vishnuvardhan EEE Male Dexterity Edtech Pvt Ltd 6.00
+107 A21126514087 Sai Anil Gunuru EEE Male Dexterity Edtech Pvt Ltd 6.00
+108 A21126514102 Molli Bhavana Sai Sirisha EEE Female Dexterity Edtech Pvt Ltd 6.00
+109 A21126514105 Pasupuleti Leela EEE Female Dexterity Edtech Pvt Ltd 6.00
+110 A21126514106 Pathivada Devi EEE Female Dexterity Edtech Pvt Ltd 6.00
+111 A21126514111 Ramisetti Akash David EEE Male Dexterity Edtech Pvt Ltd 6.00
+112 A21126514119 Shinagam Swathi EEE Female Dexterity Edtech Pvt Ltd 6.00
+113 A21126514122 Thurpati Radhika EEE Female Dexterity Edtech Pvt Ltd 6.00
+114 A21126514167 Chindiri Raja Sampath Hitesh EEE Male Dexterity Edtech Pvt Ltd 6.00
+115 A21126511011 Divya Bejjam IT Female Dexterity Edtech Pvt Ltd 6.00
+116 A21126511012 Bodala Murali Anshith IT Male Dexterity Edtech Pvt Ltd 6.00
+117 A21126511022 Gudimella Venugopala Saran IT Male Dexterity Edtech Pvt Ltd 6.00
+118 A21126511023 Jammu Surya Teja IT Male Dexterity Edtech Pvt Ltd 6.00
+119 A21126511029 Karri Siri Varshini IT Female Dexterity Edtech Pvt Ltd 6.00
+120 A21126511041 Nagaraboyina Yaswant Kumar IT Male Dexterity Edtech Pvt Ltd 6.00
+121 A21126511043 Nambari Mohana Likitha IT Female Dexterity Edtech Pvt Ltd 6.00
+122 A21126511045 Palla Divyanjali IT Female Dexterity Edtech Pvt Ltd 6.00
+123 A21126511046 Pampana Sai Jeswanth IT Male Dexterity Edtech Pvt Ltd 6.00
+124 A21126511048 Pinapatruni Monika Anjani Swetha IT Female Dexterity Edtech Pvt Ltd 6.00
+125 A21126511051 Putireddi Goutham Ganesh IT Male Dexterity Edtech Pvt Ltd 6.00
+126 A21126511054 Solagam Chandra Sekhar IT Male Dexterity Edtech Pvt Ltd 6.00
+127 A21126511058 Talla Manikanta IT Male Dexterity Edtech Pvt Ltd 6.00
+128 A21126511071 Bayapureddy Prathyusha IT Female Dexterity Edtech Pvt Ltd 6.00
+129 A21126511090 Guttula Umesh Krishna Vamsi IT Male Dexterity Edtech Pvt Ltd 6.00
+130 A21126511091 Jaliparthi Vaishnavi IT Female Dexterity Edtech Pvt Ltd 6.00
+131 A21126511092 Kadambala Dharma Raju IT Male Dexterity Edtech Pvt Ltd 6.00
+132 A21126511093 Kanimireddy Divya IT Female Dexterity Edtech Pvt Ltd 6.00
+133 A21126511098 Kotcharla Sravika IT Female Dexterity Edtech Pvt Ltd 6.00
+134 A21126511109 Nakkapalli Keerthi Sushma IT Female Dexterity Edtech Pvt Ltd 6.00
+135 A21126511121 Samuroutu Niveditha IT Female Dexterity Edtech Pvt Ltd 6.00
+136 A21126511130 Vandrasi Koushik IT Male Dexterity Edtech Pvt Ltd 6.00
+137 A21126511133 AAVULA INDRA REDDY IT Male Dexterity Edtech Pvt Ltd 6.00
+138 A21126511136 Andhavarapu Neethisha IT Female Dexterity Edtech Pvt Ltd 6.00
+139 A21126511141 Bagadi Keershita IT Female Dexterity Edtech Pvt Ltd 6.00
+140 A21126511143 Bandaru Chaitanya IT Male Dexterity Edtech Pvt Ltd 6.00
+141 A21126511147 Boddhuru Vamsi Krishna IT Male Dexterity Edtech Pvt Ltd 6.00
+142 A21126511154 Doki Deekshitha IT Female Dexterity Edtech Pvt Ltd 6.00
+143 A21126511156 Geada Kishore IT Male Dexterity Edtech Pvt Ltd 6.00
+144 A21126511157 Gottipalli Shishira IT Female Dexterity Edtech Pvt Ltd 6.00
+145 A21126511163 Konduru Niteesh Kumar IT Male Dexterity Edtech Pvt Ltd 6.00
+146 A21126511177 Moningi Jhansi IT Female Dexterity Edtech Pvt Ltd 6.00
+147 A21126511183 Ratiram Sharma IT Male Dexterity Edtech Pvt Ltd 6.00
+148 A21126511191 Unna Madhuri IT Female Dexterity Edtech Pvt Ltd 6.00
+149 A21126511193 Vankadari Jnana Sai Varun IT Male Dexterity Edtech Pvt Ltd 6.00
+150 A21126511197 Yagalla Gopal Naidu IT Male Dexterity Edtech Pvt Ltd 6.00
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+151 A21126511201 Mohammad Nihaal IT Male Dexterity Edtech Pvt Ltd 6.00
+152 A21126511213 Velaga Aswini Lavanya IT Female Dexterity Edtech Pvt Ltd 6.00
+153 A21126511214 Adari Ganesh Kumar IT Male Dexterity Edtech Pvt Ltd 6.00
+154 A21126520008 Chettupalli Snigdha Rani MECH Female Dexterity Edtech Pvt Ltd 6.00
+155 A21126520020 Kampara Naga Venkata Rama Rao MECH Male Dexterity Edtech Pvt Ltd 6.00
+156 A21126520021 Kamsu Sai Krishna Sahu MECH Male Dexterity Edtech Pvt Ltd 6.00
+157 A21126520023 Kasi Supriya MECH Female Dexterity Edtech Pvt Ltd 6.00
+158 A21126520035 Pandiri Mouli MECH Male Dexterity Edtech Pvt Ltd 6.00
+159 A21126520040 Rebaka Prasanna Kumar MECH Male Dexterity Edtech Pvt Ltd 6.00
+160 A21126520041 S V V A Kumar MECH Male Dexterity Edtech Pvt Ltd 6.00
+161 A21126520049 Udarla.Tharun Kumar MECH Male Dexterity Edtech Pvt Ltd 6.00
+162 A21126520051 Vankayalapati Venkata Ravindra MECH Male Dexterity Edtech Pvt Ltd 6.00
+163 A21126520056 Akula Rakesh MECH Male Dexterity Edtech Pvt Ltd 6.00
+164 A21126520058 Amujuru Bharat MECH Male Dexterity Edtech Pvt Ltd 6.00
+165 A21126520062 Bandaru Rohitha MECH Female Dexterity Edtech Pvt Ltd 6.00
+166 A21126520064 Bandi Ganesh MECH Male Dexterity Edtech Pvt Ltd 6.00
+167 A21126520068 Chori Shanmukh MECH Male Dexterity Edtech Pvt Ltd 6.00
+168 A21126520070 Dasari Narendra Sai MECH Male Dexterity Edtech Pvt Ltd 6.00
+169 A21126520072 Datti Navya MECH Female Dexterity Edtech Pvt Ltd 6.00
+170 A21126520083 Lalam Sai Rohini MECH Female Dexterity Edtech Pvt Ltd 6.00
+171 A21126520102 Seerapu Sivaganesh MECH Male Dexterity Edtech Pvt Ltd 6.00
+172 A21126520105 Surla Sai Saritha MECH Female Dexterity Edtech Pvt Ltd 6.00
+173 A21126520106 Prem Joy Sutti MECH Male Dexterity Edtech Pvt Ltd 6.00
+174 A21126520150 Pinapolu Gangarao MECH Male Dexterity Edtech Pvt Ltd 6.00
+175 A21126520151 Prasant Mantri MECH Male Dexterity Edtech Pvt Ltd 6.00
+176 A21126520152 Puliga Pavan Venkata Teja MECH Male Dexterity Edtech Pvt Ltd 6.00
+177 A21126520155 Reddy Shanmukha Sagar MECH Male Dexterity Edtech Pvt Ltd 6.00
+178 A21126520163 Vechalapu Manikanta MECH Male Dexterity Edtech Pvt Ltd 6.00
+179 A21126520165 Avinash Vinnakota MECH Male Dexterity Edtech Pvt Ltd 6.00
+180 A21126520171 Kanchi Rohit Kumar MECH Male Dexterity Edtech Pvt Ltd 6.00
+181 A21126520186 Gundu.Vinodh MECH Male Dexterity Edtech Pvt Ltd 6.00
+182 A21126520198 Sesetty Bhargavi MECH Female Dexterity Edtech Pvt Ltd 6.00
+183 A21126520199 Balya Banavathu MECH Male Dexterity Edtech Pvt Ltd 6.00
+184 A21126520213 Dandasi Chaitanya MECH Male Dexterity Edtech Pvt Ltd 6.00
+185 A21126520214 Mutyala Sai Srinivas Prasad MECH Male Dexterity Edtech Pvt Ltd 6.00
+186 A21126520219 Korasala Naveen MECH Male Dexterity Edtech Pvt Ltd 6.00
+187 A21126520233 Adapa Jathin MECH Male Dexterity Edtech Pvt Ltd 6.00
+188 A21126510049 Phaneendra Ratnala CSE Male Inncircles 6.00
+189 A21126511040 Munakala Reshwanth IT Male Inncircles 6.00
+190 A21126511052 Robbi Lalithanjali IT Female Inncircles 6.00
+191 A21126512102 Mukka Chandrika ECE Female Moschips 6.00
+192 A21126512128 Aman Syed ECE Male Moschips 6.00
+193 A21126512132 Boddeda Vennela ECE Female Moschips 6.00
+194 A21126512196 Guri Vinod Kumar ECE Male Moschips 6.00
+195 A21126502031 Mahanthi Sai Kumar CHEM Male Pinnacle 6.00
+196 A21126520127 Kalivarapu Sravya Sree MECH Female Pinnacle 6.00
+197 A21126510016 Dhuli Tarun Varaha Sai CSE Male Track3d (Fresherbot) 6.00
+198 A21126510171 Akhila Kethagani CSE Female Track3d (Fresherbot) 6.00
+199 A21126511095 Korada Jawahar Naidu IT Male Track3d (Fresherbot) 6.00
+200 A21126511131 Vasuta Kuchhadia IT Female Track3d (Fresherbot) 6.00
+201 A21126511146 Beesetty Viswesh Satyavardhan IT Male Track3d (Fresherbot) 6.00
+202 A21126520073 Dhiren Kumar MECH Male Medha Servo Drives 5.50
+203 A21126520191 Gembali Vamsi MECH Male Medha Servo Drives 5.50
+204 A21126520217 Abotula Vamsi Krishna MECH Male Medha Servo Drives 5.50
+205 A21126520227 Akula Venkata Sai Ramesh MECH Male Medha Servo Drives 5.50
+206 A21126552001 Addagarla Sai Gowthami CSE-AI&ML Female Efftronics 5.30
+207 A21126512055 Senapati Sai Rahul ECE Male Efftronics 5.30
+208 A21126512177 SARVASUDDI RAHUL ECE Male Efftronics 5.30
+209 A21126511081 Chodagiri N V S S Durga Prasad IT Male Efftronics 5.30
+210 A21126514132 Kannuru Ganesh EEE Male Medha Servo Drives 5.16
+211 A21126514151 Hanumanthu Lakshmana Rao EEE Male Medha Servo Drives 5.16
+212 A21126514169 Katchala Ramakrishna EEE Male Medha Servo Drives 5.16
+213 A21126510137 Baratam Manichandana CSE Female Jman Group 5.00
+214 A21126510165 Kanchipati Varshith CSE Male Jman Group 5.00
+215 A21126511112 Padavala Sai IT Male Jman Group 5.00
+216 A21126511015 Budi Ramya IT Female FlintLab 4.80
+217 A21126551025 Kakarla Manikanta CSD-DS Male Nocac Ventures Private Limited 4.80
+218 A21126510054 Sai Komal Somireddi CSE Male Hansa Solutions 4.50
+219 A21126510096 Kota Sharimila CSE Female Hansa Solutions 4.50
+220 A21126510105 Mohammed Nisar Shareef CSE Male Hansa Solutions 4.50
+221 A21126510133 Abhishek Ratho CSE Male Hansa Solutions 4.50
+222 A21126508001 Balla Rama Krishna Civil Male MEIL 4.50
+223 A21126508003 Bhadri Keerthana Priya Civil Female MEIL 4.50
+224 A21126508004 Boppe Taruna Phaneendra Civil Male MEIL 4.50
+225 A21126508006 Buddi.Teja Vardhan Civil Male MEIL 4.50
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+226 A21126508009 Gandikota Somasekhar Civil Male MEIL 4.50
+227 A21126508010 Gangu Koteswararao Civil Male MEIL 4.50
+228 A21126508012 Gunapu Rajasekhar Civil Male MEIL 4.50
+229 A21126508015 Kaligi Yaswanth Civil Male MEIL 4.50
+230 A21126508016 Kaligotla Manoj Satwik Civil Male MEIL 4.50
+231 A21126508020 Ladi Sai Jaswanth Civil Male MEIL 4.50
+232 A21126508023 Nethinti Bala Kumar Civil Male MEIL 4.50
+233 A21126508024 Pappla Bharath Kumar Civil Male MEIL 4.50
+234 A21126508026 Potnuru Bharath Kumar Civil Male MEIL 4.50
+235 A21126508028 Pukkalla Naveen Civil Male MEIL 4.50
+236 A21126508035 Vegi Dhusyanth Prasad Civil Male MEIL 4.50
+237 A21126508036 Yerra Chandra Sekhar Civil Male MEIL 4.50
+238 A21126508038 Kilari Shyam Satya Vasista Civil Male MEIL 4.50
+239 A21126508039 Paidi Divya Civil Female MEIL 4.50
+240 A21126508040 Muribandala Surya Civil Male MEIL 4.50
+241 A21126508042 Gavireddi Dinesh Kumar Civil Male MEIL 4.50
+242 A21126508043 Yandava Karthik Civil Male MEIL 4.50
+243 A21126508044 Duggirala Raja Civil Male MEIL 4.50
+244 A21126508045 Ellinki Lakshmi Narayana Civil Male MEIL 4.50
+245 A21126508048 Tummala Uma Raja Civil Male MEIL 4.50
+246 A21126508049 Mahesh Babu Dasari Civil Male MEIL 4.50
+247 A21126508051 Gollangi Venu Gopal Civil Male MEIL 4.50
+248 A21126508054 Balabadra.Alekhya Civil Female MEIL 4.50
+249 A21126508055 Bandi Ravikiran Civil Male MEIL 4.50
+250 A21126508058 Gollu Chaitanya Civil Male MEIL 4.50
+251 A21126508059 Pedada Rajasekhar Civil Male MEIL 4.50
+252 A21126508060 Siragam Aravind Kumar Civil Male MEIL 4.50
+253 A21126514003 Ambadipudi Akash Babu EEE Male MEIL 4.50
+254 A21126514004 Badri Rahul EEE Male MEIL 4.50
+255 A21126514005 Bamdaru Vamsi Sai EEE Male MEIL 4.50
+256 A21126514023 Kollati Rajesh EEE Male MEIL 4.50
+257 A21126514029 Lakkimsetti Kota Naga Veera V Srinivas EEE Male MEIL 4.50
+258 A21126514035 Mimmithi Aditya EEE Male MEIL 4.50
+259 A21126514039 Pala.Kumar Surya EEE Male MEIL 4.50
+260 A21126514040 Palla Subrahmanyam EEE Male MEIL 4.50
+261 A21126514043 Pisini Raghuvarma EEE Male MEIL 4.50
+262 A21126514045 R Sushant EEE Male MEIL 4.50
+263 A21126514046 Reddi Lakshminadh EEE Male MEIL 4.50
+264 A21126514047 Sanapala Ramana Babu EEE Male MEIL 4.50
+265 A21126514048 Akhil Sattaru EEE Male MEIL 4.50
+266 A21126514050 Siriki Jagadeesh Kumar EEE Male MEIL 4.50
+267 A21126514051 Sirimalla Deva Ganesh Sai Satya Lingam EEE Male MEIL 4.50
+268 A21126514058 Yannamreddy Durga Hemanth EEE Male MEIL 4.50
+269 A21126514060 Yedla Surya Sandeep EEE Male MEIL 4.50
+270 A21126514064 Akula Durga Prasad EEE Male MEIL 4.50
+271 A21126514066 Amit Singh EEE Male MEIL 4.50
+272 A21126514068 Arrepu Venkatesh EEE Male MEIL 4.50
+273 A21126514069 Bagati Sarath EEE Male MEIL 4.50
+274 A21126514076 Chodavarapu Vishnuvardhan EEE Male MEIL 4.50
+275 A21126514077 Chodiganji Tarun EEE Male MEIL 4.50
+276 A21126514080 Dendeti Satish Chandra EEE Male MEIL 4.50
+277 A21126514082 Sasi Kumar Ganta EEE Male MEIL 4.50
+278 A21126514089 Rohit Jami EEE Male MEIL 4.50
+279 A21126514093 Kanchipati Srinivas EEE Male MEIL 4.50
+280 A21126514094 Kandregula Venkata Ajay EEE Male MEIL 4.50
+281 A21126514095 Kattula Vinay EEE Male MEIL 4.50
+282 A21126514096 Kolli Ashok Kumar EEE Male MEIL 4.50
+283 A21126514098 Kshathriya Chaithanya Singh EEE Male MEIL 4.50
+284 A21126514100 Maddukuri Dhanush Teja EEE Male MEIL 4.50
+285 A21126514104 Pasala V R S Tejeswar EEE Male MEIL 4.50
+286 A21126514109 Rai Bhanu Prasad EEE Male MEIL 4.50
+287 A21126514117 Sasank Varada EEE Male MEIL 4.50
+288 A21126514127 Sampreeth Buddha EEE Male MEIL 4.50
+289 A21126514139 Md Jaheer Ashraf EEE Male MEIL 4.50
+290 A21126514142 Vanumu Raviteja EEE Male MEIL 4.50
+291 A21126514144 Karumoju Dheeraj EEE Male MEIL 4.50
+292 A21126514148 Alla Himanth Kumar EEE Male MEIL 4.50
+293 A21126514149 Siraparapu Siddhu Kumar EEE Male MEIL 4.50
+294 A21126514150 Dadi Shaketh EEE Male MEIL 4.50
+295 A21126514151 Hanumanthu Lakshmana Rao EEE Male MEIL 4.50
+296 A21126514154 Bodapati Lokesh EEE Male MEIL 4.50
+297 A21126514157 Boddeda Revanth Vishnu Sai Kumar EEE Male MEIL 4.50
+298 A21126514158 Chinta Sudheer EEE Male MEIL 4.50
+299 A21126514159 Nalli Bharath Kumar EEE Male MEIL 4.50
+300 A21126514160 Kanuri Kumaraswamy EEE Male MEIL 4.50
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+301 A21126514168 Gitta Rajesh EEE Male MEIL 4.50
+302 A21126514169 Katchala Ramakrishna EEE Male MEIL 4.50
+303 A21126514171 Yepuri Padma Sudeep EEE Male MEIL 4.50
+304 A21126514174 Irfan Mohammed EEE Male MEIL 4.50
+305 A21126514175 Degala Sai Durga Prasad EEE Male MEIL 4.50
+306 A21126520002 Balivada Ashrith MECH Male MEIL 4.50
+307 A21126520003 Barla Ramesh MECH Male MEIL 4.50
+308 A21126520005 Beri Neeraj Reddy MECH Male MEIL 4.50
+309 A21126520010 Dasari Srinu MECH Male MEIL 4.50
+310 A21126520014 Gullipalli.Venkata Ramana MECH Male MEIL 4.50
+311 A21126520015 Guravani Sunandhan Varaprasad MECH Male MEIL 4.50
+312 A21126520018 Dinesh Jithuka MECH Male MEIL 4.50
+313 A21126520019 Kalla.Sai Gowtham MECH Male MEIL 4.50
+314 A21126520020 Kampara Naga Venkata Rama Rao MECH Male MEIL 4.50
+315 A21126520025 Srinivas Manchala MECH Male MEIL 4.50
+316 A21126520026 Mandarapu Tarak Ram Vignesh MECH Male MEIL 4.50
+317 A21126520028 Medisetti Manoj kumar MECH Male MEIL 4.50
+318 A21126520035 Pandiri Mouli MECH Male MEIL 4.50
+319 A21126520037 Peruri Siddardha MECH Male MEIL 4.50
+320 A21126520039 Polipalli Karthikeya MECH Male MEIL 4.50
+321 A21126520040 Rebaka Prasanna Kumar MECH Male MEIL 4.50
+322 A21126520045 Shaik Shahid MECH Male MEIL 4.50
+323 A21126520046 Sripathi Preetam Raj MECH Male MEIL 4.50
+324 A21126520049 Udarla.Tharun Kumar MECH Male MEIL 4.50
+325 A21126520057 Allumallu Vinodh MECH Male MEIL 4.50
+326 A21126520058 Amujuru Bharat MECH Male MEIL 4.50
+327 A21126520059 Anisetti Sai Surya Saketh MECH Male MEIL 4.50
+328 A21126520060 Ayi Sai Kiran MECH Male MEIL 4.50
+329 A21126520066 Boddepalli Dileep MECH Male MEIL 4.50
+330 A21126520070 Dasari Narendra Sai MECH Male MEIL 4.50
+331 A21126520071 Dasari Nikhil Varma MECH Male MEIL 4.50
+332 A21126520078 Jonnada Dhanush MECH Male MEIL 4.50
+333 A21126520080 Kommoju Leela Prasad MECH Male MEIL 4.50
+334 A21126520087 Malla Ravi Tharun MECH Male MEIL 4.50
+335 A21126520090 Muddada Balaji MECH Male MEIL 4.50
+336 A21126520091 Naidhana Jayakrishnayadav MECH Male MEIL 4.50
+337 A21126520094 Pediredla Sankararao MECH Male MEIL 4.50
+338 A21126520095 P V S Samhith MECH Male MEIL 4.50
+339 A21126520098 Rishu Kumar Singh MECH Male MEIL 4.50
+340 A21126520102 Seerapu Sivaganesh MECH Male MEIL 4.50
+341 A21126520104 Sistu Jaswant MECH Male MEIL 4.50
+342 A21126520108 Venkata Rama Vakada MECH Male MEIL 4.50
+343 A21126520111 Yedla Uday Kiran MECH Male MEIL 4.50
+344 A21126520112 A D S Sampath MECH Male MEIL 4.50
+345 A21126520113 Balji Manoj Naidu MECH Male MEIL 4.50
+346 A21126520116 Boddu Manohar MECH Male MEIL 4.50
+347 A21126520117 Bonugu Uma Srinivas Lakshmi Narayana MECH Male MEIL 4.50
+348 A21126520118 Chandaka Surendra MECH Male MEIL 4.50
+349 A21126520121 Gollu Kishore MECH Male MEIL 4.50
+350 A21126520122 Gorla Uma Sankar MECH Male MEIL 4.50
+351 A21126520124 Illa Guna Chakri MECH Male MEIL 4.50
+352 A21126520133 Kevin Dominic Sequeira MECH Male MEIL 4.50
+353 A21126520134 Kolanki Dhanunjai MECH Male MEIL 4.50
+354 A21126520138 Majji Harsha Vardhan rao MECH Male MEIL 4.50
+355 A21126520141 Manikanta swami Mahapatro MECH Male MEIL 4.50
+356 A21126520147 Pativada Durgaprasad MECH Male MEIL 4.50
+357 A21126520150 Pinapolu Gangarao MECH Male MEIL 4.50
+358 A21126520151 Prasant Mantri MECH Male MEIL 4.50
+359 A21126520155 Reddy Shanmukha Sagar MECH Male MEIL 4.50
+360 A21126520156 Rikka Kalyan Reddy MECH Male MEIL 4.50
+361 A21126520161 Vana Gnaneswar Rao MECH Male MEIL 4.50
+362 A21126520162 Vana Ravi Shankar MECH Male MEIL 4.50
+363 A21126520163 Vechalapu Manikanta MECH Male MEIL 4.50
+364 A21126520164 Vidudala Siva MECH Male MEIL 4.50
+365 A21126520168 Vaddadi Tharun MECH Male MEIL 4.50
+366 A21126520169 Molli Manoj Kumar MECH Male MEIL 4.50
+367 A21126520170 Velaganati Satwik Varma MECH Male MEIL 4.50
+368 A21126520171 Kanchi Rohit Kumar MECH Male MEIL 4.50
+369 A21126520177 Chandrasekhar Balireddy MECH Male MEIL 4.50
+370 A21126520179 Harish Gotivada MECH Male MEIL 4.50
+371 A21126520181 Sarathchandra MECH Male MEIL 4.50
+372 A21126520182 Sanapathi Meher Dhanush MECH Male MEIL 4.50
+373 A21126520185 Vanapalli Rajesh MECH Male MEIL 4.50
+374 A21126520186 Gundu.Vinodh MECH Male MEIL 4.50
+375 A21126520188 Kintada Kishore MECH Male MEIL 4.50
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+376 A21126520189 Reddy Kiran Kumar MECH Male MEIL 4.50
+377 A21126520190 Kaki Sai Chaitanya MECH Male MEIL 4.50
+378 A21126520193 Manem Saisudha MECH Male MEIL 4.50
+379 A21126520196 Bonthu Vishal MECH Male MEIL 4.50
+380 A21126520200 Latchubugatha.Manikanta MECH Male MEIL 4.50
+381 A21126520201 Gantyada Lithin Roshik MECH Male MEIL 4.50
+382 A21126520202 Busakala Santhosh Kumar MECH Male MEIL 4.50
+383 A21126520209 Kommana Venkatesha Karthikeya MECH Male MEIL 4.50
+384 A21126520212 Gowripattapu Sampath Vinayak Achari MECH Male MEIL 4.50
+385 A21126520214 Mutyala Sai Srinivas Prasad MECH Male MEIL 4.50
+386 A21126520219 Korasala Naveen MECH Male MEIL 4.50
+387 A21126520223 Baswanth Kakkirala MECH Male MEIL 4.50
+388 A21126520224 Guntamukkala Sasiraj MECH Male MEIL 4.50
+389 A21126520225 Dhavala Ganesh MECH Male MEIL 4.50
+390 A21126520226 Sirla Charanraju MECH Male MEIL 4.50
+391 A21126520231 Yalamanchili Krishna Vamsi MECH Male MEIL 4.50
+392 A21126520232 Molleti Sai Ramesh Gopi MECH Male MEIL 4.50
+393 A21126508005 Buddala Sri Lalitha Civil Female MEIL 4.50
+394 A21126508008 Doppa Harini Civil Female MEIL 4.50
+395 A21126508018 Kella Rama Lakshmi Civil Female MEIL 4.50
+396 A21126508022 Nella Trishu Civil Female MEIL 4.50
+397 A21126508025 Ponnada Gnaneswari Civil Female MEIL 4.50
+398 A21126508027 Potnuru Laxmi Siva Surya Narayanamurthy Civil Male MEIL 4.50
+399 A21126508037 Yerra Renuka Civil Female MEIL 4.50
+400 A21126508047 Yedla Ramalakshmi Civil Female MEIL 4.50
+401 A21126508057 Tamminaina Manjusha Civil Female MEIL 4.50
+402 A21126514006 Bokam Sravan Kumar EEE Male MEIL 4.50
+403 A21126514010 Deddam.Navaneeth EEE Male MEIL 4.50
+404 A21126514013 Gavara Dinesh EEE Male MEIL 4.50
+405 A21126514015 Gorle Bhaskararao EEE Male MEIL 4.50
+406 A21126514019 Inti Abhishek EEE Male MEIL 4.50
+407 A21126514020 Jerripothula Gnanendra EEE Male MEIL 4.50
+408 A21126514022 Kancharana Manohar EEE Male MEIL 4.50
+409 A21126514024 Kona Rakesh EEE Male MEIL 4.50
+410 A21126514025 Kontala Rohith EEE Male MEIL 4.50
+411 A21126514028 Lagisetti Sanjay Kumar EEE Male MEIL 4.50
+412 A21126514032 Mallidi Karthik EEE Male MEIL 4.50
+413 A21126514041 Hemanth Pechetti EEE Male MEIL 4.50
+414 A21126514057 Yalla Raviteja EEE Male MEIL 4.50
+415 A21126514059 Yedla.Bharath Kumar EEE Male MEIL 4.50
+416 A21126514071 Basava Jagadeesh Manikanta EEE Male MEIL 4.50
+417 A21126514081 Doddi Mani Kiran EEE Male MEIL 4.50
+418 A21126514083 Gokada Vivek EEE Male MEIL 4.50
+419 A21126514084 Gorapalli Vikas EEE Male MEIL 4.50
+420 A21126514087 Sai Anil Gunuru EEE Male MEIL 4.50
+421 A21126514092 Kadari.Rohith Kumar EEE Male MEIL 4.50
+422 A21126514101 Menda Sathya Surya Jayanth EEE Male MEIL 4.50
+423 A21126514111 Ramisetti Akash David EEE Male MEIL 4.50
+424 A21126514113 Sabbavarapu Nitish Naidu EEE Male MEIL 4.50
+425 A21126514114 Sai Kumar Korikana EEE Male MEIL 4.50
+426 A21126514121 Tekkali Pradeep Kumar EEE Male MEIL 4.50
+427 A21126514124 Visinigiri Sai Prasanth EEE Male MEIL 4.50
+428 A21126514126 Pragada Umesh Chandra EEE Male MEIL 4.50
+429 A21126514130 Sreeram Ravi Kiran EEE Male MEIL 4.50
+430 A21126514134 Varri Ravindra EEE Male MEIL 4.50
+431 A21126514140 Ponnada Dinesh EEE Male MEIL 4.50
+432 A21126514143 Andavarapu Naveen Kumar EEE Male MEIL 4.50
+433 A21126514145 Chenna Harish EEE Male MEIL 4.50
+434 A21126514152 Chelluboina Krishna EEE Male MEIL 4.50
+435 A21126514156 Bora Nikhil EEE Male MEIL 4.50
+436 A21126514161 Korada.Vamsi EEE Male MEIL 4.50
+437 A21126514172 Nakka Dilleswara Rao EEE Male MEIL 4.50
+438 A21126514173 Vavilapalli Rajasekhar EEE Male MEIL 4.50
+439 A21126514180 Chowdari Pavan Kumar EEE Male MEIL 4.50
+440 A21126520009 Chokkapu Saikiran MECH Male MEIL 4.50
+441 A21126520022 Karada Vinay MECH Male MEIL 4.50
+442 A21126520034 Palasiveeravenkatasatyanarayana MECH Male MEIL 4.50
+443 A21126520055 Abdul Sami MECH Male MEIL 4.50
+444 A21126520056 Akula Rakesh MECH Male MEIL 4.50
+445 A21126520061 Badugu Akash MECH Male MEIL 4.50
+446 A21126520067 Burela Satya Sai Akhil MECH Male MEIL 4.50
+447 A21126520074 Dummu Madhu Vivek MECH Male MEIL 4.50
+448 A21126520077 Guttavilli Chandra Shekar MECH Male MEIL 4.50
+449 A21126520088 Marneedi Vara Dinesh MECH Male MEIL 4.50
+450 A21126520092 Neeraj Sahu MECH Male MEIL 4.50
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+451 A21126520097 Pulletikurthi Rohit Sai Krishna MECH Male MEIL 4.50
+452 A21126520099 Sabbavarapu Manikanta Kumar MECH Male MEIL 4.50
+453 A21126520101 Satyala Ajaysathwik MECH Male MEIL 4.50
+454 A21126520107 Thrivesh Kante MECH Male MEIL 4.50
+455 A21126520110 Vuppuluri Sai Kiran MECH Male MEIL 4.50
+456 A21126520123 Hanumantu.Hemath Kumar MECH Male MEIL 4.50
+457 A21126520126 Kagitapalli Ganesh MECH Male MEIL 4.50
+458 A21126520130 Kantreddi Rahul MECH Male MEIL 4.50
+459 A21126520131 Kapusetti Tharunkumar MECH Male MEIL 4.50
+460 A21126520137 Lenkadhanunjay MECH Male MEIL 4.50
+461 A21126520140 Hariswara Reddy Manchikanti MECH Male MEIL 4.50
+462 A21126520149 Petli Manikanta Santhosh Saikiran MECH Male MEIL 4.50
+463 A21126520152 Puliga Pavan Venkata Teja MECH Male MEIL 4.50
+464 A21126520159 Thallapureddy Jagan MECH Male MEIL 4.50
+465 A21126520167 Jannada Tarunkumar MECH Male MEIL 4.50
+466 A21126520172 Dadi Leela Kiran MECH Male MEIL 4.50
+467 A21126520174 Vishal Gudepu MECH Male MEIL 4.50
+468 A21126520197 Bhukya Uday Kiran MECH Male MEIL 4.50
+469 A21126520199 Balya Banavathu MECH Male MEIL 4.50
+470 A21126520204 Sabbavarapu Lokesh MECH Male MEIL 4.50
+471 A21126520213 Dandasi Chaitanya MECH Male MEIL 4.50
+472 A21126520216 Putta Bhaskar Rao MECH Male MEIL 4.50
+473 A21126520228 Koppala Bheemaraju MECH Male MEIL 4.50
+474 A21126520230 Reddi Naveen MECH Male MEIL 4.50
+475 A21126520233 Adapa Jathin MECH Male MEIL 4.50
+476 A21126510099 Maradana Naga Divya Sri CSE Female HCL 4.25
+477 A21126511020 Erlanki Ruchita IT Female HCL 4.25
+478 A21126511065 Yogitha Pukkalla IT Female HCL 4.25
+479 A21126511162 Kona Manasa Lakshmi IT Female HCL 4.25
+480 A21126512154 Manda Bala Sai Prasad ECE Male Avantel 4.20
+481 A21126551007 Battula Harish CSD-DS Male Cognizant Genc 4.00
+482 A21126551008 Beesetty Supriya CSD-DS Female Cognizant Genc 4.00
+483 A21126551014 Chitikela Yuvaraju CSD-DS Male Cognizant Genc 4.00
+484 A21126551017 Duppatla Ruchita CSD-DS Female Cognizant Genc 4.00
+485 A21126551018 Geddam Sathwik CSD-DS Male Cognizant Genc 4.00
+486 A21126551024 Jaswanth Kondeti CSD-DS Male Cognizant Genc 4.00
+487 A21126551031 Meka Veda Varshini CSD-DS Female Cognizant Genc 4.00
+488 A21126551045 Pusarla Venkata Sai Naga Vyshnavi CSD-DS Female Cognizant Genc 4.00
+489 A21126551052 Sana Sushma CSD-DS Female Cognizant Genc 4.00
+490 A21126551065 Vechalapu Hima Priya CSD-DS Female Cognizant Genc 4.00
+491 A21126551066 Yalla Satya Vijaya Laxmi CSD-DS Female Cognizant Genc 4.00
+492 A21126510002 Alikana Sai Kiran CSE Male Cognizant Genc 4.00
+493 A21126510003 Allada Sai Mounika CSE Female Cognizant Genc 4.00
+494 A21126510028 Kayala Dilesh Kumar CSE Male Cognizant Genc 4.00
+495 A21126510032 Kota Ram Kumar CSE Male Cognizant Genc 4.00
+496 A21126510035 Lalith Akash Kolli CSE Male Cognizant Genc 4.00
+497 A21126510036 Lanka Abhinav Kumar CSE Male Cognizant Genc 4.00
+498 A21126510047 Pangi Nireesha CSE Female Cognizant Genc 4.00
+499 A21126510063 Veerni Vijay Vamsi CSE Male Cognizant Genc 4.00
+500 A21126510065 Yathati Theresa Ratna Shinee CSE Female Cognizant Genc 4.00
+501 A21126510086 Hemraj Bheemarasetty CSE Male Cognizant Genc 4.00
+502 A21126510090 Kandi Indumathi CSE Female Cognizant Genc 4.00
+503 A21126510091 Kanugonda Sai Varun Kumar Reddy CSE Male Cognizant Genc 4.00
+504 A21126510092 Karampudi Pavankumar CSE Male Cognizant Genc 4.00
+505 A21126510095 Kasireddy Akhila CSE Female Cognizant Genc 4.00
+506 A21126510141 Chodavarapu Jaswanth Kumar CSE Male Cognizant Genc 4.00
+507 A21126510143 Datti Bhavishya Sree CSE Female Cognizant Genc 4.00
+508 A21126510152 Gattu Nikhilesh CSE Male Cognizant Genc 4.00
+509 A21126510158 Gullipalli Gnana Prasmitha CSE Female Cognizant Genc 4.00
+510 A21126510172 Kolli Sai Siddartha CSE Male Cognizant Genc 4.00
+511 A21126510175 Lagudu Kalyani CSE Female Cognizant Genc 4.00
+512 A21126510186 Sattineedi Sai Abhiram CSE Male Cognizant Genc 4.00
+513 A21126510193 Vanka Siddhartha CSE Male Cognizant Genc 4.00
+514 A21126552016 Kambhampati Sai Sandeep CSE-AI&ML Male Cognizant Genc 4.00
+515 A21126552017 Kandregula Lakshya Pranathi CSE-AI&ML Female Cognizant Genc 4.00
+516 A21126552021 Kongani Sai Manikanta Yadav CSE-AI&ML Male Cognizant Genc 4.00
+517 A21126512039 Mohammad Aashif ECE Male Cognizant Genc 4.00
+518 A21126512055 Senapati Sai Rahul ECE Male Cognizant Genc 4.00
+519 A21126512091 Ksv Viswanadh ECE Male Cognizant Genc 4.00
+520 A21126512097 Kundi Divya Pranavi Naidu ECE Female Cognizant Genc 4.00
+521 A21126512126 Vuddangi Sai Venkata Durga Prasad ECE Male Cognizant Genc 4.00
+522 A21126512138 Gara Siddhu ECE Male Cognizant Genc 4.00
+523 A21126512154 Manda Bala Sai Prasad ECE Male Cognizant Genc 4.00
+524 A21126512205 Majji Harsha Vardhan ECE Male Cognizant Genc 4.00
+525 A21126514088 Indala Venkata Kusumitha Kavya EEE Female Cognizant Genc 4.00
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+526 A21126514128 Pakki Vijaya Rama Mourya Shashank EEE Male Cognizant Genc 4.00
+527 A21126511036 Mahanthi Mohan Roop Kumar IT Male Cognizant Genc 4.00
+528 A21126511047 Panchada Manikanta IT Male Cognizant Genc 4.00
+529 A21126511049 Polisetty Hasita IT Female Cognizant Genc 4.00
+530 A21126511061 Vakalapudi Udaya Sri Sahith IT Male Cognizant Genc 4.00
+531 A21126511062 Vutukuru Poorva Sai Durga Sindhu IT Female Cognizant Genc 4.00
+532 A21126511063 Yelusuru Lasya Sahithi IT Female Cognizant Genc 4.00
+533 A21126511069 Baddi Sai Sudha Sri IT Female Cognizant Genc 4.00
+534 A21126511073 Bodda Deekshit IT Male Cognizant Genc 4.00
+535 A21126511099 Koulury Shiva IT Male Cognizant Genc 4.00
+536 A21126511117 Potnuru Kavya IT Female Cognizant Genc 4.00
+537 A21126511131 Vasuta Kuchhadia IT Female Cognizant Genc 4.00
+538 A21126511149 Challa Balaji IT Male Cognizant Genc 4.00
+539 A21126511155 Gandi Vinodh IT Male Cognizant Genc 4.00
+540 A21126511160 Kollapu Nikhil Kumar IT Male Cognizant Genc 4.00
+541 A21126511162 Kona Manasa Lakshmi IT Female Cognizant Genc 4.00
+542 A21126511178 Motiki Kavya IT Female Cognizant Genc 4.00
+543 A21126511184 Ratnala Swaran IT Male Cognizant Genc 4.00
+544 A21126511192 Veera Raju Vakada IT Male Cognizant Genc 4.00
+545 A21126511205 Mantha Surya Kanth Subhramanya Swamy IT Male Cognizant Genc 4.00
+546 A21126520209 Kommana Venkatesha Karthikeya MECH Male Cognizant Genc 4.00
+547 A21126510083 Gondyala Kalicharan CSE Male Cognizant Genc 4.00
+548 A21126510164 Kamireddi Lasya Nayana CSE Female Cognizant Genc 4.00
+549 A21126511044 Neelamraju V Sai Diwakara Subrahmanyam IT Male Cognizant Genc 4.00
+550 A21126502007 Gorle Pawan Kumar CHEM Male Deccan Fine Chemical 4.00
+551 A21126502008 Reethu Gudivada CHEM Female Deccan Fine Chemical 4.00
+552 A21126502026 Pilla Pavitra CHEM Female Deccan Fine Chemical 4.00
+553 A21126502030 Kolapati Ganesh CHEM Male Deccan Fine Chemical 4.00
+554 A21126520037 Peruri Siddardha MECH Male Eleation 4.00
+555 A21126520072 Datti Navya MECH Female Eleation 4.00
+556 A21126520092 Neeraj Sahu MECH Male Eleation 4.00
+557 A21126508005 Buddala Sri Lalitha Civil Female Technologics 4.00
+558 A21126551006 Balabhadruni Revanth CSD-DS Male Technologics 4.00
+559 A21126551040 Paila Tejeswara Rao CSD-DS Male Technologics 4.00
+560 A21126510171 Akhila Kethagani CSE Female Technologics 4.00
+561 A21126510175 Lagudu Kalyani CSE Female Technologics 4.00
+562 A21126552007 Boni Revathi CSE-AI&ML Female Technologics 4.00
+563 A21126552016 Kambhampati Sai Sandeep CSE-AI&ML Male Technologics 4.00
+564 A21126512027 Kotana Pradeep Chandra ECE Male Technologics 4.00
+565 A21126512074 Danda Srujana ECE Female Technologics 4.00
+566 A21126514008 Danda Dhana sree EEE Female Technologics 4.00
+567 A21126514053 Telagalapudi Jaya Sandeep EEE Male Technologics 4.00
+568 A21126511063 Yelusuru Lasya Sahithi IT Female Technologics 4.00
+569 A21126511095 Korada Jawahar Naidu IT Male Technologics 4.00
+570 A21126511134 Adabala Devi IT Female Technologics 4.00
+571 A21126511137 Andra Amrutha Srivaishnavi IT Female Technologics 4.00
+572 A21126520072 Datti Navya MECH Female Technologics 4.00
+573 A21126520105 Surla Sai Saritha MECH Female Technologics 4.00
+574 A21126520127 Kalivarapu Sravya Sree MECH Female Technologics 4.00
+575 A21126520227 Akula Venkata Sai Ramesh MECH Male Technologics 4.00
+576 A21126512027 Kotana Pradeep Chandra ECE Male Vem Technologies 4.00
+577 A21126512078 Dokkari Jairam ECE Male Vem Technologies 4.00
+578 A21126512195 Kuriti Leelakumari ECE Female Vem Technologies 4.00
+579 A21126514128 Pakki Vijaya Rama Mourya Shashank EEE Male Vem Technologies 4.00
+580 A21126514132 Kannuru Ganesh EEE Male Vem Technologies 4.00
+581 A21126514137 Anil Kumar Barla EEE Male Vem Technologies 4.00
+582 A21126514163 Chitiki Reddy Dharaneesh EEE Male Vem Technologies 4.00
+583 A21126520205 Sadanala Jitendra Srinivas MECH Male Vem Technologies 4.00
+584 A21126520208 Sujith Polamarasetti MECH Male Vem Technologies 4.00
+585 A21126552006 Boddeti Tanuja CSE-AI&ML Female Deloitte (Internship) 3.60
+586 A21126551001 Adari Vaibhav CSD-DS Male Deloitte (Internship) 3.60
+587 A21126551005 Ayanampudi Navya Sri CSD-DS Female Deloitte (Internship) 3.60
+588 A21126551009 Bhamidi Venkata Sai Sri Charan CSD-DS Male Deloitte (Internship) 3.60
+589 A21126551048 Ramapatruni Thanu Sree CSD-DS Female Deloitte (Internship) 3.60
+590 A21126510007 Avidi Vasanth Kumar CSE Male Deloitte (Internship) 3.60
+591 A21126510051 Rehana Tabassum CSE Female Deloitte (Internship) 3.60
+592 A21126510059 Surisetti Manasa CSE Female Deloitte (Internship) 3.60
+593 A21126510154 Goli Sameer CSE Male Deloitte (Internship) 3.60
+594 A21126510169 Kanugonda Sai Varshini CSE Female Deloitte (Internship) 3.60
+595 A21126510181 Pola. Sai Charishma CSE Female Deloitte (Internship) 3.60
+596 A21126512012 Dasari Vijaya Saradhee ECE Male Deloitte (Internship) 3.60
+597 A21126512105 Neelam Gowthami ECE Female Deloitte (Internship) 3.60
+598 A21126512180 Sharma Jyothirmayee ECE Female Deloitte (Internship) 3.60
+599 A21126511026 Kanakala Vinay Vamsi IT Male Deloitte (Internship) 3.60
+600 A21126511067 Ajerla Karthisha IT Female Deloitte (Internship) 3.60
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+601 A21126511124 Sarella Varshitha IT Female Deloitte (Internship) 3.60
+602 A21126511171 Maredla Jahnavi IT Female Deloitte (Internship) 3.60
+603 A21126511185 Reddi Pavan Koushik IT Male Deloitte (Internship) 3.60
+604 A21126511182 Randhi Pavan Satyanarayana IT Male Deloitte (Internship) 3.60
+605 A21126511200 Shaik Rijwan IT Male Deloitte (Internship) 3.60
+606 A21126511025 Joga Bhavya IT Female Deloitte (Internship) 3.60
+607 A21126512108 P V S R Mudita Kovida ECE Female Deloitte (Internship) 3.60
+608 A21126552033 Voruganti Sai Karthik CSE-AI&ML Male Deloitte (Internship) 3.60
+609 A21126508005 Buddala Sri Lalitha Civil Female Design Tribe (India) Pvt. Ltd 3.60
+610 A21126508014 Guruvu Divya Civil Female Design Tribe (India) Pvt. Ltd 3.60
+611 A21126508029 Routhu Naga Jyotheswari Civil Female Design Tribe (India) Pvt. Ltd 3.60
+612 A21126508031 Satya Srihitha Chintala Civil Female Design Tribe (India) Pvt. Ltd 3.60
+613 A21126508050 Abotula Durgaprasad Civil Male Design Tribe (India) Pvt. Ltd 3.60
+614 A21126508053 Porapu Sravan Kumar Civil Male Design Tribe (India) Pvt. Ltd 3.60
+615 A21126508056 Nakka Prasad Civil Male Design Tribe (India) Pvt. Ltd 3.60
+616 A21126508059 Pedada Rajasekhar Civil Male Design Tribe (India) Pvt. Ltd 3.60
+617 A21126514165 Marpupudi Lalitha Lahari EEE Female IMEG 3.60
+618 A21126520032 Nammi Sai lavanya MECH Female IMEG 3.60
+619 A21126520207 Karri Lashya Priya MECH Female IMEG 3.60
+620 A21126520210 Gurrala Sai Sanjana Chandra MECH Female IMEG 3.60
+621 A21126520222 Kamireddy Vinay MECH Male IMEG 3.60
+622 A21126508004 Boppe Taruna Phaneendra Civil Male Infosys Ltd. 3.60
+623 A21126551001 Adari Vaibhav CSD-DS Male Infosys Ltd. 3.60
+624 A21126551005 Ayanampudi Navya Sri CSD-DS Female Infosys Ltd. 3.60
+625 A21126551006 Balabhadruni Revanth CSD-DS Male Infosys Ltd. 3.60
+626 A21126551008 Beesetty Supriya CSD-DS Female Infosys Ltd. 3.60
+627 A21126551009 Bhamidi Venkata Sai Sri Charan CSD-DS Male Infosys Ltd. 3.60
+628 A21126551012 Chakka Sai Sriya CSD-DS Female Infosys Ltd. 3.60
+629 A21126551018 Geddam Sathwik CSD-DS Male Infosys Ltd. 3.60
+630 A21126551024 Jaswanth Kondeti CSD-DS Male Infosys Ltd. 3.60
+631 A21126551038 Nagireddy Kumar Sai CSD-DS Male Infosys Ltd. 3.60
+632 A21126551039 Nagireddy Sai Ramakrishna CSD-DS Male Infosys Ltd. 3.60
+633 A21126551040 Paila Tejeswara Rao CSD-DS Male Infosys Ltd. 3.60
+634 A21126551043 Pittada Sai Harsha Vardhan CSD-DS Male Infosys Ltd. 3.60
+635 A21126551047 Ramakrishna Saketh Dwadasi CSD-DS Male Infosys Ltd. 3.60
+636 A21126551049 Ajay Rapeti CSD-DS Male Infosys Ltd. 3.60
+637 A21126551052 Sana Sushma CSD-DS Female Infosys Ltd. 3.60
+638 A21126551057 Sunkara Lochankumar CSD-DS Male Infosys Ltd. 3.60
+639 A21126551058 Teki Venkata Rao CSD-DS Male Infosys Ltd. 3.60
+640 A21126551061 Saipriya Vangapandu CSD-DS Female Infosys Ltd. 3.60
+641 A21126551062 Vanjarapu Chanikya CSD-DS Male Infosys Ltd. 3.60
+642 A21126551069 Sakkuru Gyanavi CSD-DS Female Infosys Ltd. 3.60
+643 A21126551070 Ramanapudi Sai Durga Subash CSD-DS Male Infosys Ltd. 3.60
+644 A21126510003 Allada Sai Mounika CSE Female Infosys Ltd. 3.60
+645 A21126510007 Avidi Vasanth Kumar CSE Male Infosys Ltd. 3.60
+646 A21126510010 Bendalam Sanjay CSE Male Infosys Ltd. 3.60
+647 A21126510019 Golthi Jeevan CSE Male Infosys Ltd. 3.60
+648 A21126510020 Gonapa Sanjana CSE Female Infosys Ltd. 3.60
+649 A21126510021 Goudu Chandu CSE Male Infosys Ltd. 3.60
+650 A21126510022 Gurajapu Yaswanth Kumar CSE Male Infosys Ltd. 3.60
+651 A21126510024 Kanigiri Eswar Sai Ratna Krishana Raju CSE Male Infosys Ltd. 3.60
+652 A21126510026 Karri Lohitha CSE Female Infosys Ltd. 3.60
+653 A21126510029 Killi Sneha Latha CSE Female Infosys Ltd. 3.60
+654 A21126510030 Lavanya Lakshmi Koduru CSE Female Infosys Ltd. 3.60
+655 A21126510031 Kommana Jayasree CSE Female Infosys Ltd. 3.60
+656 A21126510034 Lakkimsetty Satya Srihitha CSE Female Infosys Ltd. 3.60
+657 A21126510035 Lalith Akash Kolli CSE Male Infosys Ltd. 3.60
+658 A21126510036 Lanka Abhinav Kumar CSE Male Infosys Ltd. 3.60
+659 A21126510039 Maddu Renuka CSE Female Infosys Ltd. 3.60
+660 A21126510041 Manepalli Rohith Raj CSE Male Infosys Ltd. 3.60
+661 A21126510042 Marpina Rakesh Naidu CSE Male Infosys Ltd. 3.60
+662 A21126510043 Metta Rahul Raj CSE Male Infosys Ltd. 3.60
+663 A21126510044 Mummuluri Deepak CSE Male Infosys Ltd. 3.60
+664 A21126510048 Parimi Uday Kumar CSE Male Infosys Ltd. 3.60
+665 A21126510052 Rongali Sarvani CSE Female Infosys Ltd. 3.60
+666 A21126510053 Sadanala Shanmukha Sai CSE Male Infosys Ltd. 3.60
+667 A21126510061 Tetali. Gangadhar Reddy CSE Male Infosys Ltd. 3.60
+668 A21126510063 Veerni Vijay Vamsi CSE Male Infosys Ltd. 3.60
+669 A21126510069 Allu Venkata Charishma CSE Female Infosys Ltd. 3.60
+670 A21126510074 Boddeda Sai Karthik CSE Male Infosys Ltd. 3.60
+671 A21126510081 Donkada sampath CSE Male Infosys Ltd. 3.60
+672 A21126510085 Gummudu Sai Karishma CSE Female Infosys Ltd. 3.60
+673 A21126510089 Kaipu Mahesh CSE Male Infosys Ltd. 3.60
+674 A21126510090 Kandi Indumathi CSE Female Infosys Ltd. 3.60
+675 A21126510091 Kanugonda Sai Varun Kumar Reddy CSE Male Infosys Ltd. 3.60
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+676 A21126510092 Karampudi Pavankumar CSE Male Infosys Ltd. 3.60
+677 A21126510093 Karanam Venkata Sai Durga Darshini CSE Female Infosys Ltd. 3.60
+678 A21126510095 Kasireddy Akhila CSE Female Infosys Ltd. 3.60
+679 A21126510098 Mandarapu Pavan Kalyan CSE Male Infosys Ltd. 3.60
+680 A21126510104 Mohammed Azhar Shariff CSE Male Infosys Ltd. 3.60
+681 A21126510106 Murala Jaswini CSE Female Infosys Ltd. 3.60
+682 A21126510112 Pilla Abishek CSE Male Infosys Ltd. 3.60
+683 A21126510119 Sai Hanisha Burra CSE Female Infosys Ltd. 3.60
+684 A21126510122 Savada Divya CSE Female Infosys Ltd. 3.60
+685 A21126510123 Sivananda Patnaik CSE Male Infosys Ltd. 3.60
+686 A21126510129 VARANASI YASWANTH CSE Male Infosys Ltd. 3.60
+687 A21126510130 Vardhaparthi Bala Murali Krishna Chaitanya CSE Male Infosys Ltd. 3.60
+688 A21126510132 VILAK MOHAMMED MOHIDDIN CSE Male Infosys Ltd. 3.60
+689 A21126510135 Arumbaka. Krupa Sujitha CSE Female Infosys Ltd. 3.60
+690 A21126510137 Baratam Manichandana CSE Female Infosys Ltd. 3.60
+691 A21126510139 Byreddy Bharathi CSE Female Infosys Ltd. 3.60
+692 A21126510144 Dommeti Charmi Sri Tulasi CSE Female Infosys Ltd. 3.60
+693 A21126510146 DUBASI HARISH CSE Male Infosys Ltd. 3.60
+694 A21126510147 Duddu.Ramasujith CSE Male Infosys Ltd. 3.60
+695 A21126510148 Durga Sushma CSE Female Infosys Ltd. 3.60
+696 A21126510150 Gangu Tejaswini CSE Female Infosys Ltd. 3.60
+697 A21126510154 Goli Sameer CSE Male Infosys Ltd. 3.60
+698 A21126510159 Ijjurouthu Tulasi CSE Female Infosys Ltd. 3.60
+699 A21126510164 Kamireddi Lasya Nayana CSE Female Infosys Ltd. 3.60
+700 A21126510168 Kandula Jaswanth CSE Male Infosys Ltd. 3.60
+701 A21126510169 Kanugonda Sai Varshini CSE Female Infosys Ltd. 3.60
+702 A21126510180 Padmanabhuni Deepika Thanmayi CSE Female Infosys Ltd. 3.60
+703 A21126510181 Pola. Sai Charishma CSE Female Infosys Ltd. 3.60
+704 A21126510183 Remala Harshitha CSE Female Infosys Ltd. 3.60
+705 A21126510188 Singuru Taniya CSE Female Infosys Ltd. 3.60
+706 A21126510191 Mohan Uddavolu CSE Male Infosys Ltd. 3.60
+707 A21126510193 Vanka Siddhartha CSE Male Infosys Ltd. 3.60
+708 A21126510194 Pallavi Vanthala CSE Female Infosys Ltd. 3.60
+709 A21126510195 Varre Vijaya Lakshmi CSE Female Infosys Ltd. 3.60
+710 A21126510203 Thota Pavani CSE Female Infosys Ltd. 3.60
+711 A21126510204 Mounika Singampalli CSE Female Infosys Ltd. 3.60
+712 A21126510205 Volli Buela Joy CSE Female Infosys Ltd. 3.60
+713 A21126510212 Pulugu Tejaswani CSE Female Infosys Ltd. 3.60
+714 A21126510215 Ommi Hemalatha CSE Female Infosys Ltd. 3.60
+715 A21126552001 Addagarla Sai Gowthami CSE-AI&ML Female Infosys Ltd. 3.60
+716 A21126552004 Baratam Pujitha CSE-AI&ML Female Infosys Ltd. 3.60
+717 A21126552006 Boddeti Tanuja CSE-AI&ML Female Infosys Ltd. 3.60
+718 A21126552012 Ghori Farhan CSE-AI&ML Male Infosys Ltd. 3.60
+719 A21126552013 Gurajapu Chaitanya Deepika CSE-AI&ML Female Infosys Ltd. 3.60
+720 A21126552017 Kandregula Lakshya Pranathi CSE-AI&ML Female Infosys Ltd. 3.60
+721 A21126552019 Kesamsetty Bhavya Sri CSE-AI&ML Female Infosys Ltd. 3.60
+722 A21126552020 Khaithapalli Bhuvana Sri CSE-AI&ML Female Infosys Ltd. 3.60
+723 A21126552024 Neelirouthu Sai Manohar CSE-AI&ML Male Infosys Ltd. 3.60
+724 A21126552030 Thamatapu Surya Poojitha Devi CSE-AI&ML Female Infosys Ltd. 3.60
+725 A21126552032 Vanapalli Pratyusha CSE-AI&ML Female Infosys Ltd. 3.60
+726 A21126552034 Vasantula Bindu Priya CSE-AI&ML Female Infosys Ltd. 3.60
+727 A21126512004 Bankapalli Vineela ECE Female Infosys Ltd. 3.60
+728 A21126512006 Bora Vaijayanthimala ECE Female Infosys Ltd. 3.60
+729 A21126512012 Dasari Vijaya Saradhee ECE Male Infosys Ltd. 3.60
+730 A21126512014 Doppa Deepika ECE Female Infosys Ltd. 3.60
+731 A21126512016 Ganta Ashish ECE Male Infosys Ltd. 3.60
+732 A21126512018 Gurugubelli Gnana Keerthi ECE Female Infosys Ltd. 3.60
+733 A21126512022 Jonnadula Gnana Sai ECE Male Infosys Ltd. 3.60
+734 A21126512025 Karaka Hashwanth ECE Male Infosys Ltd. 3.60
+735 A21126512029 Kothapuli Venkata Brahmareddy ECE Male Infosys Ltd. 3.60
+736 A21126512039 Mohammad Aashif ECE Male Infosys Ltd. 3.60
+737 A21126512043 Nellipudi Ratna Teja ECE Female Infosys Ltd. 3.60
+738 A21126512045 Padarthy Lakshmi Venkata Snehitha ECE Female Infosys Ltd. 3.60
+739 A21126512050 Randhi Jai Krishna ECE Male Infosys Ltd. 3.60
+740 A21126512053 Rongali Neelima ECE Female Infosys Ltd. 3.60
+741 A21126512055 Senapati Sai Rahul ECE Male Infosys Ltd. 3.60
+742 A21126512061 Surapathi Padma ECE Female Infosys Ltd. 3.60
+743 A21126512065 Akshaya.Tangudu ECE Female Infosys Ltd. 3.60
+744 A21126512070 Boddepalli Bhanu Prabhas ECE Male Infosys Ltd. 3.60
+745 A21126512072 Boyina Rashmitha ECE Female Infosys Ltd. 3.60
+746 A21126512074 Danda Srujana ECE Female Infosys Ltd. 3.60
+747 A21126512075 Dhamaruknaath Dora ECE Male Infosys Ltd. 3.60
+748 A21126512084 Gorrela Lakshmi Srivalli ECE Female Infosys Ltd. 3.60
+749 A21126512091 Ksv Viswanadh ECE Male Infosys Ltd. 3.60
+750 A21126512092 Kavitha Kandula ECE Female Infosys Ltd. 3.60
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+751 A21126512105 Neelam Gowthami ECE Female Infosys Ltd. 3.60
+752 A21126512108 P V S R Mudita Kovida ECE Female Infosys Ltd. 3.60
+753 A21126512129 Anjuri Sree Purna Sindhu ECE Female Infosys Ltd. 3.60
+754 A21126512130 Arasada Sai Raghav ECE Male Infosys Ltd. 3.60
+755 A21126512135 Darisi Asritha ECE Female Infosys Ltd. 3.60
+756 A21126512138 Gara Siddhu ECE Male Infosys Ltd. 3.60
+757 A21126512144 Kalla Dhanya Sri ECE Female Infosys Ltd. 3.60
+758 A21126512155 Hima Bindu. Mavuru ECE Female Infosys Ltd. 3.60
+759 A21126512156 Medapureddi Umamahesh ECE Male Infosys Ltd. 3.60
+760 A21126512159 Naram Lohit Kumar ECE Male Infosys Ltd. 3.60
+761 A21126512162 P Rohan Kumar Raju ECE Male Infosys Ltd. 3.60
+762 A21126512164 Paluru.Tharun ECE Male Infosys Ltd. 3.60
+763 A21126512165 Pinninti Gnana Prasanna ECE Female Infosys Ltd. 3.60
+764 A21126512171 Rongali Sivasai Tejesh ECE Male Infosys Ltd. 3.60
+765 A21126512175 Ashok Sanaka ECE Male Infosys Ltd. 3.60
+766 A21126512179 Sha Mohammad Shabbir Hussain ECE Male Infosys Ltd. 3.60
+767 A21126512180 Sharma Jyothirmayee ECE Female Infosys Ltd. 3.60
+768 A21126512200 Nammi Bharadwaz ECE Male Infosys Ltd. 3.60
+769 A21126512203 Putcha Chakrapani ECE Male Infosys Ltd. 3.60
+770 A21126514016 Gunasekaran Prithivie Rajan EEE Male Infosys Ltd. 3.60
+771 A21126514017 Gunta Vaishnavi EEE Female Infosys Ltd. 3.60
+772 A21126514049 Shaik Kamurulla EEE Male Infosys Ltd. 3.60
+773 A21126514055 Thembudi Gloria Prasanna EEE Female Infosys Ltd. 3.60
+774 A21126514056 Uggina Vasundara EEE Female Infosys Ltd. 3.60
+775 A21126514094 Kandregula Venkata Ajay EEE Male Infosys Ltd. 3.60
+776 A21126514095 Kattula Vinay EEE Male Infosys Ltd. 3.60
+777 A21126514112 Ronanki Srivarshini EEE Female Infosys Ltd. 3.60
+778 A21126514123 Vinnapala Reshma EEE Female Infosys Ltd. 3.60
+779 A21126514129 Kanumetta Harshavardhan EEE Male Infosys Ltd. 3.60
+780 A21126514149 Siraparapu Siddhu Kumar EEE Male Infosys Ltd. 3.60
+781 A21126514165 Marpupudi Lalitha Lahari EEE Female Infosys Ltd. 3.60
+782 A21126511002 Yaswanth Akkapatruni IT Male Infosys Ltd. 3.60
+783 A21126511004 Aripaka Pavan IT Male Infosys Ltd. 3.60
+784 A21126511007 Balivada Bhuvan Deepankar IT Male Infosys Ltd. 3.60
+785 A21126511008 Bandaru Kamal Sai Kushvanth IT Male Infosys Ltd. 3.60
+786 A21126511016 Chennubhotla S N Pawan Raghavendra IT Male Infosys Ltd. 3.60
+787 A21126511018 Dannana Kiran IT Male Infosys Ltd. 3.60
+788 A21126511021 Ganivada Santhoshi Rupa IT Female Infosys Ltd. 3.60
+789 A21126511031 Koppana Sai Durga Mani Raja IT Male Infosys Ltd. 3.60
+790 A21126511035 Madabattula.Santoshbhargav IT Male Infosys Ltd. 3.60
+791 A21126511040 Munakala Reshwanth IT Male Infosys Ltd. 3.60
+792 A21126511042 Nadikoti Anand Sanjay IT Male Infosys Ltd. 3.60
+793 A21126511053 S Chandra Shekhar Raju IT Male Infosys Ltd. 3.60
+794 A21126511055 Sigireddy Eekshita IT Female Infosys Ltd. 3.60
+795 A21126511062 Vutukuru Poorva Sai Durga Sindhu IT Female Infosys Ltd. 3.60
+796 A21126511063 Yelusuru Lasya Sahithi IT Female Infosys Ltd. 3.60
+797 A21126511064 Yerukola Sai Keerthi IT Female Infosys Ltd. 3.60
+798 A21126511072 Bhogi Tharun Gupta IT Male Infosys Ltd. 3.60
+799 A21126511074 Anjali Boina IT Female Infosys Ltd. 3.60
+800 A21126511075 Bonu Lahari IT Female Infosys Ltd. 3.60
+801 A21126511077 Chada Sai Anjana Manaswitha IT Female Infosys Ltd. 3.60
+802 A21126511080 Chtikila Poorna Sai Tagore IT Male Infosys Ltd. 3.60
+803 A21126511085 Gandeti Chetankumar IT Male Infosys Ltd. 3.60
+804 A21126511086 Gedela Charan IT Male Infosys Ltd. 3.60
+805 A21126511095 Korada Jawahar Naidu IT Male Infosys Ltd. 3.60
+806 A21126511096 Korada Sai Narayan Kaushik IT Male Infosys Ltd. 3.60
+807 A21126511100 Sravani Kuppili IT Female Infosys Ltd. 3.60
+808 A21126511102 Malladi Abhigna IT Female Infosys Ltd. 3.60
+809 A21126511104 Mittireddy Janardhan IT Male Infosys Ltd. 3.60
+810 A21126511106 Mudasala Sanjay IT Male Infosys Ltd. 3.60
+811 A21126511107 Mudunuru Sai Varshitha IT Female Infosys Ltd. 3.60
+812 A21126511108 Nagothi Gunesh IT Male Infosys Ltd. 3.60
+813 A21126511110 Nimmala Pavan IT Male Infosys Ltd. 3.60
+814 A21126511118 Puppala Sai Mahesh IT Male Infosys Ltd. 3.60
+815 A21126511128 Tangudu Hemanth IT Male Infosys Ltd. 3.60
+816 A21126511131 Vasuta Kuchhadia IT Female Infosys Ltd. 3.60
+817 A21126511136 Andhavarapu Neethisha IT Female Infosys Ltd. 3.60
+818 A21126511137 Andra Amrutha Srivaishnavi IT Female Infosys Ltd. 3.60
+819 A21126511141 Bagadi Keershita IT Female Infosys Ltd. 3.60
+820 A21126511143 Bandaru Chaitanya IT Male Infosys Ltd. 3.60
+821 A21126511149 Challa Balaji IT Male Infosys Ltd. 3.60
+822 A21126511151 Chokka Gnapika Sri IT Female Infosys Ltd. 3.60
+823 A21126511154 Doki Deekshitha IT Female Infosys Ltd. 3.60
+824 A21126511159 Kilaparthi Durga Prasad IT Male Infosys Ltd. 3.60
+825 A21126511167 KUNDUM.NAGADEEPAK IT Male Infosys Ltd. 3.60
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+826 A21126511171 Maredla Jahnavi IT Female Infosys Ltd. 3.60
+827 A21126511173 Marrapu Narendra IT Male Infosys Ltd. 3.60
+828 A21126511176 Mohammad Zaheer IT Male Infosys Ltd. 3.60
+829 A21126511178 Motiki Kavya IT Female Infosys Ltd. 3.60
+830 A21126511179 Nookala Veera Venkata Krishna Sai Ram IT Male Infosys Ltd. 3.60
+831 A21126511185 Reddi Pavan Koushik IT Male Infosys Ltd. 3.60
+832 A21126511191 Unna Madhuri IT Female Infosys Ltd. 3.60
+833 A21126511194 Varanasi Shilpa IT Female Infosys Ltd. 3.60
+834 A21126511198 Yerninti Dinesh IT Male Infosys Ltd. 3.60
+835 A21126511200 Shaik Rijwan IT Male Infosys Ltd. 3.60
+836 A21126511204 Palle Deepika IT Female Infosys Ltd. 3.60
+837 A21126511210 Bramhananda Reddy IT Male Infosys Ltd. 3.60
+838 A21126511211 Pasupuleti Krishna Swamy IT Male Infosys Ltd. 3.60
+839 A21126520018 Dinesh Jithuka MECH Male Infosys Ltd. 3.60
+840 A21126520073 Dhiren Kumar MECH Male Infosys Ltd. 3.60
+841 A21126520093 Pediredla Bharath MECH Male Infosys Ltd. 3.60
+842 A21126520112 A D S Sampath MECH Male Infosys Ltd. 3.60
+843 A21126520116 Boddu Manohar MECH Male Infosys Ltd. 3.60
+844 A21126520165 Avinash Vinnakota MECH Male Infosys Ltd. 3.60
+845 A21126520185 Vanapalli Rajesh MECH Male Infosys Ltd. 3.60
+846 A21126520216 Putta Bhaskar Rao MECH Male Infosys Ltd. 3.60
+847 A21126520217 Abotula Vamsi Krishna MECH Male Infosys Ltd. 3.60
+848 A21126551045 Pusarla Venkata Sai Naga Vyshnavi CSD-DS Female Miracle Software Systems Inc. 3.60
+849 A21126510072 Balibani Sunil CSE Male Miracle Software Systems Inc. 3.60
+850 A21126511034 Murapaka Venu Madhav IT Male Miracle Software Systems Inc. 3.60
+851 A21126511047 Panchada Manikanta IT Male Miracle Software Systems Inc. 3.60
+852 A21126511061 Vakalapudi Udaya Sri Sahith IT Male Miracle Software Systems Inc. 3.60
+853 A21126511160 Kollapu Nikhil Kumar IT Male Miracle Software Systems Inc. 3.60
+854 A21126511162 Kona Manasa Lakshmi IT Female Miracle Software Systems Inc. 3.60
+855 A21126511186 Reddy Deepthi IT Female Miracle Software Systems Inc. 3.60
+856 A21126520017 Inumula.Uma Maheswari MECH Female GGS 3.57
+857 A21126520072 Datti Navya MECH Female GGS 3.57
+858 A21126520175 Karri Usha Rani MECH Female GGS 3.57
+859 A21126520180 Sirisetty Kavya MECH Female GGS 3.57
+860 A21126520183 Betha Iswarya MECH Female GGS 3.57
+861 A21126520215 Bangaru Harini Joy MECH Female GGS 3.57
+862 A21126551031 Meka Veda Varshini CSD-DS Female Nueve IT Solutions 3.50
+863 A21126551032 Modepalli Vamsi Sai Krishna CSD-DS Male Nueve IT Solutions 3.50
+864 A21126551048 Ramapatruni Thanu Sree CSD-DS Female Nueve IT Solutions 3.50
+865 A21126551059 Tumbali Venkata Viswas CSD-DS Male Nueve IT Solutions 3.50
+866 A21126510001 Alamanda Balu Karthik CSE Male Nueve IT Solutions 3.50
+867 A21126510012 Chinta Likhitha Varma CSE Female Nueve IT Solutions 3.50
+868 A21126510016 Dhuli Tarun Varaha Sai CSE Male Nueve IT Solutions 3.50
+869 A21126510143 Datti Bhavishya Sree CSE Female Nueve IT Solutions 3.50
+870 A21126510145 Dora Sruthi CSE Female Nueve IT Solutions 3.50
+871 A21126510187 Shaik Ameerkhan CSE Male Nueve IT Solutions 3.50
+872 A21126511142 Bharath Kumar Balli IT Male Nueve IT Solutions 3.50
+873 A21126511156 Geada Kishore IT Male Nueve IT Solutions 3.50
+874 A21126511214 Adari Ganesh Kumar IT Male Nueve IT Solutions 3.50
+875 A21126508004 Boppe Taruna Phaneendra Civil Male Praxsol Engineering Private Limited 3.50
+876 A21126520021 Kamsu Sai Krishna Sahu MECH Male Praxsol Engineering Private Limited 3.50
+877 A21126520184 Sureddy Mohan MECH Male Praxsol Engineering Private Limited 3.50
+878 A21126520227 Akula Venkata Sai Ramesh MECH Male Praxsol Engineering Private Limited 3.50
+879 A21126502002 Bandaru Saitarun CHEM Male Deccan Fine Chemical 3.40
+880 A21126502010 Kankipati Srikanth Varma CHEM Male Deccan Fine Chemical 3.40
+881 A21126502014 Mamidi Gayatri CHEM Female Deccan Fine Chemical 3.40
+882 A21126502033 Gajjala Aparna CHEM Female Deccan Fine Chemical 3.40
+883 A21126502001 Anaparthi Greeshma CHEM Female Hetero Labs Ltd 3.20
+884 A21126502002 Bandaru Saitarun CHEM Male Hetero Labs Ltd 3.20
+885 A21126502003 Bhogi Sai Kumar CHEM Male Hetero Labs Ltd 3.20
+886 A21126502006 Chodipalli Sarath CHEM Male Hetero Labs Ltd 3.20
+887 A21126502007 Gorle Pawan Kumar CHEM Male Hetero Labs Ltd 3.20
+888 A21126502010 Kankipati Srikanth Varma CHEM Male Hetero Labs Ltd 3.20
+889 A21126502011 Kota Madhu CHEM Male Hetero Labs Ltd 3.20
+890 A21126502012 Lanka Charan Deep Kumar CHEM Male Hetero Labs Ltd 3.20
+891 A21126502013 Mailapilli Kasirao CHEM Male Hetero Labs Ltd 3.20
+892 A21126502019 Radava Binduasha CHEM Female Hetero Labs Ltd 3.20
+893 A21126502020 Sigireddy Shanmukharao CHEM Male Hetero Labs Ltd 3.20
+894 A21126502021 Jaya Surya Undurthi CHEM Male Hetero Labs Ltd 3.20
+895 A21126502022 Vasantha Jhansi CHEM Female Hetero Labs Ltd 3.20
+896 A21126502023 Veduri Ganesh Abhinav CHEM Male Hetero Labs Ltd 3.20
+897 A21126502026 Pilla Pavitra CHEM Female Hetero Labs Ltd 3.20
+898 A21126502029 Komati Lokesh CHEM Male Hetero Labs Ltd 3.20
+899 A21126502030 Kolapati Ganesh CHEM Male Hetero Labs Ltd 3.20
+900 A21126508045 Ellinki Lakshmi Narayana Civil Male Sobha Ltd. 3.04
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+901 A21126508051 Gollangi Venu Gopal Civil Male Sobha Ltd. 3.04
+902 A21126508053 Porapu Sravan Kumar Civil Male Sobha Ltd. 3.04
+903 A21126508056 Nakka Prasad Civil Male Sobha Ltd. 3.04
+904 A21126508058 Gollu Chaitanya Civil Male Sobha Ltd. 3.04
+905 A21126508044 Duggirala Raja Civil Male BSCPL Infrastructure Limited 3.00
+906 A21126511108 Nagothi Gunesh IT Male Candela Technologies 3.00
+907 A21126514049 Shaik Kamurulla EEE Male Infinite Solutions 3.00
+908 A21126510172 Kolli Sai Siddartha CSE Male L&T Technolgy Services 3.00
+909 A21126508011 Gottapu Chaitanya Sri Civil Female RDC Concrete 3.00
+910 A21126508058 Gollu Chaitanya Civil Male RDC Concrete 3.00
+911 A21126512123 Vasupalli Devi Prasad Sriram ECE Male RDC Concrete 3.00
+912 A21126512129 Anjuri Sree Purna Sindhu ECE Female RDC Concrete 3.00
+913 A21126512135 Darisi Asritha ECE Female RDC Concrete 3.00
+914 A21126512173 Harshini Naga Sai Durga ECE Female RDC Concrete 3.00
+915 A21126512179 Sha Mohammad Shabbir Hussain ECE Male RDC Concrete 3.00
+916 A21126512180 Sharma Jyothirmayee ECE Female RDC Concrete 3.00
+917 A21126512206 Amarthi Satya Suresh ECE Male RDC Concrete 3.00
+918 A21126514027 Kuna Bhuvaneswari EEE Female RDC Concrete 3.00
+919 A21126514030 Latchipatinipushpalatha EEE Female RDC Concrete 3.00
+920 A21126514079 Darapu Shreya EEE Female RDC Concrete 3.00
+921 A21126514112 Ronanki Srivarshini EEE Female RDC Concrete 3.00
+922 A21126520018 Dinesh Jithuka MECH Male RDC Concrete 3.00
+923 A21126520021 Kamsu Sai Krishna Sahu MECH Male RDC Concrete 3.00
+924 A21126520027 Marada Samyukta Sri Sindhu MECH Female RDC Concrete 3.00
+925 A21126520032 Nammi Sai lavanya MECH Female RDC Concrete 3.00
+926 A21126520035 Pandiri Mouli MECH Male RDC Concrete 3.00
+927 A21126520039 Polipalli Karthikeya MECH Male RDC Concrete 3.00
+928 A21126520049 Udarla.Tharun Kumar MECH Male RDC Concrete 3.00
+929 A21126520058 Amujuru Bharat MECH Male RDC Concrete 3.00
+930 A21126520066 Boddepalli Dileep MECH Male RDC Concrete 3.00
+931 A21126520071 Dasari Nikhil Varma MECH Male RDC Concrete 3.00
+932 A21126520083 Lalam Sai Rohini MECH Female RDC Concrete 3.00
+933 A21126520098 Rishu Kumar Singh MECH Male RDC Concrete 3.00
+934 A21126520099 Sabbavarapu Manikanta Kumar MECH Male RDC Concrete 3.00
+935 A21126520101 Satyala Ajaysathwik MECH Male RDC Concrete 3.00
+936 A21126520103 Sheik Shahid MECH Male RDC Concrete 3.00
+937 A21126520105 Surla Sai Saritha MECH Female RDC Concrete 3.00
+938 A21126520108 Venkata Rama Vakada MECH Male RDC Concrete 3.00
+939 A21126520151 Prasant Mantri MECH Male RDC Concrete 3.00
+940 A21126520171 Kanchi Rohit Kumar MECH Male RDC Concrete 3.00
+941 A21126520172 Dadi Leela Kiran MECH Male RDC Concrete 3.00
+942 A21126520174 Vishal Gudepu MECH Male RDC Concrete 3.00
+943 A21126520196 Bonthu Vishal MECH Male RDC Concrete 3.00
+944 A21126520197 Bhukya Uday Kiran MECH Male RDC Concrete 3.00
+945 A21126520218 Velamala Divya MECH Female RDC Concrete 3.00
+946 A21126520219 Korasala Naveen MECH Male RDC Concrete 3.00
+947 A21126520230 Reddi Naveen MECH Male RDC Concrete 3.00
+948 A21126520056 Akula Rakesh MECH Male Steel Strips Wheels Ltd. 3.00
+949 A21126520167 Jannada Tarunkumar MECH Male Steel Strips Wheels Ltd. 3.00
+950 A21126520171 Kanchi Rohit Kumar MECH Male Steel Strips Wheels Ltd. 3.00
+951 A21126520185 Vanapalli Rajesh MECH Male Steel Strips Wheels Ltd. 3.00
+952 A21126520199 Balya Banavathu MECH Male Steel Strips Wheels Ltd. 3.00
+953 A21126520213 Dandasi Chaitanya MECH Male Steel Strips Wheels Ltd. 3.00
+954 A21126520229 Chilukoti Tarun Kumar MECH Male Steel Strips Wheels Ltd. 3.00
+955 A21126520230 Reddi Naveen MECH Male Steel Strips Wheels Ltd. 3.00
+956 A21126512205 Majji Harsha Vardhan ECE Male VS TECHNOLOGIES 3.00
+957 A21126508046 Bora Indra Reddy Civil Male Vyas Cancer Research Pvt. Ltd 3.00
+958 A21126508057 Tamminaina Manjusha Civil Female Vyas Cancer Research Pvt. Ltd 3.00
+959 A21126508058 Gollu Chaitanya Civil Male Vyas Cancer Research Pvt. Ltd 3.00
+960 A21126502012 Lanka Charan Deep Kumar CHEM Male Divi's Labs 2.40
+961 A21126502013 Mailapilli Kasirao CHEM Male Divi's Labs 2.40
+962 A21126502030 Kolapati Ganesh CHEM Male Divi's Labs 2.40
+963 A21126502009 Gurugubelli Dileep CHEM Male Divi's Labs 2.400
+964 A21126512002 Anies Faizie ECE Female Delphi TVS Technologies 2.22
+965 A21126512005 Bonula.Vamsi Krishna ECE Male Delphi TVS Technologies 2.22
+966 A21126512032 Malla Sai Thanuj ECE Male Delphi TVS Technologies 2.22
+967 A21126512033 Mandapati Ajay Varma ECE Male Delphi TVS Technologies 2.22
+968 A21126512034 Mannepuri Sai Charan ECE Male Delphi TVS Technologies 2.22
+969 A21126512035 Marri Vasantha Kumari ECE Female Delphi TVS Technologies 2.22
+970 A21126512041 Mongam Charishma ECE Female Delphi TVS Technologies 2.22
+971 A21126512042 Mullangi. Naga Pratheepa ECE Female Delphi TVS Technologies 2.22
+972 A21126512050 Randhi Jai Krishna ECE Male Delphi TVS Technologies 2.22
+973 A21126512061 Surapathi Padma ECE Female Delphi TVS Technologies 2.22
+974 A21126512064 Adireddy Tarun Teja ECE Male Delphi TVS Technologies 2.22
+975 A21126512087 Gunana Sai Harsha Vardhan ECE Male Delphi TVS Technologies 2.22
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+976 A21126512096 Kotla Sailaja ECE Female Delphi TVS Technologies 2.22
+977 A21126512099 Madabattula Sampath Kumar ECE Male Delphi TVS Technologies 2.22
+978 A21126512107 Nirujogi Ravi Teja ECE Male Delphi TVS Technologies 2.22
+979 A21126512112 Prabhas Akhil Reddy Sadi ECE Male Delphi TVS Technologies 2.22
+980 A21126512126 Vuddangi Sai Venkata Durga Prasad ECE Male Delphi TVS Technologies 2.22
+981 A21126512131 Bandaru Kurmalingam ECE Male Delphi TVS Technologies 2.22
+982 A21126512139 Hanumanthu Anupama ECE Female Delphi TVS Technologies 2.22
+983 A21126512173 Harshini Naga Sai Durga ECE Female Delphi TVS Technologies 2.22
+984 A21126512198 Karri Anusha ECE Female Delphi TVS Technologies 2.22
+985 A21126512204 Mohammad Abdul Rehaman Baig ECE Male Delphi TVS Technologies 2.22
+986 A21126514027 Kuna Bhuvaneswari EEE Female Delphi TVS Technologies 2.22
+987 A21126514043 Pisini Raghuvarma EEE Male Delphi TVS Technologies 2.22
+988 A21126514047 Sanapala Ramana Babu EEE Male Delphi TVS Technologies 2.22
+989 A21126514061 Yernena.Vinutna EEE Female Delphi TVS Technologies 2.22
+990 A21126514062 Adapa Asha Bhavani EEE Female Delphi TVS Technologies 2.22
+991 A21126514067 Amujuri Sandhya EEE Female Delphi TVS Technologies 2.22
+992 A21126514072 Bavana Aseswani EEE Female Delphi TVS Technologies 2.22
+993 A21126514078 Damodara Anusha EEE Female Delphi TVS Technologies 2.22
+994 A21126514102 Molli Bhavana Sai Sirisha EEE Female Delphi TVS Technologies 2.22
+995 A21126514107 Pilla Gayathri EEE Female Delphi TVS Technologies 2.22
+996 A21126514116 Salla Sandeep EEE Male Delphi TVS Technologies 2.22
+997 A21126514118 Satyavarapu Maduri EEE Female Delphi TVS Technologies 2.22
+998 A21126514122 Thurpati Radhika EEE Female Delphi TVS Technologies 2.22
+999 A21126514124 Visinigiri Sai Prasanth EEE Male Delphi TVS Technologies 2.22
+1000 A21126514125 Yarrayaminipriya EEE Female Delphi TVS Technologies 2.22
+1001 A21126514129 Kanumetta Harshavardhan EEE Male Delphi TVS Technologies 2.22
+1002 A21126514136 Boddani Mokshagna Yadav EEE Male Delphi TVS Technologies 2.22
+1003 A21126514161 Korada.Vamsi EEE Male Delphi TVS Technologies 2.22
+1004 A21126520021 Kamsu Sai Krishna Sahu MECH Male Delphi TVS Technologies 2.22
+1005 A21126520035 Pandiri Mouli MECH Male Delphi TVS Technologies 2.22
+1006 A21126520041 S V V A Kumar MECH Male Delphi TVS Technologies 2.22
+1007 A21126520048 Teripillidivya MECH Female Delphi TVS Technologies 2.22
+1008 A21126520049 Udarla.Tharun Kumar MECH Male Delphi TVS Technologies 2.22
+1009 A21126520058 Amujuru Bharat MECH Male Delphi TVS Technologies 2.22
+1010 A21126520061 Badugu Akash MECH Male Delphi TVS Technologies 2.22
+1011 A21126520062 Bandaru Rohitha MECH Female Delphi TVS Technologies 2.22
+1012 A21126520065 Behara Venkata Hemanth Kumar MECH Male Delphi TVS Technologies 2.22
+1013 A21126520069 Dandasi Chanakya MECH Male Delphi TVS Technologies 2.22
+1014 A21126520071 Dasari Nikhil Varma MECH Male Delphi TVS Technologies 2.22
+1015 A21126520099 Sabbavarapu Manikanta Kumar MECH Male Delphi TVS Technologies 2.22
+1016 A21126520105 Surla Sai Saritha MECH Female Delphi TVS Technologies 2.22
+1017 A21126520135 Kollamsetti Manikanta MECH Male Delphi TVS Technologies 2.22
+1018 A21126520163 Vechalapu Manikanta MECH Male Delphi TVS Technologies 2.22
+1019 A21126520193 Manem Saisudha MECH Male Delphi TVS Technologies 2.22
+1020 A21126520199 Balya Banavathu MECH Male Delphi TVS Technologies 2.22
+1021 A21126520218 Velamala Divya MECH Female Delphi TVS Technologies 2.22
+1022 A21126520219 Korasala Naveen MECH Male Delphi TVS Technologies 2.22
+1023 A21126520230 Reddi Naveen MECH Male Delphi TVS Technologies 2.22
+1024 A21126502004 Bollapragada V N Lakshmi Gnanasai CHEM Female PSS Group 2.16
+1025 A21126508005 Buddala Sri Lalitha Civil Female PSS Group 2.16
+1026 A21126511011 Divya Bejjam IT Female PSS Group 2.16
+1027 A21126511013 Pravalika Bojjla IT Female PSS Group 2.16
+1028 A21126511020 Erlanki Ruchita IT Female PSS Group 2.16
+1029 A21126511049 Polisetty Hasita IT Female PSS Group 2.16
+1030 A21126511059 Tatapudi Bhavana IT Female PSS Group 2.16
+1031 A21126511121 Samuroutu Niveditha IT Female PSS Group 2.16
+1032 A21126511141 Bagadi Keershita IT Female PSS Group 2.16
+1033 A21126511154 Doki Deekshitha IT Female PSS Group 2.16
+1034 A21126511212 Pili Bhagya Rekha IT Female PSS Group 2.16
+1035 A21126512004 Bankapalli Vineela ECE Female PSS Group 2.16
+1036 A21126512006 Bora Vaijayanthimala ECE Female PSS Group 2.16
+1037 A21126512010 Dasari Lalitha Pranavi ECE Female PSS Group 2.16
+1038 A21126512011 Dasari Navyasri ECE Female PSS Group 2.16
+1039 A21126512013 Didde Sundara Praisy ECE Female PSS Group 2.16
+1040 A21126512014 Doppa Deepika ECE Female PSS Group 2.16
+1041 A21126512017 Gummidi Atchita Sai Akshaya ECE Female PSS Group 2.16
+1042 A21126512021 Jampana Trisha ECE Female PSS Group 2.16
+1043 A21126512035 Marri Vasantha Kumari ECE Female PSS Group 2.16
+1044 A21126512041 Mongam Charishma ECE Female PSS Group 2.16
+1045 A21126512042 Mullangi. Naga Pratheepa ECE Female PSS Group 2.16
+1046 A21126512053 Rongali Neelima ECE Female PSS Group 2.16
+1047 A21126512061 Surapathi Padma ECE Female PSS Group 2.16
+1048 A21126512063 Tamarala Namrata Varshini ECE Female PSS Group 2.16
+1049 A21126512079 Eada.Pratyusha ECE Female PSS Group 2.16
+1050 A21126512089 Nakka Jahnavi ECE Female PSS Group 2.16
+S. No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1051 A21126512093 Kollipaka Srilikitha ECE Female PSS Group 2.16
+1052 A21126512096 Kotla Sailaja ECE Female PSS Group 2.16
+1053 A21126512100 Metta Anusha ECE Female PSS Group 2.16
+1054 A21126512115 Savarala Priyanka ECE Female PSS Group 2.16
+1055 A21126512135 Darisi Asritha ECE Female PSS Group 2.16
+1056 A21126512137 Ganta.Sai Sathwika ECE Female PSS Group 2.16
+1057 A21126512160 Naredla.V.S.L.Padmavathi Devi ECE Female PSS Group 2.16
+1058 A21126512170 Rongali Deepika ECE Female PSS Group 2.16
+1059 A21126512173 Harshini Naga Sai Durga ECE Female PSS Group 2.16
+1060 A21126512183 Sushma Bagathi ECE Female PSS Group 2.16
+1061 A21126512198 Karri Anusha ECE Female PSS Group 2.16
+1062 A21126512199 Aluri Meghana ECE Female PSS Group 2.16
+1063 A21126512201 Palasetti Kusuma ECE Female PSS Group 2.16
+1064 A21126512208 Anantharapu Swetha ECE Female PSS Group 2.16
+1065 A21126512211 Bajanki Yamini Iswarya ECE Female PSS Group 2.16
+1066 A21126514002 Allanki Jaya Veera Satya Anupama EEE Female PSS Group 2.16
+1067 A21126514007 Bongi Amrutha EEE Female PSS Group 2.16
+1068 A21126514009 Darla Usha Sirisha EEE Female PSS Group 2.16
+1069 A21126514012 Edubilli Latha EEE Female PSS Group 2.16
+1070 A21126514018 Guttikonda Varshitha Sai Priya EEE Female PSS Group 2.16
+1071 A21126514021 Josyula Sai Sahitya EEE Female PSS Group 2.16
+1072 A21126514027 Kuna Bhuvaneswari EEE Female PSS Group 2.16
+1073 A21126514030 Latchipatinipushpalatha EEE Female PSS Group 2.16
+1074 A21126514033 Maripi Anuradha EEE Female PSS Group 2.16
+1075 A21126514055 Thembudi Gloria Prasanna EEE Female PSS Group 2.16
+1076 A21126514061 Yernena.Vinutna EEE Female PSS Group 2.16
+1077 A21126514065 Allipilli Nikitha EEE Female PSS Group 2.16
+1078 A21126514067 Amujuri Sandhya EEE Female PSS Group 2.16
+1079 A21126514072 Bavana Aseswani EEE Female PSS Group 2.16
+1080 A21126514073 Buddana Leela Naga Devika EEE Female PSS Group 2.16
+1081 A21126514074 C D Deepthi EEE Female PSS Group 2.16
+1082 A21126514086 Gundala Urvasi EEE Female PSS Group 2.16
+1083 A21126514090 K S S Pavani Priya EEE Female PSS Group 2.16
+1084 A21126514091 Keerthana Mahalakahmi Kadiri EEE Female PSS Group 2.16
+1085 A21126514097 Korupolu Swathi EEE Female PSS Group 2.16
+1086 A21126514102 Molli Bhavana Sai Sirisha EEE Female PSS Group 2.16
+1087 A21126514105 Pasupuleti Leela EEE Female PSS Group 2.16
+1088 A21126514106 Pathivada Devi EEE Female PSS Group 2.16
+1089 A21126514107 Pilla Gayathri EEE Female PSS Group 2.16
+1090 A21126514112 Ronanki Srivarshini EEE Female PSS Group 2.16
+1091 A21126514119 Shinagam Swathi EEE Female PSS Group 2.16
+1092 A21126514120 Tamada Vishalini EEE Female PSS Group 2.16
+1093 A21126514122 Thurpati Radhika EEE Female PSS Group 2.16
+1094 A21126514125 Yarrayaminipriya EEE Female PSS Group 2.16
+1095 A21126520050 Vangapandu Meghana MECH Female PSS Group 2.16

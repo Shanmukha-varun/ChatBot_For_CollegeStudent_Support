@@ -1,0 +1,105 @@
+Summary of Campus Selections - 2023 Batch
+S. No. Organization CTC/Package Total CSE IT ECE EEE MECH CIVIL CHEM
+in Lacs
+1 EQUINIX 38.00 1 1
+2 Amazon S E (Internship) 20.00 1 1
+3 ZOHO 18.50 1 1
+4 Darwinbox 16.30 1 1
+5 Amazon AWS 11.80-21.83 9 1 7 1
+6 FACTSET 10.28 6 6
+7 NEXTSCM Solutions PVT LTD 10.00 1 1
+8 HackwithInfy- SP 9.50 2 2
+9 Infy TQ -SP 9.50 3 3
+10 Wiley Edge 9.00 1 1
+11 Tiger Analytics 8.50 7 4 3
+12 Sales force 8.25 14 7 7
+13 Accolite Digital 8.00 5 1 2 1 1
+14 EPAM 8.00 6 5 1
+15 Keka Technologies 8.00 4 1 1 1 1
+16 IBM 7.75 1 1
+17 TCS Digital 7.70 31 9 10 7 4 1
+18 Inteliipaat Software 7.25 5 3 1 1
+19 Gerent 7.00 1 1
+20 Synopsys in India 6.50 1 1
+21 JSW 6.50 24 1 13 3 7
+22 Virtusa NueralHack 6.50 5 3 2
+23 HackwithInfy-DSE 6.25 6 1 1 3 1
+24 Infy TQ -DSE 6.25 9 3 2 3 1
+25 Byju's 6.20 1 1
+26 The Great Eastern Shipping Company Limited 6.04 1 1
+27 ADP 6.00 18 8 9 1
+28 Axiom IO 6.00 26 11 2 12 1
+29 ValueLabs 6.00 2 2
+30 Soprasteria 6.00 37 21 8 8
+31 Moschip Technologies 6.00 2 2
+32 Infobell IT 6.00 1 1
+33 Infor (India) Pvt. Ltd. 6.00 1 1
+34 Redshift 5.70 4 4
+35 Apitoria Pharma Pvt. Ltd 5.58 1 1
+36 Hyundai Mobis 5.50 22 15 7
+37 Techmahindra (Super Coders) 5.50 2 1 1
+38 Riktam Technologies 5.50 3 3
+39 Tata Electronics Pvt. Ltd. 5.50 2 2
+40 Efftronics 5.30-8.20 2 1 1
+41 Mu-sigma 5.00 91 12 28 31 14 3 1 2
+42 Torry Harris Integration Solutions 5.00 21 10 8 3
+43 Hyundai Motor India Engineering 5.00-5.50 3 3
+44 Accenture 4.60 5 1 1 1 2
+45 MEIL 4.50 368 117 160 52 39
+46 IBM CodeKnack 4.50 17 6 4 3 4
+47 Deloitte 4.50 28 12 10 4 2
+48 Evoke technologies 4.50 5 5
+49 Pennant Technologies 4.50 6 3 2 1
+50 Constelli 4.50 1 1
+51 Spider Tech Lab 4.50 1 1
+52 Hansa Solutions 4.25 3 1 1 1
+53 Rinex Technologies Pvt. Ltd! 4.20 1 1
+54 BSCPL Infrastructure Limited 4.20 8 8
+55 Medha Servo 4.18-4.48 3 3
+56 Hexaware 4.00 - 6.00 107 34 22 32 19
+57 Acmegrade info 4.00 25 6 9 2 4 4
+58 Araymond India Pvt. Ltd.. 4.00 2 2
+59 Blue House Technology 3.92 1 1
+60 Polycab Suport Force Pvt. Ltd. 3.62 1 1
+61 H-INFY -SE 3.60 3 2 1
+Summary of Campus Selections - 2023 Batch
+S. No. Organization CTC/Package Total CSE IT ECE EEE MECH CIVIL CHEM
+in Lacs
+62 INFY TQ -SE 3.60 114 39 25 40 5 4 1
+63 Crusoe Technologies 3.60 4 4
+64 HEALTH ON US 3.60 21 9 6 6
+65 Arcis Ai India Pvt. Ltd 3.50 44 11 12 10 5 6
+66 Vem Technologies 3.50 7 3 4
+67 Volt Matrix Private Limited. 3.50 1 1
+68 Hyundai Transys 3.50 1 1
+69 Deccan Fine Chemical 3.40 6 6
+70 TCS Ninja 3.36 67 19 18 10 10 8 1 1
+71 Techmahindra 3.25 13 5 5 3
+72 HETERO (Intern) 3.12 39 39
+73 GetMyUni Education Services Pvt. Ltd. 3.07 1 1
+74 FACE PreP 3.06 11 1 4 3 3
+75 PHOENIX 3.03 1 1
+76 AUROBINDO PHARMA LIMITED 3.02 1 1
+77 Metaorange Digital Pvt. Ltd. 3.00 1 1
+78 Bariflo 3.00 1 1
+79 Hidden Brains Infotech Pvt. Ltd. 3.00 2 2
+80 IMEG 3.00 2 2
+81 Nueve IT Solutions 3.00 5 3 1 1
+82 iENERGIZER IT SERVICES PVT.LTD. 3.00 1 1
+83 Lupin 2.90 2 2
+84 RAAM GROUP 2.80 8 8
+85 India Cements 2.80 1 1
+86 Turing Minds 2.40 46 2 17 6 15 6
+87 TEAM BRYKS 2.40 12 12
+88 ABJ Cloud Solutions 2.40 2 2
+89 Cognizant 2.40 1 1
+90 Icube 2.40 1 1
+91 Petrocon Engineers 2.10 7 7
+92 SmartDV Technologies 1.80 1 1
+Total No. of Placements 1394 289 232 237 229 240 75 92
+Total No. of Student Selections 876 151 140 140 154 193 54 44
+No. of Eligible Students 1029 189 184 187 158 213 54 44
+Average Salary 4.69
+Maximum Salary 38.00
+Minimum Salary 2.23
+Median Salary 4.50

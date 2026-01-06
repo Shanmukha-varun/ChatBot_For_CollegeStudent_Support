@@ -1,0 +1,82 @@
+Anil Neerukonda Institute of Technology & Sciences (Autonomous)
+(Affiliated to AU, Approved by AICTE & Accredited by NBA & NAAC with A+ Grade)
+Sangivalasa-531 162, Bheemunipatnam Mandal, Visakhapatnam District
+Phone: 08933-225083/84/87 Fax: 226395
+Website: www.anits.edu.in email: principal@anits.edu.in
+Placements Facutly Coordinators
+Sl. No Name of the Coordinator Designation Branch
+1 Prof. G. Manmadha Rao Head T&P T&P
+2 Mr. P. Dileep Kumar Asst. PO T&P
+3 Mr. B. Ravi Kumar Asst. Prof CSE
+4 Mrs. P. Bharathi Asst. Prof CSE
+5 Mrs. Ch Sowndarya Lahari Asst. Prof CSM
+6 Mr. Sai Sampathirao Yoganandh Asst. Prof CSM
+7 Mr P. Uday Bhaskar Asst. Prof CSD
+8 Mr.Seetayya Narthu Asst. Prof CSD
+9 Mr.A. Durga Praveen Asst. Prof IT
+10 Mr.G.Ravindranath Asst. Prof IT
+11 Mr. P. Devi Pradeep Asst. Prof ECE
+12 Mrs. P. Chaya Devi Asst. Prof ECE
+13 Mr. K Gowreesrinivas Asst. Prof ECE
+14 Mr. B.Raja Sekhar Asst. Prof EEE
+15 Mr. J. Uday Venkatesh Asst. Prof EEE
+16 Mr. T. Sudheer Kumar Asst. Prof EEE
+17 Mr.R. VaraPrasad Asst. Prof MECH
+18 Mr. M. Prithvi Raj Asst. Prof MECH
+19 Dr.Peruri Siva V N B Gupta Asst. Prof MECH
+20 Ms. Mounika Nagireddy Asst. Prof CIVIL
+21 Shaik Asif Ali Asst. Prof CIVIL
+22 Dr. China Malakondaiah Kaniganti Asst. Prof CHEM
+23 Mr. B. Pradeep Santosh Asst. Prof CHEM
+24 Mr. K. Rajkiran Aptitude Trainer T&P
+25 Mrs. U. Yashodhara Asst. Prof T&P
+26 Mr. M. Prosant Kumar Asst. Prof T&P
+27 Mr. J. Kameswara Rao Aptitude Trainer T&P
+28 Mr. Yogesh Bavana Asst. Prof. T&P
+29 Mr. Durga Mahesh CH Asst. Prof. T&P
+30 Mr. Sampath Kumar Nammi Asst. Prof. T&P
+31 Mr. Dhanunjaya Doddi Asst. Prof T&P
+32 Mr. Jithin Kumar R Asst. Prof T&P
+Placements - Student Coordinators ( 2022-2026 Batch)
+S.No Name of the student Roll No Branch
+1 Tirumala Rao A22126511004 IT
+2 Tatikonda Sharmila A22126511058 IT
+3 Mohammad Rizwana A22126511108 IT
+4 Kondaveti Tarun Kumar A22126511101 IT
+5 Seerapu Sai Sandeep A22126511178 IT
+6 Bailapudi Venkata Sai Gopi Suvarna A22126511131 IT
+7 Marripati Shiridi Monshitha A22126502028 CHEM
+8 Kosireddi Chaithanya A22126502011 CHEM
+9 Rongali Bhuvanakruthi A22126514041 EEE
+10 Golthi Lavanya A22126514076 EEE
+11 Konderpu Arvind A22126514086 EEE
+12 Mohammad Syed Ali A22126514122 EEE
+13 Paridala Bharath Kumar A22126514169 EEE
+14 Manda Harshitha A22126512041 ECE
+15 Vambaravelli Varaprasad A22126512062 ECE
+16 Mondi Meharmanas A22126512105 ECE
+17 Bollu Kathyayani A22126512076 ECE
+18 Mummidisetti Vinay A22126512162 ECE
+19 Shaik Ayesha A22126512214 ECE
+20 Peluri Venkata Durga Sai Vardhan A22126520245 MECH
+21 Lekkala Sai Babu A22126520082 MECH
+22 Akula Naga Vara Prasad A22126520105 MECH
+23 Bammidi Jaswanth A22126520003 MECH
+24 VENNI. MONESHA A22126520050 MECH
+25 YANDRA VASAVI A22126520195 MECH
+26 Divya M A22126510040 CSE
+27 Mutcherla Rahul Kumar A22126510043 CSE
+28 Gembali Avinash A22126510081 CSE
+29 Nulu Shreya A22126510110 CSE
+30 Dubakula Sai Venkata Chaitanya A22126510144 CSE
+31 Vasa Divya Jyothi A22126510143 CSE
+32 Porapu Pavan Sai A22126552172 CSM
+33 Kanumuri L V S Janaki Rama Raju A22126552083 CSM
+34 Billingi Lavanya A22126552065 CSM
+35 Kuppili Pravallika A22126552159 CSM
+36 Kuna Anitha A22126551086 CSD
+37 Settibathula Sanjay Kumar A22126551112 CSD
+38 Illa Sampath Kumar A22126551032 CSD
+39 Andhavarapu Meghana A22126551002 CSD
+40 Dukka Dharani A22126508012 Civil
+41 Neelapu Aswin Varaha Sitaram Reddy A22126508047 Civil

@@ -1,0 +1,1831 @@
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1 318126510081 Sneha kiran Konchada CSE Female Amazon WOW 44.00
+2 318126512152 Deepshika Maddala ECE Female Amazon WOW 44.00
+3 318126510133 Viswamohan Dantuluri CSE Male Amazon 31.57
+4 318126510164 Manikanta Ponduri CSE Male Amazon 31.31
+5 318126510034 Nuthana Madugula CSE Female Walmart Global Tech 23.39
+6 318126510022 Srikar Sai Ganesh Jonnalagadda CSE Male Amazon 20.00
+7 318126510054 Vineetha Sai Durga Thaninki CSE Female Lowe's India 19.34
+8 318126510077 Somasekhar Illa CSE Male SamSung 15.87
+9 318126510099 Sai Chaitanya Reddy Neelapu CSE Male Locon 13.00
+10 318126510068 Anil Kumar Dakarapu CSE Male IBM ISDL 11.50
+11 318126510142 Pavan Kalyan Guntuboina CSE Male Eagle View 10.70
+12 318126511034 Hemanth Kumar Nandigama IT Male Infosys Ltd. 9.50
+13 318126510164 Manikanta Ponduri CSE Male Infosys PP 9.50
+14 319126510L07 Hemalatha Siraparapu CSE Female Infosys PP 9.50
+15 318126511161 Venkata S S Prasanth Patnaik Vandrangi IT Male Infosys PP 9.50
+16 318126510021 Omkar Javvadi CSE Male Factset 8.91
+17 318126510124 Madhu Nitesh Bandi CSE Male Factset 8.91
+18 318126511150 Maneesh Kumar Sripatnala IT Male Factset 8.91
+19 318126512031 Madhuri Matcha ECE Female Accenture 8.50
+20 318126510020 Sanjusha Gundu CSE Female Salesforce 8.25
+21 318126510061 Goutham Sai Pavan Adari CSE Male Salesforce 8.25
+22 318126512008 Hemalatha Boda ECE Female Salesforce 8.25
+23 318126512016 Venkata Sai Kalyan Damarasingu ECE Male Salesforce 8.25
+24 318126512027 Kotaiah Chowdary Ravuri ECE Male Salesforce 8.25
+25 318126510013 Naga Mythili Bonthu CSE Female Accolite Digital 8.00
+26 318126510038 Satya Kalyani Nakka CSE Female Accolite Digital 8.00
+27 318126510039 Christina Preethi Nelapudi CSE Female Accolite Digital 8.00
+28 318126510077 Somasekhar Illa CSE Male Accolite Digital 8.00
+29 318126510111 Lokesh Kumar Simma CSE Male Accolite Digital 8.00
+30 318126510116 Revanth Vasupalli CSE Male Accolite Digital 8.00
+31 318126510157 Nirupama Nagisetti CSE Female Accolite Digital 8.00
+32 318126512115 Sravani Vantakula ECE Female Accolite Digital 8.00
+33 318126512008 Hemalatha Boda ECE Female Accolite Digital 8.00
+34 318126511022 Noothana Jeeru IT Female Accolite Digital 8.00
+35 318126511081 Sricharan Sai Marutha Kasulanati IT Male Accolite Digital 8.00
+36 318126511129 Pavithra Kalivarapu IT Female Accolite Digital 8.00
+37 318126510005 Aneel Kumar Pinninti CSE Male Juspay 8.00
+38 318126510020 Sanjusha Gundu CSE Female Loyalty Juggernaut .Inc 8.00
+39 318126511092 Sandeep Narikedamilli IT Male Loyalty Juggernaut .Inc 8.00
+40 318126502030 Sravani Satyala CHEM Female TCS Digital 7.70
+41 318126510022 Srikar Sai Ganesh Jonnalagadda CSE Male TCS Digital 7.70
+42 318126510038 Satya Kalyani Nakka CSE Female TCS Digital 7.70
+43 318126510045 Akash Raghupatruni CSE Male TCS Digital 7.70
+44 318126510088 Yaswanth Maguluri CSE Male TCS Digital 7.70
+45 318126510099 Sai Chaitanya Reddy Neelapu CSE Male TCS Digital 7.70
+46 318126510104 Nagasai Repalle CSE Male TCS Digital 7.70
+47 318126510140 Ganesh Kumar Alamuri CSE Male TCS Digital 7.70
+48 318126510142 Pavan Kalyan Guntuboina CSE Male TCS Digital 7.70
+49 318126512051 Samuel David Sodadasi ECE Male TCS Digital 7.70
+50 318126512068 Pravallika Boga ECE Female TCS Digital 7.70
+51 318126512098 Sai Kiran Patro ECE Male TCS Digital 7.70
+52 318126512154 Venkata Sairam Mallemoggala ECE Male TCS Digital 7.70
+53 318126512083 Sindhuja Karri ECE Female TCS Digital 7.70
+54 318126514057 Vagdevi Bagadi EEE Female TCS Digital 7.70
+55 318126511147 Venkata Sai Surya Anil Pedagadi IT Male TCS Digital 7.70
+56 318126511149 Srikanth Puthur IT Male TCS Digital 7.70
+57 318126520184 Kantreddy Hakila Satya Priyanka MECH Female TCS Digital 7.70
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+58 318126510142 Pavan Kalyan Guntuboina CSE Male Fresherworks 7.50
+59 318126510091 Sushma Metta CSE Female Wiley mThree 7.00
+60 318126510108 Aiswarya Seepana CSE Female Wiley mThree 7.00
+61 318126510119 Sridevi Yamala CSE Female Wiley mThree 7.00
+62 318126512003 Hari Siva Ganesh Annamdevula ECE Male Wiley mThree 7.00
+63 318126512008 Hemalatha Boda ECE Female Wiley mThree 7.00
+64 318126512016 Venkata Sai Kalyan Damarasingu ECE Male Wiley mThree 7.00
+65 318126512046 Ravi Kumar Saladi ECE Male Wiley mThree 7.00
+66 318126512160 K N Naga Satya Venkata Ayyappa Vuddagiri ECE Male Wiley mThree 7.00
+67 318126514101 Kethan Vijay Kumar Vangapandu EEE Male Wiley mThree 7.00
+68 318126511025 Sakheth Naveen Kamana IT Male Wiley mThree 7.00
+69 318126511032 Lakshmi Sailaja Bharathi Ganti IT Female Wiley mThree 7.00
+70 318126511101 Rishi Kiladi IT Male Wiley mThree 7.00
+71 319126502L05 Uma Mohan Krishna Arjilla CHEM Male Keshav Encon Pvt. Ltd. 7.00
+72 318126510034 Nuthana Madugula CSE Female CDK Global 6.50
+73 318126510098 Prudhvi Raj Nammi CSE Male CDK Global 6.50
+74 318126510122 Harshini Lakshmi Durga Allada CSE Female CDK Global 6.50
+75 318126510168 Sai Sanjana Rayaprolu CSE Female CDK Global 6.50
+76 318126502037 Chetana Vedanaparthy CHEM Female Virtusa 6.50
+77 318126510071 Mahendra Tulasi Kumar Dasari CSE Male Virtusa NeuralHack 6.50
+78 318126511147 Venkata Sai Surya Anil Pedagadi IT Male Virtusa NeuralHack 6.50
+79 318126508003 Raveendra Venkata Sai Akula Civil Male Wipro Turbo 6.50
+80 319126508L03 Kumar Prasanth Munubarti Civil Male Wipro Turbo 6.50
+81 318126510001 Abhishek Tolada CSE Male Wipro Turbo 6.50
+82 318126510011 Shanmuk Arun Bikkavolu CSE Male Wipro Turbo 6.50
+83 318126510015 Ramya Budda CSE Female Wipro Turbo 6.50
+84 318126510020 Sanjusha Gundu CSE Female Wipro Turbo 6.50
+85 318126510022 Srikar Sai Ganesh Jonnalagadda CSE Male Wipro Turbo 6.50
+86 318126510031 Jyothsna Lenka CSE Female Wipro Turbo 6.50
+87 318126510034 Nuthana Madugula CSE Female Wipro Turbo 6.50
+88 318126510035 Sunila Madugula CSE Female Wipro Turbo 6.50
+89 318126510038 Satya Kalyani Nakka CSE Female Wipro Turbo 6.50
+90 318126510039 Christina Preethi Nelapudi CSE Female Wipro Turbo 6.50
+91 318126510041 Tejaswi V L Nidumolu CSE Female Wipro Turbo 6.50
+92 318126510045 Akash Raghupatruni CSE Male Wipro Turbo 6.50
+93 318126510052 Tanooja Kosuru CSE Female Wipro Turbo 6.50
+94 318126510053 Tejasri Karri CSE Female Wipro Turbo 6.50
+95 318126510058 Parimala Vasipalli CSE Female Wipro Turbo 6.50
+96 318126510061 Goutham Sai Pavan Adari CSE Male Wipro Turbo 6.50
+97 318126510064 Darshan Barre CSE Male Wipro Turbo 6.50
+98 318126510067 Bharat Teja Chodavarapu CSE Male Wipro Turbo 6.50
+99 318126510070 Yamini Krishna Damarla CSE Female Wipro Turbo 6.50
+100 318126510075 Pavan Teja Galla CSE Male Wipro Turbo 6.50
+101 318126510077 Somasekhar Illa CSE Male Wipro Turbo 6.50
+102 318126510081 Sneha kiran Konchada CSE Female Wipro Turbo 6.50
+103 318126510086 Bhaskar Madabattula CSE Male Wipro Turbo 6.50
+104 318126510090 Rajasri Marisa CSE Female Wipro Turbo 6.50
+105 318126510091 Sushma Metta CSE Female Wipro Turbo 6.50
+106 318126510094 Riyaz Ali Mohammad CSE Male Wipro Turbo 6.50
+107 318126510099 Sai Chaitanya Reddy Neelapu CSE Male Wipro Turbo 6.50
+108 318126510100 Vidhya Sagar Netti Sagar CSE Male Wipro Turbo 6.50
+109 318126510101 Rakesh Pithani CSE Male Wipro Turbo 6.50
+110 318126510102 Hari Prasad Putta CSE Male Wipro Turbo 6.50
+111 318126510104 Nagasai Repalle CSE Male Wipro Turbo 6.50
+112 318126510105 Ruchita Podugu CSE Female Wipro Turbo 6.50
+113 318126510107 Bhanu Prakash Sakkuri CSE Male Wipro Turbo 6.50
+114 318126510115 Ranjit Varikuti CSE Male Wipro Turbo 6.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+115 318126510123 Bharathi Lakshmi Baddi CSE Female Wipro Turbo 6.50
+116 318126510124 Madhu Nitesh Bandi CSE Male Wipro Turbo 6.50
+117 318126510125 Kavyasri Bantu CSE Female Wipro Turbo 6.50
+118 318126510130 Vidya Vikas Bonangi CSE Male Wipro Turbo 6.50
+119 318126510131 Jyothi Prakash Boora CSE Male Wipro Turbo 6.50
+120 318126510132 Devi Varaprasad Chittimoju CSE Male Wipro Turbo 6.50
+121 318126510134 Divyanth Ramnath Darsi CSE Male Wipro Turbo 6.50
+122 318126510135 Mohan Manikanta Sai Dasari CSE Male Wipro Turbo 6.50
+123 318126510136 Satyanarayana Varma Datla CSE Male Wipro Turbo 6.50
+124 318126510137 Sharvani Venkata Konda Emandi CSE Female Wipro Turbo 6.50
+125 318126510138 Mourya Prateek Emandi CSE Male Wipro Turbo 6.50
+126 318126510139 Kiran Kumar Ganeda CSE Male Wipro Turbo 6.50
+127 318126510140 Ganesh Kumar Alamuri CSE Male Wipro Turbo 6.50
+128 318126510141 Sri Divya Gorli CSE Female Wipro Turbo 6.50
+129 318126510142 Pavan Kalyan Guntuboina CSE Male Wipro Turbo 6.50
+130 318126510146 Tharun Tej Kalla CSE Male Wipro Turbo 6.50
+131 318126510150 Vandana Killari CSE Female Wipro Turbo 6.50
+132 318126510153 Yaswanth Sai Lalam CSE Male Wipro Turbo 6.50
+133 318126510157 Nirupama Nagisetti CSE Female Wipro Turbo 6.50
+134 318126510159 Satya Avinash Nimmakayala CSE Male Wipro Turbo 6.50
+135 318126510172 Harika Savarapu CSE Female Wipro Turbo 6.50
+136 318126510173 Sravani Seera CSE Female Wipro Turbo 6.50
+137 318126510175 Ranga Reddy Siddamreddy CSE Male Wipro Turbo 6.50
+138 318126510177 Sruthi Vayilada CSE Female Wipro Turbo 6.50
+139 319126510L08 Shanmukhi Devi Guntreddi CSE Female Wipro Turbo 6.50
+140 319126510L14 Chandrasekhar Sivaji Chintala CSE Male Wipro Turbo 6.50
+141 318126512002 Ankitha Vidisha Hamsa ECE Female Wipro Turbo 6.50
+142 318126512003 Hari Siva Ganesh Annamdevula ECE Male Wipro Turbo 6.50
+143 318126512005 Sai Santosh Bagadi ECE Male Wipro Turbo 6.50
+144 318126512008 Hemalatha Boda ECE Female Wipro Turbo 6.50
+145 318126512009 Venkata Gowthami Priya Boddu ECE Female Wipro Turbo 6.50
+146 318126512010 Bharath Bollu ECE Male Wipro Turbo 6.50
+147 318126512011 Lokesh Borra ECE Male Wipro Turbo 6.50
+148 318126512015 Mani Vivek Sri Harsha Chintada ECE Male Wipro Turbo 6.50
+149 318126512019 Revanth Gokeda ECE Male Wipro Turbo 6.50
+150 318126512025 Tejeswararao Kola ECE Male Wipro Turbo 6.50
+151 318126512027 Kotaiah Chowdary Ravuri ECE Male Wipro Turbo 6.50
+152 318126512030 Sai Krishna Mandarapu ECE Male Wipro Turbo 6.50
+153 318126512031 Madhuri Matcha ECE Female Wipro Turbo 6.50
+154 318126512043 Padmapriya Rachagulla ECE Female Wipro Turbo 6.50
+155 318126512046 Ravi Kumar Saladi ECE Male Wipro Turbo 6.50
+156 318126512048 Hassireen Shaik ECE Female Wipro Turbo 6.50
+157 318126512050 Rakesh Babu Sirigineedi ECE Male Wipro Turbo 6.50
+158 318126512051 Samuel David Sodadasi ECE Male Wipro Turbo 6.50
+159 318126512058 Mouli Sri Sai Vippali ECE Male Wipro Turbo 6.50
+160 318126512059 Tirumala Rao Voonna ECE Male Wipro Turbo 6.50
+161 318126512064 Dharma Teja Baki ECE Male Wipro Turbo 6.50
+162 318126512066 Tarun Battula ECE Male Wipro Turbo 6.50
+163 318126512067 Venkata Jyothi Ashritha Behara ECE Female Wipro Turbo 6.50
+164 318126512068 Pravallika Boga ECE Female Wipro Turbo 6.50
+165 318126512069 Mothilal Bommali ECE Male Wipro Turbo 6.50
+166 318126512071 Satya Sushma Damodara ECE Female Wipro Turbo 6.50
+167 318126512074 Harsha Vardhan Doddi ECE Male Wipro Turbo 6.50
+168 318126512077 Sirisha Gandem ECE Female Wipro Turbo 6.50
+169 318126512079 Venkata Nagarjuna Reddy Godhala ECE Male Wipro Turbo 6.50
+170 318126512081 Harshini Kandula ECE Female Wipro Turbo 6.50
+171 318126512083 Sindhuja Karri ECE Female Wipro Turbo 6.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+172 318126512084 Rumosh Ananth Katam ECE Male Wipro Turbo 6.50
+173 318126512085 Pavani Kollati ECE Female Wipro Turbo 6.50
+174 318126512090 Deepthi Chinni Swaroopa Marri ECE Female Wipro Turbo 6.50
+175 318126512096 Aasha Routhu ECE Female Wipro Turbo 6.50
+176 318126512097 Mounika Routhu ECE Female Wipro Turbo 6.50
+177 318126512098 Sai Kiran Patro ECE Male Wipro Turbo 6.50
+178 318126512100 Sravan Sandula ECE Male Wipro Turbo 6.50
+179 318126512102 Shahid Shaik ECE Male Wipro Turbo 6.50
+180 318126512103 Sai Rahul Singampalli ECE Male Wipro Turbo 6.50
+181 318126512104 Sreevalli Singisetti ECE Female Wipro Turbo 6.50
+182 318126512105 Sudheer Sunkari ECE Male Wipro Turbo 6.50
+183 318126512106 Kiranmayee Takasi ECE Female Wipro Turbo 6.50
+184 318126512110 Mahesh Udarla ECE Male Wipro Turbo 6.50
+185 318126512112 Vaishnavi Dara ECE Female Wipro Turbo 6.50
+186 318126512113 Madhuri Vanjarapu ECE Female Wipro Turbo 6.50
+187 318126512114 Yerni Kameswari Vanka ECE Female Wipro Turbo 6.50
+188 318126512115 Sravani Vantakula ECE Female Wipro Turbo 6.50
+189 318126512117 Venkat Naidu Gorli ECE Male Wipro Turbo 6.50
+190 318126512122 Sunil Kumar Akana ECE Male Wipro Turbo 6.50
+191 318126512123 Kapil Vardhan Ayenala ECE Male Wipro Turbo 6.50
+192 318126512124 Harsha Vardhan Bandaru ECE Male Wipro Turbo 6.50
+193 318126512135 Vijay Kumar Dwarapudi ECE Male Wipro Turbo 6.50
+194 318126512137 Jyothsna Gottumukkala ECE Female Wipro Turbo 6.50
+195 318126512138 Reshma Gude ECE Female Wipro Turbo 6.50
+196 318126512139 Hemanth Ippili ECE Male Wipro Turbo 6.50
+197 318126512140 Asritha Jami ECE Female Wipro Turbo 6.50
+198 318126512142 Bhavani Javvadi ECE Female Wipro Turbo 6.50
+199 318126512143 Janani Kamireddi ECE Female Wipro Turbo 6.50
+200 318126512145 Anil Kumar Karapa ECE Male Wipro Turbo 6.50
+201 318126512146 Bhavana Karimajji ECE Female Wipro Turbo 6.50
+202 318126512147 Rohit Karri ECE Male Wipro Turbo 6.50
+203 318126512151 Govardhan Lingampalli ECE Male Wipro Turbo 6.50
+204 318126512152 Deepshika Maddala ECE Female Wipro Turbo 6.50
+205 318126512153 Sai Durga Manasa Maddila ECE Female Wipro Turbo 6.50
+206 318126512155 Sai Pavithra Mentada ECE Female Wipro Turbo 6.50
+207 318126512156 Vikram Mupparthy ECE Male Wipro Turbo 6.50
+208 318126512158 Siva Nakka ECE Male Wipro Turbo 6.50
+209 318126512161 Pujitha Vaidya Nidadavolu ECE Female Wipro Turbo 6.50
+210 318126512162 Gayathri Nuka ECE Female Wipro Turbo 6.50
+211 318126512163 Sai Sreekar Karthik Prabhala ECE Male Wipro Turbo 6.50
+212 318126512164 Hemanth Kumar Pentakota ECE Male Wipro Turbo 6.50
+213 318126512166 Sai Charan Perumalla ECE Male Wipro Turbo 6.50
+214 318126512168 Vinay Mouli Punumajji ECE Male Wipro Turbo 6.50
+215 318126512170 Venkatesh Sabbisetti ECE Male Wipro Turbo 6.50
+216 318126512172 Narendra Simma ECE Male Wipro Turbo 6.50
+217 318126512173 Harinath Sontyana ECE Male Wipro Turbo 6.50
+218 318126512174 Pavan Kumar Suggu ECE Male Wipro Turbo 6.50
+219 318126512175 Sai Venkatesh Sunkara ECE Male Wipro Turbo 6.50
+220 318126512177 Vamsi Goddu ECE Male Wipro Turbo 6.50
+221 318126512180 Yogesh Sairam Pentakota ECE Male Wipro Turbo 6.50
+222 319126512L02 Supra Deepika Runkana ECE Female Wipro Turbo 6.50
+223 319126512L10 Meghana Udigala ECE Female Wipro Turbo 6.50
+224 319126512L12 Lalitha Devi Chellaboyina ECE Female Wipro Turbo 6.50
+225 318126514002 Nayana Subha Jyothi Appari EEE Female Wipro Turbo 6.50
+226 318126514005 Sai Rohit Boddeti EEE Male Wipro Turbo 6.50
+227 318126514008 Sandeep Chinta EEE Male Wipro Turbo 6.50
+228 318126514010 Sri Harsha Chitrada EEE Male Wipro Turbo 6.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+229 318126514013 Eswar Chandra Vidya Sagar Dasari EEE MALE Wipro Turbo 6.50
+230 318126514014 Anish Dekka EEE Male Wipro Turbo 6.50
+231 318126514015 Sanjeev Kumar Devadula EEE Male Wipro Turbo 6.50
+232 318126514029 Sanjay Likith Sri Sai Kimidi EEE Male Wipro Turbo 6.50
+233 318126514035 Dharani Marrapu EEE Female Wipro Turbo 6.50
+234 318126514047 Sri Harsha Saragadam EEE Male Wipro Turbo 6.50
+235 318126514049 Harshita Tanavarapu EEE Female Wipro Turbo 6.50
+236 318126514051 Abinash Vummidisetty EEE Male Wipro Turbo 6.50
+237 318126514066 Naveen Gaddavalasa EEE Male Wipro Turbo 6.50
+238 318126514075 Siva Chandra Mouli Mandula EEE Male Wipro Turbo 6.50
+239 318126514078 Keerthi Narne EEE female Wipro Turbo 6.50
+240 318126514089 Chaitanya Regulavalasa EEE Male Wipro Turbo 6.50
+241 318126514091 Dinesh Dinesh Ronanki EEE Male Wipro Turbo 6.50
+242 318126514101 Kethan Vijay Kumar Vangapandu EEE Male Wipro Turbo 6.50
+243 318126514107 Tirumalasai Cherukuri Cherukuri EEE Male Wipro Turbo 6.50
+244 318126514112 Rakesh Kari EEE Male Wipro Turbo 6.50
+245 318126514115 Sandeep Kondeti EEE Male Wipro Turbo 6.50
+246 318126514116 Swetha Reddy Koyya EEE Female Wipro Turbo 6.50
+247 318126514123 Jyothika Priya Mongam EEE Female Wipro Turbo 6.50
+248 318126514124 Koushik Reddy Mukku EEE Male Wipro Turbo 6.50
+249 318126514125 Avinash Nimmakayala EEE Male Wipro Turbo 6.50
+250 318126514133 Bhagavan Satyavarapu EEE Male Wipro Turbo 6.50
+251 318126514134 Srihari Siripurapu EEE Male Wipro Turbo 6.50
+252 319126514L06 Kanuri Harin Kanaka Suresh EEE MALE Wipro Turbo 6.50
+253 319126514L14 Bhagya Lakshmi Pedagapu EEE Female Wipro Turbo 6.50
+254 319126514L21 Vijay Prakash Babu Udigala EEE Male Wipro Turbo 6.50
+255 319126514L25 Dara Hemanth Besetti EEE Male Wipro Turbo 6.50
+256 319126514L30 Bhavana Rachel Sirra EEE Female Wipro Turbo 6.50
+257 319126514L33 Durga Prasad Dandipadala EEE Male Wipro Turbo 6.50
+258 318126511001 Kumar Ganesh Teja Amarapini IT Male Wipro Turbo 6.50
+259 318126511002 Aditya Sai Ranga Babu Andey IT Male Wipro Turbo 6.50
+260 318126511004 Anirudh Kotha IT Male Wipro Turbo 6.50
+261 318126511007 Roshini Bezawada IT Female Wipro Turbo 6.50
+262 318126511008 Rajan Raju Bhupathiraju IT Male Wipro Turbo 6.50
+263 318126511011 Nalini Ratnasai Chetla IT Female Wipro Turbo 6.50
+264 318126511013 Abhishek Damarasing IT Male Wipro Turbo 6.50
+265 318126511015 Disha Dipak Kashid IT Female Wipro Turbo 6.50
+266 318126511016 Sai Sowmya Doki IT Female Wipro Turbo 6.50
+267 318126511017 Sai Kiran Gadhamsetti IT Male Wipro Turbo 6.50
+268 318126511021 Jahnavi Priya Jagarapu IT Female Wipro Turbo 6.50
+269 318126511022 Noothana Jeeru IT Female Wipro Turbo 6.50
+270 318126511023 Hanimi Reddy Julakanti IT Male Wipro Turbo 6.50
+271 318126511024 Gayitri Kallam IT Female Wipro Turbo 6.50
+272 318126511030 Srikanth Kotipalli IT Male Wipro Turbo 6.50
+273 318126511031 Sai Sunil Kundiri IT Male Wipro Turbo 6.50
+274 318126511032 Lakshmi Sailaja Bharathi Ganti IT Female Wipro Turbo 6.50
+275 318126511035 Naveen Naru IT Male Wipro Turbo 6.50
+276 318126511038 Uday Shankar Patta IT Male Wipro Turbo 6.50
+277 318126511045 Sai Sudeshna Jami IT Female Wipro Turbo 6.50
+278 318126511047 Satya Krishna Mohan Singamsetti IT Male Wipro Turbo 6.50
+279 318126511048 Jyoshna Devi Siriki IT Female Wipro Turbo 6.50
+280 318126511049 Sraddha Ananya Atyam IT Female Wipro Turbo 6.50
+281 318126511050 Sri Sai Dheeraj Malladi IT Male Wipro Turbo 6.50
+282 318126511053 Indu Priya Ungatla IT Female Wipro Turbo 6.50
+283 318126511055 Venkata Sai Dinesh Vetcha IT Male Wipro Turbo 6.50
+284 318126511057 Hema Lakshmi Addagarla IT Female Wipro Turbo 6.50
+285 318126511058 Akhila Kommana IT Female Wipro Turbo 6.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+286 318126511063 Uday Kiran Budi IT Male Wipro Turbo 6.50
+287 318126511065 Pujitha Damodara IT Female Wipro Turbo 6.50
+288 318126511067 Amarendra Darsi IT Male Wipro Turbo 6.50
+289 318126511072 Manikanta Sai Varma Indukuri IT Male Wipro Turbo 6.50
+290 318126511074 Goureeswari Janapareddy IT Female Wipro Turbo 6.50
+291 318126511075 Lakshmi Siri Chandana Jasti IT Female Wipro Turbo 6.50
+292 318126511077 Sai Ram Krishna Joga IT Male Wipro Turbo 6.50
+293 318126511087 Vandana Mvvs IT Female Wipro Turbo 6.50
+294 318126511092 Sandeep Narikedamilli IT Male Wipro Turbo 6.50
+295 318126511093 Pavan Kumar Pathivada IT Male Wipro Turbo 6.50
+296 318126511097 Sai Kiran Pinnelli IT Male Wipro Turbo 6.50
+297 318126511099 Charan Kumar Poosarla IT Male Wipro Turbo 6.50
+298 318126511103 Sai Lavanya Saladi IT Female Wipro Turbo 6.50
+299 318126511108 Venkata Sai Tangudu IT Male Wipro Turbo 6.50
+300 318126511109 Santosh Tankala IT Male Wipro Turbo 6.50
+301 318126511113 Divya Teja Vanapalli IT Female Wipro Turbo 6.50
+302 318126511118 Sai Vamsi Bammidi IT Male Wipro Turbo 6.50
+303 318126511119 Deva Sai Deepika Botcha IT Female Wipro Turbo 6.50
+304 318126511121 Ch N V S K Rayudu Enakoti IT Male Wipro Turbo 6.50
+305 318126511122 Sandhya Chittibomma IT Female Wipro Turbo 6.50
+306 318126511123 Dharmaraju Donkana IT Male Wipro Turbo 6.50
+307 318126511130 Sandeep Kumar Karnati IT MALE Wipro Turbo 6.50
+308 318126511134 Venkata Sai Kuniganti IT Male Wipro Turbo 6.50
+309 318126511136 Chiranjeevi Venkata Surya Teja Maddala IT Male Wipro Turbo 6.50
+310 318126511138 Aishwarya Mane IT Female Wipro Turbo 6.50
+311 318126511147 Venkata Sai Surya Anil Pedagadi IT Male Wipro Turbo 6.50
+312 318126511149 Srikanth Puthur IT Male Wipro Turbo 6.50
+313 318126511155 Srikanth Bhogi IT Male Wipro Turbo 6.50
+314 318126511156 Tabassum IT Female Wipro Turbo 6.50
+315 318126511157 Kavya Sri Teluguntla IT Female Wipro Turbo 6.50
+316 318126511158 Indira Tirumala Raju IT Female Wipro Turbo 6.50
+317 318126511160 Sai Praveen Vajapeyayajula IT Male Wipro Turbo 6.50
+318 318126511162 Vinni Baratam IT Female Wipro Turbo 6.50
+319 318126511164 Surya Harsha Vuppati IT Male Wipro Turbo 6.50
+320 319126511L02 Nikil Murari Malla IT Male Wipro Turbo 6.50
+321 318126520002 Akkabattula Sashank MECH Male Wipro Turbo 6.50
+322 318126520003 Anirudh Susarla MECH Male Wipro Turbo 6.50
+323 318126520025 Kothakota Narendrakumar MECH Male Wipro Turbo 6.50
+324 318126520035 Mungi Sai Meghavardhan MECH Male Wipro Turbo 6.50
+325 318126520037 Nirujogi Bharath MECH Male Wipro Turbo 6.50
+326 318126520052 Sunkari Anil Kumar MECH Male Wipro Turbo 6.50
+327 318126520053 Thatavarthi Sai Krishna Vamsi MECH Male Wipro Turbo 6.50
+328 318126520055 Vamsi Krishna Ambati MECH Male Wipro Turbo 6.50
+329 318126520057 Velamala Jaya Krishna MECH Male Wipro Turbo 6.50
+330 318126520066 B. Mohan Srinivas MECH Male Wipro Turbo 6.50
+331 318126520067 Boggavarapu Nitish Bharadwaj MECH Male Wipro Turbo 6.50
+332 318126520075 Dannana Dhruva Teja MECH Male Wipro Turbo 6.50
+333 318126520082 Harshavardhan Dora Inapakurthi MECH Male Wipro Turbo 6.50
+334 318126520085 Kanchipati Kumar MECH Male Wipro Turbo 6.50
+335 318126520096 Mamidi Varun Apesh MECH Male Wipro Turbo 6.50
+336 318126520105 Patoju Sai Sankar MECH Male Wipro Turbo 6.50
+337 318126520108 Ravada Upendra MECH Male Wipro Turbo 6.50
+338 318126520114 Varanasi Pavan MECH Male Wipro Turbo 6.50
+339 318126520120 Boddepalli Chandrasekhar Sai Srinivas MECH Male Wipro Turbo 6.50
+340 318126520124 Venkata Sai Praneeth Borra MECH Male Wipro Turbo 6.50
+341 318126520130 Chintada. Vishnu Koushik MECH Male Wipro Turbo 6.50
+342 318126520135 Doddi Revanth MECH Male Wipro Turbo 6.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+343 318126520138 Golla Nikhil Durga Sai MECH Male Wipro Turbo 6.50
+344 318126520147 Kothakota Chaitanya Kumar MECH Male Wipro Turbo 6.50
+345 318126520184 Kantreddy Hakila Satya Priyanka MECH Female Wipro Turbo 6.50
+346 318126520194 Nalli Prasanth Sai MECH Male Wipro Turbo 6.50
+347 319126520L27 Mandapati Ugendra Varma MECH Male Wipro Turbo 6.50
+348 319126520L41 Guntuku Yeswanth Kumar MECH Male Wipro Turbo 6.50
+349 318126510005 Aneel Kumar Pinninti CSE Male HackwithInfy DSE 6.25
+350 318126510016 Vt Nns Sreekar Teja Chavali CSE Male HackwithInfy DSE 6.25
+351 318126510037 Lohith Mothika CSE Male HackwithInfy DSE 6.25
+352 318126510098 Prudhvi Raj Nammi CSE Male HackwithInfy DSE 6.25
+353 318126510133 Viswamohan Dantuluri CSE Male HackwithInfy DSE 6.25
+354 318126511008 Rajan Raju Bhupathiraju IT Male HackwithInfy DSE 6.25
+355 318126511056 Harshit Kiran Adatra IT Male HackwithInfy DSE 6.25
+356 318126511115 Pavan Teja Yarlagadda IT Male HackwithInfy DSE 6.25
+357 318126510054 Vineetha Sai Durga Thaninki CSE Female H-INFY TQ DSE 6.25
+358 318126510140 Ganesh Kumar Alamuri CSE Male H-INFY TQ DSE 6.25
+359 318126510160 Prathyusha Padmanabhuni CSE Female H-INFY TQ DSE 6.25
+360 318126510027 Kiran Prakash Kodali CSE Male Infosys DSE 6.25
+361 318126510028 Subba Reddy Kondapalli CSE Male Infosys DSE 6.25
+362 318126510038 Satya Kalyani Nakka CSE Female Infosys DSE 6.25
+363 318126510039 Christina Preethi Nelapudi CSE Female Infosys DSE 6.25
+364 318126510045 Akash Raghupatruni CSE Male Infosys DSE 6.25
+365 318126510051 Akhilesh Tanneedi CSE Male Infosys DSE 6.25
+366 318126510055 Anusha Vadada CSE Female Infosys DSE 6.25
+367 318126510060 Sai Sowjanya Yerra CSE Female Infosys DSE 6.25
+368 318126510062 Akriti Sinha CSE Female Infosys DSE 6.25
+369 318126510068 Anil Kumar Dakarapu CSE Male Infosys DSE 6.25
+370 318126510117 Vivek Vavilapalli CSE Male Infosys DSE 6.25
+371 318126510126 Kamal Bathula CSE Male Infosys DSE 6.25
+372 318126510128 Sravanya Bendi CSE Female Infosys DSE 6.25
+373 318126510129 Sri Harsha Boddeti CSE Male Infosys DSE 6.25
+374 318126510139 Kiran Kumar Ganeda CSE Male Infosys DSE 6.25
+375 318126510145 Geetanjali Kaibadi CSE Female Infosys DSE 6.25
+376 318126510148 Visalika Katru CSE Female Infosys DSE 6.25
+377 319126510L10 Bhargav Srinivas Pakiram CSE Male Infosys DSE 6.25
+378 318126512063 Sowjanya Badugu ECE Female Infosys DSE 6.25
+379 318126512116 Vathsalya Pola ECE Female Infosys DSE 6.25
+380 318126512119 Jaya Charitha Yendluri ECE Female Infosys DSE 6.25
+381 318126514006 Swetha Budda EEE Female Infosys DSE 6.25
+382 318126514075 Siva Chandra Mouli Mandula EEE Male Infosys DSE 6.25
+383 318126514133 Bhagavan Satyavarapu EEE Male Infosys DSE 6.25
+384 318126514134 Srihari Siripurapu EEE Male Infosys DSE 6.25
+385 318126511035 Naveen Naru IT Male Infosys DSE 6.25
+386 318126511084 Bhagnesh Venkata Kona IT Male Infosys DSE 6.25
+387 318126511089 Sai Surya Kiran Meesala IT Male Infosys DSE 6.25
+388 318126511102 Srinivasa Jaswanth Varma Sagi IT Male Infosys DSE 6.25
+389 318126512010 Bharath Bollu ECE Male Mitsago 6.25
+390 318126512052 Soma Sekhar Dasari ECE Male Mitsago 6.25
+391 317126511144 Manikanta Gudla IT Male Mitsago 6.25
+392 318126511054 Swaraj Naidu Valireddi IT Male Mitsago 6.25
+393 318126510099 Sai Chaitanya Reddy Neelapu CSE Male Axiom IO 6.00
+394 318126510133 Viswamohan Dantuluri CSE Male Axiom IO 6.00
+395 318126510163 Rohitha Polamarasetty CSE Female Axiom IO 6.00
+396 318126510164 Manikanta Ponduri CSE Male Axiom IO 6.00
+397 318126510165 Krishna Mohan Pothana CSE Male Axiom IO 6.00
+398 318126510028 Subba Reddy Kondapalli CSE Male Bitwise(internship) 6.00
+399 318126511063 Uday Kiran Budi IT Male Bitwise(internship) 6.00
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+400 318126510018 Tanishk Venkat Mahesh Babu Gali CSE Male Deloitte 6.00
+401 318126510140 Ganesh Kumar Alamuri CSE Male Deloitte 6.00
+402 318126510022 Srikar Sai Ganesh Jonnalagadda CSE Male EPAM 6.00
+403 318126510029 Uday Kumar Kotla CSE Male EPAM 6.00
+404 318126510038 Satya Kalyani Nakka CSE Female EPAM 6.00
+405 318126510053 Tejasri Karri CSE Female EPAM 6.00
+406 318126510067 Bharat Teja Chodavarapu CSE Male EPAM 6.00
+407 318126510103 Vennela Pydisetty CSE Female EPAM 6.00
+408 318126510146 Tharun Tej Kalla CSE Male EPAM 6.00
+409 318126511065 Pujitha Damodara IT Female EPAM 6.00
+410 318126510066 Pravallika Boni CSE Female Hexaware Technologies 6.00
+411 318126510135 Mohan Manikanta Sai Dasari CSE Male Juspay(Internship) 6.00
+412 318126510105 Ruchita Podugu CSE Female Prolifics 6.00
+413 318126510068 Anil kumar Dakarapu CSE Male Techigai 6.00
+414 318126510081 Sneha Kiran Konchada CSE Female Techigai 6.00
+415 318126510126 Kamal Bathula CSE Male Techigai 6.00
+416 318126510129 Sri Harsha Boddeti CSE Male Techigai 6.00
+417 318126510142 Pavan Kalyan Guntuboina CSE Male Techigai 6.00
+418 318126510147 Satya Sai Praveen Kanta CSE Male Techigai 6.00
+419 318126510150 Vandana Killari CSE Male Techigai 6.00
+420 318126510161 Naga Jyothi Pasagadugula CSE Female Techigai 6.00
+421 318126510170 Sai Charan Gangu CSE Male Techigai 6.00
+422 318126512018 Manikanta Sarma Ganti ECE Male Techigai 6.00
+423 318126512108 Avinash Tangudu ECE Male Techigai 6.00
+424 318126512116 Vathsalya Pola ECE Female Techigai 6.00
+425 318126512166 Sai Charan Perumalla ECE Male Techigai 6.00
+426 318126520179 Gudimetla Naga Rama Bruhathi MECH Female TechMahindra 6.00
+427 318126520048 Shaik Faiz MECH Male Blue Danio Sea Services 5.65
+428 318126520107 Ranjith Kumar Kallapalli MECH Male Blue Danio Sea Services 5.65
+429 318126520186 Kokkiri. Bala Krishna MECH Male Blue Danio Sea Services 5.65
+430 319126520L46 Mamidi Jaswanth MECH Male Blue Danio Sea Services 5.65
+431 318126512103 Sai Rahul Singampalli ECE Male ZOHO 5.60
+432 318126510084 Vinay Sri Venkatesh Lakkadasu CSE Male Efftronics 5.50
+433 318126511121 Ch N V S K Rayudu Enakoti IT Male Efftronics 5.50
+434 318126510061 Goutham Sai Pavan Adari CSE Male Riktam 5.50
+435 318126510135 Mohan Manikanta Sai Dasari CSE Male Riktam 5.50
+436 318126510160 Prathyusha Padmanabhuni CSE Female Riktam 5.50
+437 318126512053 Bhargav Sureddi ECE Male Riktam 5.50
+438 318126512098 Sai Kiran Patro ECE Male Riktam 5.50
+439 318126511090 Ananya Miriyala IT Female Riktam 5.50
+440 319126520L04 Kanuri Roopesh MECH Male Larsen & Toubro Limited 5.42
+441 318126520102 Nunna Sai Pavan MECH Male Wipro Turbo 5.42
+442 318126514001 Pradeep Chandra Alamanda EEE Male Blue Danio Sea Services 5.25
+443 318126514007 Burdapati Sri Harsha EEE MALE Blue Danio Sea Services 5.25
+444 318126514032 Venkata Surya Lalam EEE MALE Blue Danio Sea Services 5.25
+445 318126514059 Naveen Kumar Bellamkonda EEE Male Blue Danio Sea Services 5.25
+446 318126514069 Vishal Kumar K EEE Male Blue Danio Sea Services 5.25
+447 318126514074 Lammatha Vinod Kumar EEE Male Blue Danio Sea Services 5.25
+448 318126514080 Yogeswar Achari Pedapolu EEE male Blue Danio Sea Services 5.25
+449 318126514100 Narendra Rao Uppada EEE Male Blue Danio Sea Services 5.25
+450 319126514L15 Devi Kiran Panigrahi EEE Male Blue Danio Sea Services 5.25
+451 319126514L16 Chaitanya Pavan Tummaganti EEE Male Blue Danio Sea Services 5.25
+452 319126514L19 Rohith Banoth EEE male Blue Danio Sea Services 5.25
+453 319126514L23 Lakshmi Narayana Meesala EEE Male Blue Danio Sea Services 5.25
+454 319126514L27 Potnuru Ajay Kumar EEE male Blue Danio Sea Services 5.25
+455 319126510L10 Bhargav Srinivas Pakiram CSE Male Apps Associates 5.00
+456 318126512077 Sirisha Gandem ECE Female Apps Associates 5.00
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+457 318126510015 Ramya Budda CSE Female Harman Kardon 5.00
+458 318126520096 Mamidi Varun Apesh MECH Male Hyundai Motors 5.00
+459 318126520111 Senapathi Venkata Siva Sai Anil Kumar MECH Male Hyundai Motors 5.00
+460 319126520L18 Gudipati Dinesh MECH Male Hyundai Motors 5.00
+461 319126510L12 Hemanth Kumar Veesam CSE Male Intellect 5.00
+462 318126510043 Dharani Polavarapu CSE Female Virtusa NeuralHack 5.00
+463 318126511039 Pavan Kumar Vagicherla IT Male Virtusa NeuralHack 5.00
+464 318126510111 Lokesh Kumar Simma CSE Male Axiom IO 4.80
+465 318126510124 Madhu Nitesh Bandi CSE Male Axiom IO 4.80
+466 318126510170 Sai Charan Gangu CSE Male Axiom IO 4.80
+467 318126512010 Bharath Bollu ECE Male Axiom IO 4.80
+468 318126511081 Sricharan Sai Marutha Kasulanati IT Male Axiom IO 4.80
+469 318126511134 Venkata Sai Kuniganti IT Male Axiom IO 4.80
+470 318126510175 Ranga Reddy Siddamreddy CSE Male Persistant 4.71
+471 318126514038 Sai Kiran Mylapilli EEE Male ZOHO 4.60
+472 318126520162 Shaik P Shehzad MECH Male ZOHO 4.60
+473 318126512166 Sai Charan Perumalla ECE Male CHIPSPIRIT TECHNOLOGIES PvT. Ltd 4.60
+474 318126510032 Lohitha Machavarapu CSE Female Deloitte 4.50
+475 318126510057 Kalyan Vanne CSE Male Deloitte 4.50
+476 318126510074 Jagadeesh Desetti CSE Male Deloitte 4.50
+477 318126510080 Lokesh Kari CSE Male Deloitte 4.50
+478 318126510091 Sushma Metta CSE Female Deloitte 4.50
+479 318126510108 Aiswarya Seepana CSE Female Deloitte 4.50
+480 318126510125 Kavyasri Bantu CSE Female Deloitte 4.50
+481 318126510135 Mohan Manikanta Sai Dasari CSE Male Deloitte 4.50
+482 318126510159 Satya Avinash Nimmakayala CSE Male Deloitte 4.50
+483 318126510175 Ranga Reddy Siddamreddy CSE Male Deloitte 4.50
+484 319126510L05 Arundathi Sambangi CSE Female Deloitte 4.50
+485 318126512002 Ankitha Vidisha Hamsa ECE Female Deloitte 4.50
+486 318126512004 Sri Ragamayi Arasada ECE Female Deloitte 4.50
+487 318126512030 Sai Krishna Mandarapu ECE Male Deloitte 4.50
+488 318126512036 Leela Venkat Madhav Nollu ECE Male Deloitte 4.50
+489 318126512046 Ravi Kumar Saladi ECE Male Deloitte 4.50
+490 318126512067 Venkata Jyothi Ashritha Behara ECE Female Deloitte 4.50
+491 318126512096 Aasha Routhu ECE Female Deloitte 4.50
+492 318126512103 Sai Rahul Singampalli ECE Male Deloitte 4.50
+493 318126512107 Sannath Kumar Talathoti ECE Male Deloitte 4.50
+494 318126512162 Gayathri Nuka ECE Female Deloitte 4.50
+495 318126514020 Bhavya Sri Pravallika Guvvala EEE Female Deloitte 4.50
+496 318126514101 Kethan Vijay Kumar Vangapandu EEE Male Deloitte 4.50
+497 318126511003 Kanaka Ratna Kumari Andhavarapu IT Female Deloitte 4.50
+498 318126511034 Hemanth Kumar Nandigama IT Male Deloitte 4.50
+499 318126511049 Sraddha Ananya Atyam IT Female Deloitte 4.50
+500 318126511072 Manikanta Sai Varma Indukuri IT Male Deloitte 4.50
+501 318126511099 Charan Kumar Poosarla IT Male Deloitte 4.50
+502 318126511114 Sai Charan Venkata Satya Grandhi IT Male Deloitte 4.50
+503 318126511136 Chiranjeevi Venkata Surya Teja Maddala IT Male Deloitte 4.50
+504 318126511148 Venkat Rao Podipireddy IT Male Deloitte 4.50
+505 318126511162 Vinni Baratam IT Female Deloitte 4.50
+506 318126510125 Kavyasri Bantu CSE Female Harman Kardon 4.50
+507 318126510125 Kavyasri Bantu CSE Female Hyundai Mobis 4.50
+508 319126510L06 Sesha Shai Datta Kolli CSE Male Hyundai Mobis 4.50
+509 319126510L13 Amulya Harika Vempadapu CSE Female Hyundai Mobis 4.50
+510 318126512003 Hari Siva Ganesh Annamdevula ECE Male Hyundai Mobis 4.50
+511 318126512006 Santhosh Kumar Baratam ECE Male Hyundai Mobis 4.50
+512 318126512016 Venkata Sai Kalyan Damarasingu ECE Male Hyundai Mobis 4.50
+513 318126512021 Soma Sundara Thushar Hari ECE Male Hyundai Mobis 4.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+514 318126512044 Naga Sai Nikhil Ramisetty ECE Male Hyundai Mobis 4.50
+515 318126512065 Goutami Balijepalli ECE Female Hyundai Mobis 4.50
+516 318126512079 Venkata Nagarjuna Reddy Godhala ECE Male Hyundai Mobis 4.50
+517 318126512120 Pavan Kumar Yerra ECE Male Hyundai Mobis 4.50
+518 318126512137 Jyothsna Gottumukkala ECE Female Hyundai Mobis 4.50
+519 318126512139 Hemanth Ippili ECE Male Hyundai Mobis 4.50
+520 318126512156 Vikram Mupparthy ECE Male Hyundai Mobis 4.50
+521 318126512163 Sai Sreekar Karthik Prabhala ECE Male Hyundai Mobis 4.50
+522 318126512174 Pavan Kumar Suggu ECE Male Hyundai Mobis 4.50
+523 318126512175 Sai Venkatesh Sunkara ECE Male Hyundai Mobis 4.50
+524 319126520L17 Pedapati Mvsk Sai Satya Ganesh MECH Male Hyundai Mobis 4.50
+525 318126510013 Naga Mythili Bonthu CSE Female IBM 4.50
+526 318126510041 Tejaswi V L Nidumolu CSE Female IBM 4.50
+527 318126510055 Anusha Vadada CSE Female IBM 4.50
+528 318126510091 Sushma Metta CSE Female IBM 4.50
+529 318126510119 Sridevi Yamala CSE Female IBM 4.50
+530 318126512002 Ankitha Vidisha Hamsa ECE Female IBM 4.50
+531 318126512083 Sindhuja Karri ECE Female IBM 4.50
+532 318126512137 Jyothsna Gottumukkala ECE Female IBM 4.50
+533 318126512161 Pujitha Vaidya Nidadavolu ECE Female IBM 4.50
+534 318126514002 Nayana Subha Jyothi Appari EEE Female IBM 4.50
+535 318126514003 Gayathri Arasada EEE Female IBM 4.50
+536 318126514126 Reetika Palateru EEE Female IBM 4.50
+537 318126511048 Jyoshna Devi Siriki IT Female IBM 4.50
+538 318126511085 Deepthi Koppula IT Female IBM 4.50
+539 318126511087 Vandana Mvvs IT Female IBM 4.50
+540 318126511156 Tabassum IT Female IBM 4.50
+541 318126510002 Yeswanth Sai Kumar Addanki CSE Male Nagarro 4.50
+542 318126520187 Konatala Hari Krishna MECH Male Techigai 4.50
+543 318126510022 Srikar Sai Ganesh Jonnalagadda CSE Male Value Labs Developer 4.50
+544 318126510035 Sunila Madugula CSE Female Value Labs Developer 4.50
+545 318126510038 Satya Kalyani Nakka CSE Female Value Labs Developer 4.50
+546 318126510039 Christina Preethi Nelapudi CSE Female Value Labs Developer 4.50
+547 318126510068 Anil Kumar Dakarapu CSE Male Value Labs Developer 4.50
+548 318126510099 Sai Chaitanya Reddy Neelapu CSE Male Value Labs Developer 4.50
+549 318126510103 Vennela Pydisetty CSE Female Value Labs Developer 4.50
+550 318126510142 Pavan Kalyan Guntuboina CSE Male Value Labs Developer 4.50
+551 318126512009 Venkata Gowthami Priya Boddu ECE Female Value Labs Developer 4.50
+552 318126511038 Uday Shankar Patta IT Male Value Labs Developer 4.50
+553 318126511102 Srinivasa Jaswanth Varma Sagi IT Male Value Labs Developer 4.50
+554 318126511111 Nithin Thota IT Male Value Labs Developer 4.50
+555 318126511119 Deva Sai Deepika Botcha IT Female Value Labs Developer 4.50
+556 318126511129 Pavithra Kalivarapu IT Female Value Labs Developer 4.50
+557 318126511161 Venkata S S Prasanth Patnaik Vandrangi IT Male Value Labs Developer 4.50
+558 318126514075 Siva Chandra Mouli Mandula EEE Male Virtusa 4.50
+559 318126520149 Meesala Siva Sai Akhil MECH Male Virtusa 4.50
+560 318126520106 Polla Srihari MECH Male Medha 4.48
+561 318126510044 Pranav Chandra Paruchuri CSE Male CGI 4.25
+562 318126510095 Yazaz Rehman Mohammad CSE Male CGI 4.25
+563 319126510L12 Hemanth Kumar Veesam CSE Male CGI 4.25
+564 318126512007 Bhanu Prakash Barla ECE Male CGI 4.25
+565 318126512099 Balaji Sanaka ECE Male CGI 4.25
+566 318126514004 Abhi Shek Bammidi EEE Male CGI 4.25
+567 318126511009 Chandra Mouli Bodda IT Male CGI 4.25
+568 318126511071 Vinay Erigala IT Male CGI 4.25
+569 319126511L01 Hemantha Venkata Sai Krishna Saladi IT Male CGI 4.25
+570 318126514003 Gayathri Arasada EEE Female Renault Nissan Technology 4.25
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+571 318126508020 Dileep Kumar Killi Civil Male ELEATION 4.20
+572 318126508025 Tarun Lagudu Civil Male ELEATION 4.20
+573 318126508035 Sandeep Pitchika Civil Male ELEATION 4.20
+574 319126508L08 Akhil Cheekati Civil Male ELEATION 4.20
+575 318126520120 Boddepalli Chandrasekhar Sai Srinivas MECH Male ELEATION 4.20
+576 318126512178 Purna Satya Srinivas Vempala ECE Male Medha 4.12
+577 318126514015 Sanjeev Kumar Devadula EEE Male Medha 4.12
+578 318126510074 Jagadeesh Desetti CSE Male Mindtree 4.04
+579 318126510084 Vinay Sri Venkatesh Lakkadasu CSE Male Mindtree 4.04
+580 318126510107 Bhanu Prakash Sakkuri CSE Male Mindtree 4.04
+581 318126510113 Jyothi Priya Sureddi CSE Female Mindtree 4.04
+582 318126510179 Satya Siva Nagendra Prasad Yelisetti CSE Male Mindtree 4.04
+583 319126510L08 Shanmukhi Devi Guntreddi CSE Female Mindtree 4.04
+584 319126510L09 Praveen Gandreti CSE Male Mindtree 4.04
+585 318126512048 Hassireen Shaik ECE Female Mindtree 4.04
+586 318126512060 Raghava Reddy Yaramala ECE Male Mindtree 4.04
+587 318126512139 Hemanth Ippili ECE Male Mindtree 4.04
+588 318126512160 K N Naga Satya Venkata Ayyappa Vuddagiri ECE Male Mindtree 4.04
+589 318126512172 Narendra Simma ECE Male Mindtree 4.04
+590 318126512177 Vamsi Goddu ECE Male Mindtree 4.04
+591 319126512L10 Meghana Udigala ECE Female Mindtree 4.04
+592 318126514005 Sai Rohit Boddeti EEE Male Mindtree 4.04
+593 318126514047 Sri Harsha Saragadam EEE Male Mindtree 4.04
+594 318126514078 Keerthi Narne EEE female Mindtree 4.04
+595 318126514116 Swetha Reddy Koyya EEE Female Mindtree 4.04
+596 318126514134 Srihari Siripurapu EEE Male Mindtree 4.04
+597 318126511045 Sai Sudeshna Jami IT Female Mindtree 4.04
+598 318126511159 Sai Naga Venkata Suresh Vaddi IT Male Mindtree 4.04
+599 318126511117 Ashok Reddy Sanampudi IT Male Mindtree 4.04
+600 318126511096 Srinu Pilla IT Male Mindtree 4.04
+601 318126511097 Sai Kiran Pinnelli IT Male Avanture 4.00
+602 318126511127 Dilip Sai Javvaji IT Male Avanture 4.00
+603 318126508010 Anil Chepala Civil Male Capgemini 4.00
+604 318126510002 Yeswanth Sai Kumar Addanki CSE Male Capgemini 4.00
+605 318126510007 Anjith Chowdary Appasani CSE Male Capgemini 4.00
+606 318126510050 Prem Sagar Sontena CSE Male Capgemini 4.00
+607 318126510067 Bharat Teja Chodavarapu CSE Male Capgemini 4.00
+608 318126510084 Vinay Sri Venkatesh Lakkadasu CSE Male Capgemini 4.00
+609 318126510093 Abdul Aziz Mohammad CSE Male Capgemini 4.00
+610 318126510105 Ruchita Podugu CSE Female Capgemini 4.00
+611 318126510108 Aiswarya Seepana CSE Female Capgemini 4.00
+612 319126510L10 Bhargav Srinivas Pakiram CSE Male Capgemini 4.00
+613 319126510L11 Devi Kenguva CSE Female Capgemini 4.00
+614 318126512002 Ankitha Vidisha Hamsa ECE Female Capgemini 4.00
+615 318126512004 Sri Ragamayi Arasada ECE Female Capgemini 4.00
+616 318126512012 Sai Siva Harsha Budumuru ECE Male Capgemini 4.00
+617 318126512022 Sarayu Jagilinki ECE Female Capgemini 4.00
+618 318126512023 Ranjith Kumar Kanamala ECE Male Capgemini 4.00
+619 318126512029 Gowtham Malluri ECE Male Capgemini 4.00
+620 318126512037 Vaishnavi Penta ECE Female Capgemini 4.00
+621 318126512043 Padmapriya Rachagulla ECE Female Capgemini 4.00
+622 318126512048 Hassireen Shaik ECE Female Capgemini 4.00
+623 318126512050 Rakesh Babu Sirigineedi ECE Male Capgemini 4.00
+624 318126512064 Dharma Teja Baki ECE Male Capgemini 4.00
+625 318126512065 Goutami Balijepalli ECE Female Capgemini 4.00
+626 318126512074 Harsha Vardhan Doddi ECE Male Capgemini 4.00
+627 318126512086 Venu Kudari ECE Male Capgemini 4.00
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+628 318126512096 Aasha Routhu ECE Female Capgemini 4.00
+629 318126512102 Shahid Shaik ECE Male Capgemini 4.00
+630 318126512113 Madhuri Vanjarapu ECE Female Capgemini 4.00
+631 318126512114 Yerni Kameswari Vanka ECE Female Capgemini 4.00
+632 318126512130 Sai Veerendra Doki ECE Male Capgemini 4.00
+633 318126512136 Avinash Ganta ECE Male Capgemini 4.00
+634 318126512138 Reshma Gude ECE Female Capgemini 4.00
+635 318126512150 Rakesh Latchipatruni ECE Male Capgemini 4.00
+636 318126512162 Gayathri Nuka ECE Female Capgemini 4.00
+637 318126512177 Vamsi Goddu ECE Male Capgemini 4.00
+638 318126514005 Sai Rohit Boddeti EEE Male Capgemini 4.00
+639 318126514028 Naresh Kumar Ketha EEE Male Capgemini 4.00
+640 318126514029 Sanjay Likith Sri Sai Kimidi EEE Male Capgemini 4.00
+641 318126514030 Vagdevi Konni EEE Female Capgemini 4.00
+642 318126514034 Venkata Narasimha Sai Charan Mandalemula EEE Male Capgemini 4.00
+643 318126514045 Jayank Maanas Ranganadham EEE Male Capgemini 4.00
+644 318126514052 Ramanamma Varri EEE Female Capgemini 4.00
+645 318126514055 Vishal Giduthuri EEE male Capgemini 4.00
+646 318126514061 Santosh Chitta EEE Male Capgemini 4.00
+647 318126514069 Vishal Kumar K EEE Male Capgemini 4.00
+648 318126514072 Krupa Sagar Tutika EEE Male Capgemini 4.00
+649 318126514073 Anil Sai Lakhinana EEE Male Capgemini 4.00
+650 318126514084 Preethi Pilla EEE Female Capgemini 4.00
+651 318126514087 Siri Chandana Puvvala EEE Female Capgemini 4.00
+652 318126514099 Sanjay Joshi Telagalapudi EEE Male Capgemini 4.00
+653 318126514100 Narendra Rao Uppada EEE Male Capgemini 4.00
+654 318126514101 Kethan Vijay Kumar Vangapandu EEE Male Capgemini 4.00
+655 318126514103 Naveen Sai Yedla EEE Male Capgemini 4.00
+656 318126514108 Murthy Chidipilli EEE Male Capgemini 4.00
+657 318126514128 Reethu Priyanka Pedapudi EEE Female Capgemini 4.00
+658 318126514134 Srihari Siripurapu EEE Male Capgemini 4.00
+659 318126514135 Anil Surada Surada EEE Male Capgemini 4.00
+660 318126514137 Kiran Kumar Thangeti EEE Male Capgemini 4.00
+661 319126514L13 Ponnada Harinarayana Swaroop Ponnada EEE Male Capgemini 4.00
+662 319126514L16 Chaitanya Pavan Tummaganti EEE Male Capgemini 4.00
+663 319126514L20 PODILAPU RAMESH EEE Male Capgemini 4.00
+664 319126514L22 Mohammad Afzal Shaik EEE Male Capgemini 4.00
+665 319126514L25 Dara Hemanth Besetti EEE Male Capgemini 4.00
+666 319126514L26 Ashish Kumar Vabbina EEE Male Capgemini 4.00
+667 319126514L29 Poornima Ponnada EEE Female Capgemini 4.00
+668 319126514L32 Niranjan Raju Boni EEE Male Capgemini 4.00
+669 318126511032 Lakshmi Sailaja Bharathi Ganti IT Female Capgemini 4.00
+670 318126511101 Rishi Kiladi IT Male Capgemini 4.00
+671 318126511107 Madhukiran Reddy Sunkara IT Male Capgemini 4.00
+672 318126511162 Vinni Baratam IT Female Capgemini 4.00
+673 319126520L3 Y MURALI KRISHNA MECH Male Capgemini 4.00
+674 318126520008 Belamana Sarath MECH Male Capgemini 4.00
+675 318126520093 Lakkoju Deepak MECH Male Capgemini 4.00
+676 318126520159 Robbi Chandra Sekhar MECH Male Capgemini 4.00
+677 319126520L38 Yenugula Murali Krishna MECH Male Capgemini 4.00
+678 318126510089 MANUKONDA DINESHWAR CSE Male ENH ISECURE 4.00
+679 318126510023 Jyothi Sreemayee Vuppala CSE Female Hexaware Technologies 4.00
+680 318126510034 Nuthana Madugula CSE Female Hexaware Technologies 4.00
+681 318126510038 Satya Kalyani Nakka CSE Female Hexaware Technologies 4.00
+682 318126510039 Christina Preethi Nelapudi CSE Female Hexaware Technologies 4.00
+683 318126510041 Tejaswi V L Nidumolu CSE Female Hexaware Technologies 4.00
+684 318126510046 Deepika Ravva CSE Female Hexaware Technologies 4.00
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+685 318126510052 Tanooja Kosuru CSE Female Hexaware Technologies 4.00
+686 318126510094 Riyaz Ali Mohammad CSE Male Hexaware Technologies 4.00
+687 318126510104 Nagasai Repalle CSE Male Hexaware Technologies 4.00
+688 318126510107 Bhanu Prakash Sakkuri CSE Male Hexaware Technologies 4.00
+689 318126510116 Revanth Vasupalli CSE Male Hexaware Technologies 4.00
+690 318126510131 Jyothi Prakash Boora CSE Male Hexaware Technologies 4.00
+691 318126510134 Divyanth Ramnath Darsi CSE Male Hexaware Technologies 4.00
+692 318126510138 Mourya Prateek Emandi CSE Male Hexaware Technologies 4.00
+693 318126510148 Visalika Katru CSE Female Hexaware Technologies 4.00
+694 318126510157 Nirupama Nagisetti CSE Female Hexaware Technologies 4.00
+695 318126510158 Bala Chandrashekhar Naidu CSE Male Hexaware Technologies 4.00
+696 318126510168 Sai Sanjana Rayaprolu CSE Female Hexaware Technologies 4.00
+697 318126510172 Harika Savarapu CSE Female Hexaware Technologies 4.00
+698 318126510175 Ranga Reddy Siddamreddy CSE Male Hexaware Technologies 4.00
+699 318126512008 Hemalatha Boda ECE Female Hexaware Technologies 4.00
+700 318126512014 Suvarchala Chinta ECE Female Hexaware Technologies 4.00
+701 318126512016 Venkata Sai Kalyan Damarasingu ECE Male Hexaware Technologies 4.00
+702 318126512046 Ravi Kumar Saladi ECE Male Hexaware Technologies 4.00
+703 318126512053 Bhargav Sureddi ECE Male Hexaware Technologies 4.00
+704 318126512067 Venkata Jyothi Ashritha Behara ECE Female Hexaware Technologies 4.00
+705 318126512115 Sravani Vantakula ECE Female Hexaware Technologies 4.00
+706 318126512123 Kapil Vardhan Ayenala ECE Male Hexaware Technologies 4.00
+707 318126512129 Sravani Chukka ECE Female Hexaware Technologies 4.00
+708 318126512143 Janani Kamireddi ECE Female Hexaware Technologies 4.00
+709 318126512154 Venkata Sairam Mallemoggala ECE Male Hexaware Technologies 4.00
+710 318126512156 Vikram Mupparthy ECE Male Hexaware Technologies 4.00
+711 318126512157 Vyahruth Nitcherla ECE Male Hexaware Technologies 4.00
+712 318126512161 Pujitha Vaidya Nidadavolu ECE Female Hexaware Technologies 4.00
+713 318126512174 Pavan Kumar Suggu ECE Male Hexaware Technologies 4.00
+714 318126512176 Harsha Vardhan Urlam ECE Male Hexaware Technologies 4.00
+715 318126514042 Priyanka Reddy Palikila EEE Female Hexaware Technologies 4.00
+716 318126514075 Siva Chandra Mouli Mandula EEE Male Hexaware Technologies 4.00
+717 318126514123 Jyothika Priya Mongam EEE Female Hexaware Technologies 4.00
+718 318126514125 Avinash Nimmakayala EEE Male Hexaware Technologies 4.00
+719 318126514126 Reetika Palateru EEE Female Hexaware Technologies 4.00
+720 318126514129 Chanakya Peela EEE Male Hexaware Technologies 4.00
+721 319126514L11 Adimulam Achyut EEE Male Hexaware Technologies 4.00
+722 319126514L18 Bhanu Kiran Mandapalli EEE Male Hexaware Technologies 4.00
+723 319126514L33 Durga Prasad Dandipadala EEE Male Hexaware Technologies 4.00
+724 319126514L44 Nagendra Kumar Yannamreddy EEE Male Hexaware Technologies 4.00
+725 318126511001 Kumar Ganesh Teja Amarapini IT Male Hexaware Technologies 4.00
+726 318126511015 Disha Dipak Kashid IT Female Hexaware Technologies 4.00
+727 318126511021 Jahnavi Priya Jagarapu IT Female Hexaware Technologies 4.00
+728 318126511023 Hanimi Reddy Julakanti IT Male Hexaware Technologies 4.00
+729 318126511031 Sai Sunil Kundiri IT Male Hexaware Technologies 4.00
+730 318126511036 Udaya Sree Neduri IT Female Hexaware Technologies 4.00
+731 318126511047 Satya Krishna Mohan Singamsetti IT Male Hexaware Technologies 4.00
+732 318126511055 Venkata Sai Dinesh Vetcha IT Male Hexaware Technologies 4.00
+733 318126511087 Vandana Mvvs IT Female Hexaware Technologies 4.00
+734 318126511108 Venkata Sai Tangudu IT Male Hexaware Technologies 4.00
+735 318126511109 Santosh Tankala IT Male Hexaware Technologies 4.00
+736 318126511120 Uma Rani Burugupalli IT Female Hexaware Technologies 4.00
+737 318126511121 Ch N V S K Rayudu Enakoti IT Male Hexaware Technologies 4.00
+738 318126511122 Sandhya Chittibomma IT Female Hexaware Technologies 4.00
+739 318126511143 Sophia Grace Nidaganti IT Female Hexaware Technologies 4.00
+740 318126511147 Venkata Sai Surya Anil Pedagadi IT Male Hexaware Technologies 4.00
+741 318126511155 Srikanth Bhogi IT Male Hexaware Technologies 4.00
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+742 318126511156 Tabassum IT Female Hexaware Technologies 4.00
+743 318126511160 Sai Praveen Vajapeyayajula IT Male Hexaware Technologies 4.00
+744 319126511L01 Hemantha Venkata Sai Krishna Saladi IT Male Jio Platforms Ltd. 4.00
+745 318126512007 Bhanu Prakash Barla ECE Male Jio Platforms Ltd. 4.00
+746 318126512017 Durga Sandeep Dangeti ECE Male Jio Platforms Ltd. 4.00
+747 318126510161 Naga Jyothi Pasagadugula CSE Female Value Labs(SDET) 4.00
+748 319126514L34 Sai Venkat Konathala EEE Male Value Labs(SDET) 4.00
+749 318126511007 Roshini Bezawada IT Female Value Labs(SDET) 4.00
+750 318126511080 Keerthana Gnana Karri IT Female Value Labs(SDET) 4.00
+751 318126511045 Sai Sudeshna Jami IT Female Virtusa NeuralHack 4.00
+752 318126502014 Sri Tejashwini Kadimisetty CHEM female Virtusa 4.00
+753 318126502036 Venkata Anudeep Naidu Thotakura CHEM Male Virtusa 4.00
+754 318126514054 Veneela Velamala EEE Female Virtusa 4.00
+755 318126514129 Chanakya Peela EEE Male Virtusa 4.00
+756 318126514130 Sateesh Polavarapu EEE male Virtusa 4.00
+757 319126514L17 Sai Kumar Reddy EEE Male Virtusa 4.00
+758 319126514L18 Bhanu Kiran Mandapalli EEE Male Virtusa 4.00
+759 319126514L35 Bhuvan Chandra Medida EEE Male Virtusa 4.00
+760 319126514L44 Nagendra Kumar Yannamreddy EEE Male Virtusa 4.00
+761 318126520148 Kundi Karthik Preetham Naidu MECH Male Virtusa 4.00
+762 319126520L13 Gudla Shanmukha Srinivasrao MECH Male Virtusa 4.00
+763 318126510016 Vt Nns Sreekar Teja Chavali CSE Male Virtusa NeuralHack 4.00
+764 318126510021 Omkar Javvadi CSE Male Virtusa NeuralHack 4.00
+765 318126510028 Subba Reddy Kondapalli CSE Male Virtusa NeuralHack 4.00
+766 318126510029 Uday Kumar Kotla CSE Male Virtusa NeuralHack 4.00
+767 318126510042 Swetha S N Nunela CSE Female Virtusa NeuralHack 4.00
+768 318126510047 Niharika Salapu CSE Female Virtusa NeuralHack 4.00
+769 318126510086 Bhaskar Madabattula CSE Male Virtusa NeuralHack 4.00
+770 318126510090 Rajasri Marisa CSE Female Virtusa NeuralHack 4.00
+771 318126510094 Riyaz Ali Mohammad CSE Male Virtusa NeuralHack 4.00
+772 318126510114 Venkata Soma Lingeswara Rao Tutika CSE Male Virtusa NeuralHack 4.00
+773 318126510123 Bharathi Lakshmi Baddi CSE Female Virtusa NeuralHack 4.00
+774 318126510134 Divyanth Ramnath Darsi CSE Male Virtusa NeuralHack 4.00
+775 319126510L02 Venkata Sai Killada CSE Male Virtusa NeuralHack 4.00
+776 318126512003 Hari Siva Ganesh Annamdevula ECE Male Virtusa NeuralHack 4.00
+777 318126512005 Sai Santosh Bagadi ECE Male Virtusa NeuralHack 4.00
+778 318126511024 Gayitri Kallam IT Female Virtusa NeuralHack 4.00
+779 318126511025 Sakheth Naveen Kamana IT Male Virtusa NeuralHack 4.00
+780 318126511032 Lakshmi Sailaja Bharathi Ganti IT Female Virtusa NeuralHack 4.00
+781 318126511048 Jyoshna Devi Siriki IT Female Virtusa NeuralHack 4.00
+782 318126511108 Venkata Sai Tangudu IT Male Virtusa NeuralHack 4.00
+783 318126511129 Pavithra Kalivarapu IT Female Virtusa NeuralHack 4.00
+784 318126511152 Mohana Pavan Kumar Sirigiri IT Male Virtusa NeuralHack 4.00
+785 318126511155 Srikanth Bhogi IT Male Virtusa NeuralHack 4.00
+786 318126511156 Tabassum IT Female Virtusa NeuralHack 4.00
+787 318126511161 Venkata S S Prasanth Patnaik IT Male Virtusa NeuralHack 4.00
+788 318126511162 Vinni Baratam IT Female Virtusa NeuralHack 4.00
+789 318126510002 Yeswanth Sai Kumar Addanki CSE Male Zensar 4.00
+790 318126510083 Himanush Kurakula CSE Male Zensar 4.00
+791 318126510110 Vamsi Kiran Simhadri CSE Male Zensar 4.00
+792 318126510113 Jyothi Priya Sureddi CSE Female Zensar 4.00
+793 318126510127 Prasanth Kumar Battula CSE Male Zensar 4.00
+794 318126512004 Sri Ragamayi Arasada ECE Female Zensar 4.00
+795 318126512008 Hemalatha Boda ECE Female Zensar 4.00
+796 318126512019 Revanth Gokeda ECE Male Zensar 4.00
+797 318126512020 Hamsa Mahima ECE female Zensar 4.00
+798 318126512026 Rahul Babu Kommukuri ECE Male Zensar 4.00
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+799 318126512051 Samuel David Sodadasi ECE Male Zensar 4.00
+800 318126512078 Nishkala Gantana ECE Female Zensar 4.00
+801 318126512089 N Y S N Murthy Mallajyosyula ECE Male Zensar 4.00
+802 318126512090 Deepthi Chinni Swaroopa Marri ECE Female Zensar 4.00
+803 318126512096 Aasha Routhu ECE Female Zensar 4.00
+804 318126512098 Sai Kiran Patro ECE Male Zensar 4.00
+805 318126512120 Pavan Kumar Yerra ECE Male Zensar 4.00
+806 318126512127 Rohit Chaduvula ECE Male Zensar 4.00
+807 318126512145 Anil Kumar Karapa ECE Male Zensar 4.00
+808 318126512146 Bhavana Karimajji ECE Female Zensar 4.00
+809 318126512172 Narendra Simma ECE Male Zensar 4.00
+810 318126512177 Vamsi Goddu ECE Male Zensar 4.00
+811 318126514005 Sai Rohit Boddeti EEE Male Zensar 4.00
+812 319126514L11 Adimulam Achyut EEE Male Zensar 4.00
+813 319126514L24 Jagadish Kirla Kirla EEE Male Zensar 4.00
+814 319126514L42 Chaitanya Kumar Moida EEE Male Zensar 4.00
+815 318126511002 Aditya Sai Ranga Babu Andey IT Male Zensar 4.00
+816 318126511003 Kanaka Ratna Kumari Andhavarapu IT Female Zensar 4.00
+817 318126511094 Navadeep Pedagadi IT Male Zensar 4.00
+818 318126511099 Charan Kumar Poosarla IT Male Zensar 4.00
+819 318126511109 Santosh Tankala IT Male Zensar 4.00
+820 318126511140 Saif Ullah Mughal IT Male Zensar 4.00
+821 318126511159 Sai Naga Venkata Suresh Vaddi IT Male Zensar 4.00
+822 319126514L42 Chaitanya Kumar Moida EEE Male Creative studios 4.00
+823 318126510089 Manukonda Dineshwar CSE Male Cognizant 4.00
+824 318126514117 Purna Chandrarao Lalam EEE MALE Efftronics 3.90
+825 318126514134 Srihari Siripurapu EEE Male Efftronics 3.90
+826 318126511006 Joy Sharon Bandi IT Male Tilicho Labs 3.80
+827 318126511034 Hemanth Kumar Nandigama IT Male Tilicho Labs 3.80
+828 318126520033 Mukkamala Hari Kumar MECH Male Tilicho Labs 3.80
+829 318126520183 Kadari Mahesh MECH Male Medha 3.74
+830 318126512027 Kotaiah Chowdary Ravuri ECE Male Adeptchips 3.60
+831 318126512042 Priyanka Golivi ECE Female Adeptchips 3.60
+832 318126512062 Akshaya Killi ECE Female Adeptchips 3.60
+833 318126512106 Kiranmayee Takasi ECE Female Adeptchips 3.60
+834 318126512112 Vaishnavi Dara ECE Female Adeptchips 3.60
+835 318126510068 Anil kumar Dakarapu CSE Male Axiom IO 3.60
+836 318126510087 Manoj Kumar Madhavarupu CSE Male Axiom IO 3.60
+837 318126510147 Satya Sai Praveen Kanta CSE Male Axiom IO 3.60
+838 318126512038 Mohan Manoj Pentakota ECE Male Axiom IO 3.60
+839 318126512115 Sravani Vantakula ECE Female Axiom IO 3.60
+840 318126511088 Vikram Krishna Varma Mandapati IT Male Axiom IO 3.60
+841 318126512145 Anil Kumar Karapa ECE Male Birlasoft 3.60
+842 318126511092 Sandeep Narikedamilli IT Male Birlasoft 3.60
+843 318126510051 Akhilesh Tanneedi CSE Male CDK Global 3.60
+844 318126510021 Omkar Javvadi CSE Male HackwithInfy SE 3.60
+845 318126510030 Benarji Koulury CSE Male HackwithInfy SE 3.60
+846 318126510031 Jyothsna Lenka CSE Female HackwithInfy SE 3.60
+847 318126510111 Lokesh Kumar Simma CSE Male HackwithInfy SE 3.60
+848 318126510135 Mohan Manikanta Sai Dasari CSE Male HackwithInfy SE 3.60
+849 318126512050 Rakesh Babu Sirigineedi ECE Male HackwithInfy SE 3.60
+850 318126512133 Vishnu Vardhan Doddi ECE Male HackwithInfy SE 3.60
+851 318126511050 Sri Sai Dheeraj Malladi IT Male HackwithInfy SE 3.60
+852 318126511083 Lavanya Kinthada IT Female HackwithInfy SE 3.60
+853 318126511084 Bhagnesh Venkata Kona IT Male HackwithInfy SE 3.60
+854 318126511153 Supriya Siriki IT Female HackwithInfy SE 3.60
+855 319126520L01 Naba Madhavi Priyanka MECH Female HackwithInfy SE 3.60
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+856 318126510011 Shanmuk Arun Bikkavolu CSE Male H-INFY TQ SE 3.60
+857 318126510088 Yaswanth Maguluri CSE Male H-INFY TQ SE 3.60
+858 318126510170 Sai Charan Gangu CSE Male H-INFY TQ SE 3.60
+859 318126511062 Sai Kiran Borra IT Male H-INFY TQ SE 3.60
+860 318126502004 V. N. S. Gnana Sudarshan Bollapragada CHEM Male Infosys Ltd. 3.60
+861 318126502012 Aniketh V R K N S Icchapurapu CHEM Male Infosys Ltd. 3.60
+862 318126508004 Dharani Anyapu Civil Female Infosys Ltd. 3.60
+863 318126508006 Sampath Kumar Bandaru Civil Male Infosys Ltd. 3.60
+864 318126508014 Manoj Inapuram Civil Male Infosys Ltd. 3.60
+865 318126508020 Dileep Kumar Killi Civil Male Infosys Ltd. 3.60
+866 318126508045 VALLURU KARTHIK Civil Male Infosys Ltd. 3.60
+867 318126510013 Naga Mythili Bonthu CSE Female Infosys Ltd. 3.60
+868 318126510014 Nikhil Sai Kumar Botta CSE Male Infosys Ltd. 3.60
+869 318126510018 Tanishk Venkat Mahesh Babu Gali CSE Male Infosys Ltd. 3.60
+870 318126510019 Vijay Satvik Gundala CSE Male Infosys Ltd. 3.60
+871 318126510020 Sanjusha Gundu CSE Female Infosys Ltd. 3.60
+872 318126510024 Leela Prasad Kalla CSE Male Infosys Ltd. 3.60
+873 318126510032 Lohitha Machavarapu CSE Female Infosys Ltd. 3.60
+874 318126510035 Sunila Madugula CSE Female Infosys Ltd. 3.60
+875 318126510046 Deepika Ravva CSE Female Infosys Ltd. 3.60
+876 318126510047 Niharika Salapu CSE Female Infosys Ltd. 3.60
+877 318126510049 Phani Kumar Jasti CSE Male Infosys Ltd. 3.60
+878 318126510052 Tanooja Kosuru CSE Female Infosys Ltd. 3.60
+879 318126510056 Harshit Mouli Vaddadi CSE Male Infosys Ltd. 3.60
+880 318126510059 Divya Veyyidhalamula CSE Female Infosys Ltd. 3.60
+881 318126510061 Goutham Sai Pavan Adari CSE Male Infosys Ltd. 3.60
+882 318126510063 Umamaheswara Reddy Alavala CSE Male Infosys Ltd. 3.60
+883 318126510064 Darshan Barre CSE Male Infosys Ltd. 3.60
+884 318126510070 Yamini Krishna Damarla CSE Female Infosys Ltd. 3.60
+885 318126510074 Jagadeesh Desetti CSE Male Infosys Ltd. 3.60
+886 318126510076 Abhi Ram Gatreddi CSE Male Infosys Ltd. 3.60
+887 318126510077 Somasekhar Illa CSE Male Infosys Ltd. 3.60
+888 318126510079 Chandra Sekhar Jalluri CSE Male Infosys Ltd. 3.60
+889 318126510080 Lokesh Kari CSE Male Infosys Ltd. 3.60
+890 318126510083 Himanush Kurakula CSE Male Infosys Ltd. 3.60
+891 318126510084 Vinay Sri Venkatesh Lakkadasu CSE Male Infosys Ltd. 3.60
+892 318126510086 Bhaskar Madabattula CSE Male Infosys Ltd. 3.60
+893 318126510091 Sushma Metta CSE Female Infosys Ltd. 3.60
+894 318126510105 Ruchita Podugu CSE Female Infosys Ltd. 3.60
+895 318126510107 Bhanu Prakash Sakkuri CSE Male Infosys Ltd. 3.60
+896 318126510108 Aiswarya Seepana CSE Female Infosys Ltd. 3.60
+897 318126510113 Jyothi Priya Sureddi CSE Female Infosys Ltd. 3.60
+898 318126510114 Venkata Soma Lingeswara Rao Tutika CSE Male Infosys Ltd. 3.60
+899 318126510116 Revanth Vasupalli CSE Male Infosys Ltd. 3.60
+900 318126510119 Sridevi Yamala CSE Female Infosys Ltd. 3.60
+901 318126510122 Harshini Lakshmi Durga Allada CSE Female Infosys Ltd. 3.60
+902 318126510123 Bharathi Lakshmi Baddi CSE Female Infosys Ltd. 3.60
+903 318126510131 Jyothi Prakash Boora CSE Male Infosys Ltd. 3.60
+904 318126510132 Devi Varaprasad Chittimoju CSE Male Infosys Ltd. 3.60
+905 318126510134 Divyanth Ramnath Darsi CSE Male Infosys Ltd. 3.60
+906 318126510137 Sharvani Venkata Konda Emandi CSE Female Infosys Ltd. 3.60
+907 318126510149 Karthik Killari CSE Male Infosys Ltd. 3.60
+908 318126510154 Vignesh Manyala CSE Male Infosys Ltd. 3.60
+909 318126510155 Sumanth Motha CSE Male Infosys Ltd. 3.60
+910 318126510158 Bala Chandrashekhar Naidu CSE Male Infosys Ltd. 3.60
+911 318126510159 Satya Avinash Nimmakayala CSE Male Infosys Ltd. 3.60
+912 318126510167 Harsha Priya Racharla CSE Female Infosys Ltd. 3.60
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+913 318126510175 Ranga Reddy Siddamreddy CSE Male Infosys Ltd. 3.60
+914 319126510L13 Amulya Harika Vempadapu CSE Female Infosys Ltd. 3.60
+915 319126510L16 Ananda Rao Nandigama CSE Male Infosys Ltd. 3.60
+916 319126511L04 Dindima Priya Imandi CSE Female Infosys Ltd. 3.60
+917 318126512005 Sai Santosh Bagadi ECE Male Infosys Ltd. 3.60
+918 318126512006 Santhosh Kumar Baratam ECE Male Infosys Ltd. 3.60
+919 318126512009 Venkata Gowthami Priya Boddu ECE Female Infosys Ltd. 3.60
+920 318126512010 Bharath Bollu ECE Male Infosys Ltd. 3.60
+921 318126512016 Venkata Sai Kalyan Damarasingu ECE Male Infosys Ltd. 3.60
+922 318126512021 Soma Sundara Thushar Hari ECE Male Infosys Ltd. 3.60
+923 318126512022 Sarayu Jagilinki ECE Female Infosys Ltd. 3.60
+924 318126512027 Kotaiah Chowdary Ravuri ECE Male Infosys Ltd. 3.60
+925 318126512028 Tanuj Kundeti ECE Male Infosys Ltd. 3.60
+926 318126512035 Satya Sai Charan Nitta ECE Male Infosys Ltd. 3.60
+927 318126512044 Naga Sai Nikhil Ramisetty ECE Male Infosys Ltd. 3.60
+928 318126512057 Surya Bhavani Venigalla ECE Female Infosys Ltd. 3.60
+929 318126512061 Thrivedh Sai Prathap Abburi ECE Male Infosys Ltd. 3.60
+930 318126512065 Goutami Balijepalli ECE Female Infosys Ltd. 3.60
+931 318126512071 Satya Sushma Damodara ECE Female Infosys Ltd. 3.60
+932 318126512074 Harsha Vardhan Doddi ECE Male Infosys Ltd. 3.60
+933 318126512081 Harshini Kandula ECE Female Infosys Ltd. 3.60
+934 318126512083 Sindhuja Karri ECE Female Infosys Ltd. 3.60
+935 318126512085 Pavani Kollati ECE Female Infosys Ltd. 3.60
+936 318126512103 Sai Rahul Singampalli ECE Male Infosys Ltd. 3.60
+937 318126512104 Sreevalli Singisetti ECE Female Infosys Ltd. 3.60
+938 318126512105 Sudheer Sunkari ECE Male Infosys Ltd. 3.60
+939 318126512106 Kiranmayee Takasi ECE Female Infosys Ltd. 3.60
+940 318126512107 Sannath Kumar Talathoti ECE Male Infosys Ltd. 3.60
+941 318126512110 Mahesh Udarla ECE Male Infosys Ltd. 3.60
+942 318126512115 Sravani Vantakula ECE Female Infosys Ltd. 3.60
+943 318126512117 Venkat Naidu Gorli ECE Male Infosys Ltd. 3.60
+944 318126512118 Vidya Sri Sai Kiran Villa ECE Male Infosys Ltd. 3.60
+945 318126512128 Satya Sai Phani Trinadh Chavakula ECE Male Infosys Ltd. 3.60
+946 318126512134 Durga Sai Prasanth Dooba ECE Male Infosys Ltd. 3.60
+947 318126512140 Asritha Jami ECE Female Infosys Ltd. 3.60
+948 318126512146 Bhavana Karimajji ECE Female Infosys Ltd. 3.60
+949 318126512147 Rohit Karri ECE Male Infosys Ltd. 3.60
+950 318126512152 Deepshika Maddala ECE Female Infosys Ltd. 3.60
+951 318126512154 Venkata Sairam Mallemoggala ECE Male Infosys Ltd. 3.60
+952 318126512155 Sai Pavithra Mentada ECE Female Infosys Ltd. 3.60
+953 318126512160 K N Naga Satya Venkata Ayyappa Vuddagiri ECE Male Infosys Ltd. 3.60
+954 318126512166 Sai Charan Perumalla ECE Male Infosys Ltd. 3.60
+955 318126512170 Venkatesh Sabbisetti ECE Male Infosys Ltd. 3.60
+956 318126512177 Vamsi Goddu ECE Male Infosys Ltd. 3.60
+957 318126512007 Bhanu Prakash Barla ECE Male Infosys Ltd. 3.60
+958 319126512L08 Ganesh Pappala ECE Male Infosys Ltd. 3.60
+959 318126514002 Nayana Subha Jyothi Appari EEE Female Infosys Ltd. 3.60
+960 318126514013 Eswar Chandra Vidya Sagar Dasari EEE MALE Infosys Ltd. 3.60
+961 318126514015 Sanjeev Kumar Devadula EEE Male Infosys Ltd. 3.60
+962 318126514016 Meghana Devarapalli EEE Female Infosys Ltd. 3.60
+963 318126514017 Sunil Kumar Eppili EEE Male Infosys Ltd. 3.60
+964 318126514019 Lokesh Gorle EEE Male Infosys Ltd. 3.60
+965 318126514021 Sandeep Jallepalli EEE Male Infosys Ltd. 3.60
+966 318126514028 Naresh Kumar Ketha EEE Male Infosys Ltd. 3.60
+967 318126514029 Sanjay Likith Sri Sai Kimidi EEE Male Infosys Ltd. 3.60
+968 318126514031 Venkata Pramod Naidu Lagisetti EEE Male Infosys Ltd. 3.60
+969 318126514035 Dharani Marrapu EEE Female Infosys Ltd. 3.60
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+970 318126514036 Thanush Kumar Marrapu EEE Male Infosys Ltd. 3.60
+971 318126514039 Sai Bhargavi Neralla EEE Female Infosys Ltd. 3.60
+972 318126514040 Arun Kumar Nollu EEE male Infosys Ltd. 3.60
+973 318126514042 Priyanka Reddy Palikila EEE Female Infosys Ltd. 3.60
+974 318126514043 Rahul Tej Pedapati EEE MALE Infosys Ltd. 3.60
+975 318126514046 Rohit Sri Satya Sai Rudri EEE Male Infosys Ltd. 3.60
+976 318126514051 Abinash Vummidisetty EEE Male Infosys Ltd. 3.60
+977 318126514052 Ramanamma Varri EEE Female Infosys Ltd. 3.60
+978 318126514054 Veneela Velamala EEE Female Infosys Ltd. 3.60
+979 318126514061 Santosh Chitta EEE Male Infosys Ltd. 3.60
+980 318126514073 Anil Sai Lakhinana EEE Male Infosys Ltd. 3.60
+981 318126514077 Tulasi Ram Nagothi EEE Male Infosys Ltd. 3.60
+982 318126514087 Siri Chandana Puvvala EEE Female Infosys Ltd. 3.60
+983 319126514L24 Jagadish Kirla Kirla EEE Male Infosys Ltd. 3.60
+984 318126514090 REYYI PRATHYUSHA EEE Female Infosys Ltd. 3.60
+985 318126514094 Sairigapu Tarun Sairigapu EEE Male Infosys Ltd. 3.60
+986 318126514098 Brajesh Naidu Tanna EEE Male Infosys Ltd. 3.60
+987 318126514101 Kethan Vijay Kumar Vangapandu EEE Male Infosys Ltd. 3.60
+988 318126514108 Murthy Chidipilli EEE Male Infosys Ltd. 3.60
+989 318126514112 Rakesh Kari EEE Male Infosys Ltd. 3.60
+990 318126514117 Purna Chandrarao Lalam EEE MALE Infosys Ltd. 3.60
+991 318126514119 Shiva Nookaraju Malla EEE male Infosys Ltd. 3.60
+992 318126514121 Seetha Rama Raju Meesala EEE Male Infosys Ltd. 3.60
+993 318126514124 Koushik Reddy Mukku EEE Male Infosys Ltd. 3.60
+994 318126514125 Avinash Nimmakayala EEE Male Infosys Ltd. 3.60
+995 318126514126 Reetika Palateru EEE Female Infosys Ltd. 3.60
+996 318126514139 Yaswanth Naveen Vasamsetti EEE Male Infosys Ltd. 3.60
+997 319126514L33 Durga Prasad Dandipadala EEE Male Infosys Ltd. 3.60
+998 319126514L34 Sai Venkat Konathala EEE Male Infosys Ltd. 3.60
+999 319126514L09 KOLLI AKANKSHA EEE Female Infosys Ltd. 3.60
+1000 319126514L12 BOURUBILLI SAIKUMAR EEE Male Infosys Ltd. 3.60
+1001 319126514L13 Ponnada Harinarayana Swaroop Ponnada EEE Male Infosys Ltd. 3.60
+1002 319126514L17 Sai Kumar Reddy EEE Male Infosys Ltd. 3.60
+1003 319126514L25 Dara Hemanth Besetti EEE Male Infosys Ltd. 3.60
+1004 319126514L36 Ramya Sree P EEE Female Infosys Ltd. 3.60
+1005 317126511144 Manikanta Gudla IT Male Infosys Ltd. 3.60
+1006 318126511001 Kumar Ganesh Teja Amarapini IT Male Infosys Ltd. 3.60
+1007 318126511016 Sai Sowmya Doki IT Female Infosys Ltd. 3.60
+1008 318126511018 Venkata Rao Gali IT Male Infosys Ltd. 3.60
+1009 318126511019 Rachit Hari IT Male Infosys Ltd. 3.60
+1010 318126511020 Siva Satya Avinash Illa IT Male Infosys Ltd. 3.60
+1011 318126511021 Jahnavi Priya Jagarapu IT Female Infosys Ltd. 3.60
+1012 318126511022 Noothana Jeeru IT Female Infosys Ltd. 3.60
+1013 318126511024 Gayitri Kallam IT Female Infosys Ltd. 3.60
+1014 318126511025 Sakheth Naveen Kamana IT Male Infosys Ltd. 3.60
+1015 318126511029 Sri Rama Krishna Komatlapalli IT Male Infosys Ltd. 3.60
+1016 318126511030 Srikanth Kotipalli IT Male Infosys Ltd. 3.60
+1017 318126511032 Lakshmi Sailaja Bharathi Ganti IT Female Infosys Ltd. 3.60
+1018 318126511039 Pavan Kumar Vagicherla IT Male Infosys Ltd. 3.60
+1019 318126511044 Siva Ganesh Reddy IT Male Infosys Ltd. 3.60
+1020 318126511045 Sai Sudeshna Jami IT Female Infosys Ltd. 3.60
+1021 318126511047 Satya Krishna Mohan Singamsetti IT Male Infosys Ltd. 3.60
+1022 318126511048 Jyoshna Devi Siriki IT Female Infosys Ltd. 3.60
+1023 318126511049 Sraddha Ananya Atyam IT Female Infosys Ltd. 3.60
+1024 318126511054 Swaraj Naidu Valireddi IT Male Infosys Ltd. 3.60
+1025 318126511055 Venkata Sai Dinesh Vetcha IT Male Infosys Ltd. 3.60
+1026 318126511059 Sai Poojitha Raj Bhupathiraju IT Female Infosys Ltd. 3.60
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1027 318126511065 Pujitha Damodara IT Female Infosys Ltd. 3.60
+1028 318126511069 Goutham Subrahmanyam Devara IT Male Infosys Ltd. 3.60
+1029 318126511070 Naga Sai Manikanta Krishna Lohith Dodda IT Male Infosys Ltd. 3.60
+1030 318126511078 Pranith Varma Kalidindi IT Male Infosys Ltd. 3.60
+1031 318126511081 Sricharan Sai Marutha Kasulanati IT Male Infosys Ltd. 3.60
+1032 318126511090 Ananya Miriyala IT Female Infosys Ltd. 3.60
+1033 318126511097 Sai Kiran Pinnelli IT Male Infosys Ltd. 3.60
+1034 318126511100 Him Varshini Reddy Puthi IT Female Infosys Ltd. 3.60
+1035 318126511109 Santosh Tankala IT Male Infosys Ltd. 3.60
+1036 318126511120 Uma Rani Burugupalli IT Female Infosys Ltd. 3.60
+1037 318126511121 Ch N V S K Rayudu Enakoti IT Male Infosys Ltd. 3.60
+1038 318126511122 Sandhya Chittibomma IT Female Infosys Ltd. 3.60
+1039 318126511125 Jayanth Jajimoggala IT Male Infosys Ltd. 3.60
+1040 318126511130 Sandeep Kumar Karnati IT MALE Infosys Ltd. 3.60
+1041 318126511137 Vyshnavi Majji IT Female Infosys Ltd. 3.60
+1042 318126511138 Aishwarya Mane IT Female Infosys Ltd. 3.60
+1043 318126511142 Lohith Kumar Neerukonda IT Male Infosys Ltd. 3.60
+1044 318126511145 Jyothi Sravanthi Pandranki IT Female Infosys Ltd. 3.60
+1045 318126511147 Venkata Sai Surya Anil Pedagadi IT Male Infosys Ltd. 3.60
+1046 318126511150 Maneesh Kumar Sripatnala IT Male Infosys Ltd. 3.60
+1047 318126511156 Tabassum IT Female Infosys Ltd. 3.60
+1048 318126511158 Indira Tirumala Raju IT Female Infosys Ltd. 3.60
+1049 318126511159 Sai Naga Venkata Suresh Vaddi IT Male Infosys Ltd. 3.60
+1050 319126511L02 Nikil Murari Malla IT Male Infosys Ltd. 3.60
+1051 319126511L03 Santhosh Kumar Sandaka IT Male Infosys Ltd. 3.60
+1052 318126520003 Anirudh Susarla MECH Male Infosys Ltd. 3.60
+1053 318126520008 Belamana Sarath MECH Male Infosys Ltd. 3.60
+1054 318126520017 Kallepalli Lokesh MECH Male Infosys Ltd. 3.60
+1055 318126520025 Kothakota Narendrakumar MECH Male Infosys Ltd. 3.60
+1056 318126520026 Koyya Madava Krishna Reddy MECH Male Infosys Ltd. 3.60
+1057 318126520028 M. SRIVARSHINI MECH Female Infosys Ltd. 3.60
+1058 318126520035 Mungi Sai Meghavardhan MECH Male Infosys Ltd. 3.60
+1059 318126520049 SINGAMAPALLI GOWTHAM MECH Male Infosys Ltd. 3.60
+1060 318126520052 Sunkari Anil Kumar MECH Male Infosys Ltd. 3.60
+1061 318126520055 Vamsi Krishna Ambati MECH Male Infosys Ltd. 3.60
+1062 318126520056 VENGAPADU HARISH NAIDU MECH Male Infosys Ltd. 3.60
+1063 318126520067 Boggavarapu Nitish Bharadwaj MECH Male Infosys Ltd. 3.60
+1064 318126520073 Chevvakula Varshini Shreyesha MECH Female Infosys Ltd. 3.60
+1065 318126520080 Dilip Kumar MECH Male Infosys Ltd. 3.60
+1066 318126520082 Harshavardhan Dora Inapakurthi MECH Male Infosys Ltd. 3.60
+1067 318126520085 Kanchipati Kumar MECH Male Infosys Ltd. 3.60
+1068 318126520087 KARAGGI NIKHIL CHANDRA MECH Male Infosys Ltd. 3.60
+1069 318126520096 Mamidi Varun Apesh MECH Male Infosys Ltd. 3.60
+1070 318126520104 Pandiri Nagendra Veera Prasad MECH Male Infosys Ltd. 3.60
+1071 318126520105 Patoju Sai Sankar MECH Male Infosys Ltd. 3.60
+1072 318126520111 Senapathi Venkata Siva Sai Anil Kumar MECH Male Infosys Ltd. 3.60
+1073 318126520112 Shaik Shadiq MECH Male Infosys Ltd. 3.60
+1074 318126520114 Varanasi Pavan MECH Male Infosys Ltd. 3.60
+1075 318126520120 Boddepalli Chandrasekhar Sai Srinivas MECH Male Infosys Ltd. 3.60
+1076 318126520122 BONDA CHARAN PRASAD MECH Male Infosys Ltd. 3.60
+1077 318126520123 Boora Deekshitha Kumari MECH Female Infosys Ltd. 3.60
+1078 318126520134 D Laxman MECH Male Infosys Ltd. 3.60
+1079 318126520138 Golla Nikhil Durga Sai MECH Male Infosys Ltd. 3.60
+1080 318126520139 Gorle Devaki MECH Female Infosys Ltd. 3.60
+1081 318126520140 Gudla Avinash Reddy MECH Male Infosys Ltd. 3.60
+1082 318126520148 Kundi Karthik Preetham Naidu MECH Male Infosys Ltd. 3.60
+1083 318126520150 Nadiminti Ganesh MECH Male Infosys Ltd. 3.60
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1084 318126520155 Pinisetty Srinivas Kalyan MECH Male Infosys Ltd. 3.60
+1085 318126520160 SANGANI BHASKARA VARMA MECH Male Infosys Ltd. 3.60
+1086 318126520165 SOPETI MADHUSUDHANARAO MECH Male Infosys Ltd. 3.60
+1087 318126520174 Barla Mohan MECH Male Infosys Ltd. 3.60
+1088 318126520183 Kadari Mahesh MECH Male Infosys Ltd. 3.60
+1089 318126520184 Kantreddy Hakila Satya Priyanka MECH Female Infosys Ltd. 3.60
+1090 318126520207 YELURI SESHA SAI MECH Male Infosys Ltd. 3.60
+1091 318126520208 Yenda Yuva Kiran MECH Male Infosys Ltd. 3.60
+1092 319126520L50 Mudunuru Akhil Varma MECH Male Infosys Ltd. 3.60
+1093 319126520L09 Kolli Syam Deekshit Manikanta MECH Male Infosys Ltd. 3.60
+1094 319126520L19 PUDI TEJA MECH Male Infosys Ltd. 3.60
+1095 319126520L21 Balla Kartheek MECH Male Infosys Ltd. 3.60
+1096 319126520L29 Balla Chakradhar MECH Male Infosys Ltd. 3.60
+1097 319126520L33 Kalla Kanaka Sai Jayanth MECH Male Infosys Ltd. 3.60
+1098 319126520L35 Animireddy Ramesh MECH Male Infosys Ltd. 3.60
+1099 319126520L42 Kadari Tarun Kumar MECH Male Infosys Ltd. 3.60
+1100 319126520L49 Pasupureddi Rajesh MECH Male Infosys Ltd. 3.60
+1101 318126520172 Ballankila Sai Dhanunjay MECH Male Infosys Ltd. 3.60
+1102 319126520L43 Chedalla Soma Sekhar MECH Male Infosys Ltd. 3.60
+1103 318126510036 Baby Prasanthi Mandalapu CSE Female Infosys SE (PP/DSE Role) 3.60
+1104 318126512004 Sri Ragamayi Arasada ECE Female Infosys SE (PP/DSE Role) 3.60
+1105 318126512056 Tirupathi Rao Vankala ECE Male Infosys SE (PP/DSE Role) 3.60
+1106 318126511058 Akhila Kommana IT Female Infosys SE (PP/DSE Role) 3.60
+1107 318126511091 Harshini Nambala IT Female Infosys SE (PP/DSE Role) 3.60
+1108 318126512030 Sai Krishna Mandarapu ECE Male INFY TQ SE 3.60
+1109 318126512031 Madhuri Matcha ECE Female INFY TQ SE 3.60
+1110 318126512038 Mohan Manoj Pentakota ECE Male INFY TQ SE 3.60
+1111 318126512045 Roop Sai Sakthi Kumar Vallu ECE Male INFY TQ SE 3.60
+1112 318126512053 Bhargav Sureddi ECE Male INFY TQ SE 3.60
+1113 318126512063 Sowjanya Badugu ECE Female INFY TQ SE 3.60
+1114 318126512108 Avinash Tangudu ECE Male INFY TQ SE 3.60
+1115 318126512137 Jyothsna Gottumukkala ECE Female INFY TQ SE 3.60
+1116 318126512175 Sai Venkatesh Sunkara ECE Male INFY TQ SE 3.60
+1117 318126511134 Venkata Sai Kuniganti IT Male INFY TQ SE 3.60
+1118 318126520050 Souripalli Divya MECH Female INFY TQ SE 3.60
+1119 319126520L07 YASODA DAMMU MECH Female WIPRO 3.60
+1120 318126520060 Adla Subham Rao MECH Male GREENICES TECHNOLOGY 3.60
+1121 318126512045 Roop Sai Sakthi Kumar Vallu ECE Male Capgemini 3.50
+1122 319126520L11 Kagithala Kavya MECH Female Hyundai Transys 3.50
+1123 319126520L25 Rongali Yernaidu MECH Male Hyundai Transys 3.50
+1124 318126508003 Raveendra Venkata Sai Akula Civil Male TCS Ninja 3.50
+1125 318126502004 V. N. S. Gnana Sudarshan Bollapragada CHEM Male Wipro 3.50
+1126 318126502030 Sravani Satyala CHEM Female Wipro 3.50
+1127 318126502032 Sindhuja Krishna Veni Vajjala CHEM Female Wipro 3.50
+1128 318126502036 Venkata Anudeep Naidu Thotakura CHEM Male Wipro 3.50
+1129 318126502038 Laxmi Vara Prasanna Yerra CHEM Female Wipro 3.50
+1130 319126502L04 Sai Nivesh Garikina CHEM Male Wipro 3.50
+1131 319126502L10 Aruna Vasavi Murapala CHEM Female Wipro 3.50
+1132 319126502L15 Kanaka Girija Rani Mondi CHEM Female Wipro 3.50
+1133 318126508001 Sobha Uma Maheswari Adireddi Civil Female Wipro 3.50
+1134 318126508004 Dharani Anyapu Civil Female Wipro 3.50
+1135 318126508018 Purnesh Kare Civil Male Wipro 3.50
+1136 318126508020 Dileep Kumar Killi Civil Male Wipro 3.50
+1137 318126508021 Harika Kolakaluri Civil Female Wipro 3.50
+1138 318126508026 Sai Jaya Mourya Lanka Civil Male Wipro 3.50
+1139 318126508031 Kishore Dhana Nagothi Civil Male Wipro 3.50
+1140 318126508035 Sandeep Pitchika Civil Male Wipro 3.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1141 318126508036 Naveen Reddi Civil Male Wipro 3.50
+1142 318126508037 Kishore Setti Civil Male Wipro 3.50
+1143 319126508L08 Akhil Cheekati Civil Male Wipro 3.50
+1144 318126510008 Uma Maheswari Balabomma CSE Female Wipro 3.50
+1145 318126510013 Naga Mythili Bonthu CSE Female Wipro 3.50
+1146 318126510016 Vt Nns Sreekar Teja Chavali CSE Male Wipro 3.50
+1147 318126510029 Uday Kumar Kotla CSE Male Wipro 3.50
+1148 318126510032 Lohitha Machavarapu CSE Female Wipro 3.50
+1149 318126510036 Baby Prasanthi Mandalapu CSE Female Wipro 3.50
+1150 318126510042 Swetha S N Nunela CSE Female Wipro 3.50
+1151 318126510046 Deepika Ravva CSE Female Wipro 3.50
+1152 318126510057 Kalyan Vanne CSE Male Wipro 3.50
+1153 318126510059 Divya Veyyidhalamula CSE Female Wipro 3.50
+1154 318126510063 Umamaheswara Reddy Alavala CSE Male Wipro 3.50
+1155 318126510065 Sai Shankar Bogi CSE Male Wipro 3.50
+1156 318126510068 Anil Kumar Dakarapu CSE Male Wipro 3.50
+1157 318126510071 Mahendra Tulasi Kumar Dasari CSE Male Wipro 3.50
+1158 318126510074 Jagadeesh Desetti CSE Male Wipro 3.50
+1159 318126510076 Abhi Ram Gatreddi CSE Male Wipro 3.50
+1160 318126510078 Abhi Ram Ivvala CSE Male Wipro 3.50
+1161 318126510080 Lokesh Kari CSE Male Wipro 3.50
+1162 318126510082 Prathyusha Korra CSE Female Wipro 3.50
+1163 318126510084 Vinay Sri Venkatesh Lakkadasu CSE Male Wipro 3.50
+1164 318126510087 Manoj Kumar Madhavarupu CSE Male Wipro 3.50
+1165 318126510093 Abdul Aziz Mohammad CSE Male Wipro 3.50
+1166 318126510095 Yazaz Rehman Mohammad CSE Male Wipro 3.50
+1167 318126510097 Mohan Reddy Nallamilli CSE Male Wipro 3.50
+1168 318126510106 Sai Sampath Kosaraju CSE Male Wipro 3.50
+1169 318126510108 Aiswarya Seepana CSE Female Wipro 3.50
+1170 318126510114 Venkata Soma Lingeswara Rao Tutika CSE Male Wipro 3.50
+1171 318126510120 Yarraju Ajay Yarraju CSE Male Wipro 3.50
+1172 318126510121 Jaswanth Akula CSE Male Wipro 3.50
+1173 318126510122 Harshini Lakshmi Durga Allada CSE Female Wipro 3.50
+1174 318126510143 Anil Kumar Gushidi CSE Male Wipro 3.50
+1175 318126510144 Varun Ippili CSE Male Wipro 3.50
+1176 318126510149 Karthik Killari CSE Male Wipro 3.50
+1177 318126510154 Vignesh Manyala CSE Male Wipro 3.50
+1178 318126510155 Sumanth Motha CSE Male Wipro 3.50
+1179 318126510156 Pavan Nadakuditi CSE Male Wipro 3.50
+1180 318126510158 Bala Chandrashekhar Naidu CSE Male Wipro 3.50
+1181 318126510168 Sai Sanjana Rayaprolu CSE Female Wipro 3.50
+1182 318126510171 Ganesh Sanka CSE Male Wipro 3.50
+1183 318126510178 Mohan Kumar Veduruparthi CSE Male Wipro 3.50
+1184 318126510179 Satya Siva Nagendra Prasad Yelisetti CSE Male Wipro 3.50
+1185 319126510L01 Bhavana Pampana CSE Female Wipro 3.50
+1186 319126510L02 Venkata Sai Killada CSE Male Wipro 3.50
+1187 319126510L04 Murali Vugiri CSE Male Wipro 3.50
+1188 319126510L09 Praveen Gandreti CSE Male Wipro 3.50
+1189 319126510L10 Bhargav Srinivas Pakiram CSE Male Wipro 3.50
+1190 319126510L12 Hemanth Kumar Veesam CSE Male Wipro 3.50
+1191 319126510L15 Madu Nagendra Madu CSE Male Wipro 3.50
+1192 319126510L16 Ananda Rao Nandigama CSE Male Wipro 3.50
+1193 317126512111 Kaja Mohiddin Shaik ECE Male Wipro 3.50
+1194 318126512001 Abdul Zafeer Mannan ECE Male Wipro 3.50
+1195 318126512004 Sri Ragamayi Arasada ECE Female Wipro 3.50
+1196 318126512006 Santhosh Kumar Baratam ECE Male Wipro 3.50
+1197 318126512012 Sai Siva Harsha Budumuru ECE Male Wipro 3.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1198 318126512016 Venkata Sai Kalyan Damarasingu ECE Male Wipro 3.50
+1199 318126512017 Durga Sandeep Dangeti ECE Male Wipro 3.50
+1200 318126512018 Manikanta Sarma Ganti ECE Male Wipro 3.50
+1201 318126512021 Soma Sundara Thushar Hari ECE Male Wipro 3.50
+1202 318126512023 Ranjith Kumar Kanamala ECE Male Wipro 3.50
+1203 318126512024 Pramod Siva Kumar Babu Keerthi ECE Male Wipro 3.50
+1204 318126512026 Rahul Babu Kommukuri ECE Male Wipro 3.50
+1205 318126512028 Tanuj Kundeti ECE Male Wipro 3.50
+1206 318126512032 Waheed Mohommed ECE Male Wipro 3.50
+1207 318126512035 Satya Sai Charan Nitta ECE Male Wipro 3.50
+1208 318126512036 Leela Venkat Madhav Nollu ECE Male Wipro 3.50
+1209 318126512037 Vaishnavi Penta ECE Female Wipro 3.50
+1210 318126512042 Priyanka Golivi ECE Female Wipro 3.50
+1211 318126512045 Roop Sai Sakthi Kumar Vallu ECE Male Wipro 3.50
+1212 318126512054 Vaishnavi Lingala ECE Female Wipro 3.50
+1213 318126512056 Tirupathi Rao Vankala ECE Male Wipro 3.50
+1214 318126512057 Surya Bhavani Venigalla ECE Female Wipro 3.50
+1215 318126512073 Deepika Maradana ECE Female Wipro 3.50
+1216 318126512078 Nishkala Gantana ECE Female Wipro 3.50
+1217 318126512080 Priscilla Gollapalli ECE Female Wipro 3.50
+1218 318126512089 N Y S N Murthy Mallajyosyula ECE Male Wipro 3.50
+1219 318126512111 Utkarsh Jaiswal Jaiswal ECE Male Wipro 3.50
+1220 318126512118 Vidya Sri Sai Kiran Villa ECE Male Wipro 3.50
+1221 318126512119 Jaya Charitha Yendluri ECE Female Wipro 3.50
+1222 318126512125 Bharat Chandra Garudapalli ECE Male Wipro 3.50
+1223 318126512126 Vinay Kumar Bodepu ECE Male Wipro 3.50
+1224 318126512128 Satya Sai Phani Trinadh Chavakula ECE Male Wipro 3.50
+1225 318126512129 Sravani Chukka ECE Female Wipro 3.50
+1226 318126512132 Anil Kumar Devarapalli ECE Male Wipro 3.50
+1227 318126512133 Vishnu Vardhan Doddi ECE Male Wipro 3.50
+1228 318126512134 Durga Sai Prasanth Dooba ECE Male Wipro 3.50
+1229 318126512144 Sai Chaitanya Kancharana ECE Male Wipro 3.50
+1230 318126512157 Vyahruth Nitcherla ECE Male Wipro 3.50
+1231 318126512165 Joy Grace Penumaka ECE Female Wipro 3.50
+1232 318126512167 Pothina Yashwanth Pothina ECE Male Wipro 3.50
+1233 318126512176 Harsha Vardhan Urlam ECE Male Wipro 3.50
+1234 319126512L01 Rajyalakshmi Pravallika Krovvidi ECE Female Wipro 3.50
+1235 319126512L03 Devi Tamarana ECE Female Wipro 3.50
+1236 319126512L04 Pavan Gudisa ECE Male Wipro 3.50
+1237 319126512L08 Ganesh Pappala ECE Male Wipro 3.50
+1238 319126512L09 Karthik Cheekaramelli ECE Male Wipro 3.50
+1239 319126512L11 Sadhvika Dharmireddi ECE Female Wipro 3.50
+1240 319126512L15 Manoj Inumarthi ECE Male Wipro 3.50
+1241 319126512L16 Deva Kalyan Adigopula ECE Male Wipro 3.50
+1242 318126514001 Pradeep Chandra Alamanda EEE Male Wipro 3.50
+1243 318126514011 Tarun Tarun Danda EEE Male Wipro 3.50
+1244 318126514016 Meghana Devarapalli EEE Female Wipro 3.50
+1245 318126514019 Lokesh Gorle EEE Male Wipro 3.50
+1246 318126514020 Bhavya Sri Pravallika Guvvala EEE Female Wipro 3.50
+1247 318126514022 Praneeth Jami EEE MALE Wipro 3.50
+1248 318126514034 Venkata Narasimha Sai Charan Mandalemula EEE Male Wipro 3.50
+1249 318126514039 Sai Bhargavi Neralla EEE Female Wipro 3.50
+1250 318126514040 Arun Kumar Nollu EEE male Wipro 3.50
+1251 318126514042 Priyanka Reddy Palikila EEE Female Wipro 3.50
+1252 318126514043 Rahul Tej Pedapati EEE MALE Wipro 3.50
+1253 318126514044 Aarthi Pedapudi EEE Female Wipro 3.50
+1254 318126514045 Jayank Maanas Ranganadham EEE Male Wipro 3.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1255 318126514046 Rohit Sri Satya Sai Rudri EEE Male Wipro 3.50
+1256 318126514050 Akanksha Vadlamudi EEE Female Wipro 3.50
+1257 318126514053 Balu Mahendra Vasamchetty EEE male Wipro 3.50
+1258 318126514057 Vagdevi Bagadi EEE Female Wipro 3.50
+1259 318126514061 Santosh Chitta EEE Male Wipro 3.50
+1260 318126514063 Dilleswar Chandra Deergasi EEE male Wipro 3.50
+1261 318126514072 Krupa Sagar Tutika EEE Male Wipro 3.50
+1262 318126514076 Dhanunjay Rao Mukalla EEE Male Wipro 3.50
+1263 318126514077 Tulasi Ram Nagothi EEE Male Wipro 3.50
+1264 318126514086 Dinesh Babu Potti EEE Male Wipro 3.50
+1265 318126514093 Sai Teja Lala EEE Male Wipro 3.50
+1266 318126514098 Brajesh Naidu Tanna EEE Male Wipro 3.50
+1267 318126514099 Sanjay Joshi Telagalapudi EEE Male Wipro 3.50
+1268 318126514103 Naveen Sai Yedla EEE Male Wipro 3.50
+1269 318126514110 Venkata Sai Prathyusha Garbham EEE Female Wipro 3.50
+1270 318126514113 Ramya Sri Kolli EEE Female Wipro 3.50
+1271 318126514117 Purna Chandrarao Lalam EEE MALE Wipro 3.50
+1272 318126514119 Shiva Nookaraju Malla EEE Male Wipro 3.50
+1273 318126514121 Seetha Rama Raju Meesala EEE Male Wipro 3.50
+1274 318126514130 Sateesh Polavarapu EEE Male Wipro 3.50
+1275 318126514132 Supriya Saragadam EEE Female Wipro 3.50
+1276 318126514135 Anil Surada Surada EEE Male Wipro 3.50
+1277 318126514136 Chandra Mouli Talabhatula EEE Male Wipro 3.50
+1278 318126514137 Kiran Kumar Thangeti EEE Male Wipro 3.50
+1279 318126514138 Niroop Sai Vanapalli EEE Male Wipro 3.50
+1280 318126514139 Yaswanth Naveen Vasamsetti EEE Male Wipro 3.50
+1281 319126514L01 Santhan Gonthina EEE Male Wipro 3.50
+1282 319126514L15 Devi Kiran Panigrahi EEE Male Wipro 3.50
+1283 319126514L16 Chaitanya Pavan Tummaganti EEE Male Wipro 3.50
+1284 319126514L17 Sai Kumar Reddy EEE Male Wipro 3.50
+1285 319126514L18 Bhanu Kiran Mandapalli EEE Male Wipro 3.50
+1286 319126514L26 Ashish Kumar Vabbina EEE Male Wipro 3.50
+1287 319126514L31 Pravallika Padala EEE Female Wipro 3.50
+1288 319126514L32 Niranjan Raju Boni EEE Male Wipro 3.50
+1289 319126514L34 Sai Venkat Konathala EEE Male Wipro 3.50
+1290 319126514L36 Ramya Sree P EEE Female Wipro 3.50
+1291 319126514L37 Prasanth Pragada EEE Male Wipro 3.50
+1292 319126514L39 Koyalada Adi Narayana EEE Male Wipro 3.50
+1293 319126514L43 Gobbaka Jayanth EEE Male Wipro 3.50
+1294 319126514L45 Yerravarapu Shyam EEE MALE Wipro 3.50
+1295 319126514L46 Siva Kumar Karimerakala EEE Male Wipro 3.50
+1296 317126511144 Manikanta Gudla IT Male Wipro 3.50
+1297 318126511003 Kanaka Ratna Kumari Andhavarapu IT Female Wipro 3.50
+1298 318126511006 Joy Sharon Bandi IT Male Wipro 3.50
+1299 318126511009 Chandra Mouli Bodda IT Male Wipro 3.50
+1300 318126511018 Venkata Rao Gali IT Male Wipro 3.50
+1301 318126511025 Sakheth Naveen Kamana IT Male Wipro 3.50
+1302 318126511027 Nikhila Kasarapu IT Female Wipro 3.50
+1303 318126511036 Udaya Sree Neduri IT Female Wipro 3.50
+1304 318126511039 Pavan Kumar Vagicherla IT Male Wipro 3.50
+1305 318126511042 Sai Nihit Potnuru IT Male Wipro 3.50
+1306 318126511043 Sai Lakshmana Rachakonda IT Male Wipro 3.50
+1307 318126511046 Uma Sappa IT Female Wipro 3.50
+1308 318126511059 Sai Poojitha Raj Bhupathiraju IT Female Wipro 3.50
+1309 318126511060 Hemanth Sai Vardhan Bodala IT Male Wipro 3.50
+1310 318126511062 Sai Kiran Borra IT Male Wipro 3.50
+1311 318126511064 Jogindhar Chekka IT Male Wipro 3.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1312 318126511070 Naga Sai Manikanta Krishna Lohith Dodda IT Male Wipro 3.50
+1313 318126511071 Vinay Erigala IT Male Wipro 3.50
+1314 318126511079 Sai Nagamani Vaishnavi Kanduri IT Female Wipro 3.50
+1315 318126511083 Lavanya Kinthada IT Female Wipro 3.50
+1316 318126511086 Lohitha Sri Kumireddi IT Female Wipro 3.50
+1317 318126511094 Navadeep Pedagadi IT Male Wipro 3.50
+1318 318126511096 Srinu Pilla IT Male Wipro 3.50
+1319 318126511098 Yogitha Polisetty IT Female Wipro 3.50
+1320 318126511101 Rishi Kiladi IT Female Wipro 3.50
+1321 318126511110 Kasi Viswanadham Thota IT Male Wipro 3.50
+1322 318126511114 Sai Charan Venkata Satya Grandhi IT Male Wipro 3.50
+1323 318126511116 Anusha Pradhan IT Female Wipro 3.50
+1324 318126511124 Abhishek Gali IT Male Wipro 3.50
+1325 318126511125 Jayanth Jajimoggala IT Male Wipro 3.50
+1326 318126511128 Kaja Venkata Satya Sai Vijay IT Male Wipro 3.50
+1327 318126511129 Pavithra Kalivarapu IT Female Wipro 3.50
+1328 318126511133 Nethaji Lakshman Kunda IT Male Wipro 3.50
+1329 318126511140 Saif Ullah Mughal IT Male Wipro 3.50
+1330 318126511141 Yatish Chandra Nalla IT Male Wipro 3.50
+1331 318126511142 Lohith Kumar Neerukonda IT Male Wipro 3.50
+1332 318126511143 Sophia Grace Nidaganti IT Female Wipro 3.50
+1333 318126511144 Sasi Kumar Paila IT Male Wipro 3.50
+1334 318126511145 Jyothi Sravanthi Pandranki IT Female Wipro 3.50
+1335 318126511159 Sai Naga Venkata Suresh Vaddi IT Male Wipro 3.50
+1336 318126511014 Sudheer Kumar Devadi IT Male Wipro 3.50
+1337 318126511126 Kshiteesh Jakkula IT Male Wipro 3.5
+1338 318126520009 Boddeda Praneeth Babu MECH Male Wipro 3.50
+1339 318126520011 Chilla Tarun Kumar Reddy MECH Male Wipro 3.50
+1340 318126520012 Mahesh Chodipalli MECH Male Wipro 3.50
+1341 318126520017 Kallepalli Lokesh MECH Male Wipro 3.50
+1342 318126520027 M. Manish Kumar MECH Male Wipro 3.50
+1343 318126520031 Mallidi Rakesh MECH Male Wipro 3.50
+1344 318126520039 Pakki Venkata Naga Lohith MECH Male Wipro 3.50
+1345 318126520040 Pattisapu Varaha Sandeep MECH Male Wipro 3.50
+1346 318126520041 Pinninti Sampath Kumar MECH Male Wipro 3.50
+1347 318126520044 Puvvala Dinesh Kumar MECH Male Wipro 3.50
+1348 318126520045 Rohit Yadav MECH Male Wipro 3.50
+1349 318126520050 Souripalli Divya MECH Female Wipro 3.50
+1350 318126520051 Sravankumar Yalla MECH Male Wipro 3.50
+1351 318126520058 Vishnu Vardhan Reddy Kandula MECH Male Wipro 3.50
+1352 318126520061 Akkena Harshavardhan MECH Male Wipro 3.50
+1353 318126520070 Challapalli Dinesh Raja MECH Male Wipro 3.50
+1354 318126520071 Chandu Reddy Kolli MECH Male Wipro 3.50
+1355 318126520076 Ethalapaka Ganesh MECH Male Wipro 3.50
+1356 318126520079 Gangunayuni Prakash MECH Male Wipro 3.50
+1357 318126520081 Gude Raghu MECH Male Wipro 3.50
+1358 318126520083 Indukuri Purna Adhitya Varma MECH Male Wipro 3.50
+1359 318126520088 Karrothu Lokesh Kumar MECH Male Wipro 3.50
+1360 318126520092 Ladi. Dharma Sasta MECH Male Wipro 3.50
+1361 318126520093 Lakkoju Deepak MECH Male Wipro 3.50
+1362 318126520095 Madaka Rakesh Kumar MECH Male Wipro 3.50
+1363 318126520100 Narava Yuva Kishore MECH Male Wipro 3.50
+1364 318126520101 Nimiditalli Manohar MECH Male Wipro 3.50
+1365 318126520104 Pandiri Nagendra Veera Prasad MECH Male Wipro 3.50
+1366 318126520107 Ranjith Kumar Kallapalli MECH Male Wipro 3.50
+1367 318126520110 Sampath Sai Raghav. Allaboyina MECH Male Wipro 3.50
+1368 318126520111 Senapathi Venkata Siva Sai Anil Kumar MECH Male Wipro 3.50
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1369 318126520116 Yavarna Vineetha MECH Female Wipro 3.50
+1370 318126520121 Bokam Chandrasekhar Mouli MECH Male Wipro 3.50
+1371 318126520123 Boora Deekshitha Kumari MECH Female Wipro 3.50
+1372 318126520127 Chalumuru Kumar Satya Sai Prasad MECH Male Wipro 3.50
+1373 318126520132 Chinthalapudi Venkatesh Sai Teja MECH Male Wipro 3.50
+1374 318126520133 Satish Chittella MECH Male Wipro 3.50
+1375 318126520134 D Laxman MECH Male Wipro 3.50
+1376 318126520136 Dwara Srimanth MECH Male Wipro 3.50
+1377 318126520140 Gudla Avinash Reddy MECH Male Wipro 3.50
+1378 318126520146 Harish Kandi MECH Male Wipro 3.50
+1379 318126520152 Pedada Venkata Saikiran MECH Male Wipro 3.50
+1380 318126520159 Robbi Chandra Sekhar MECH Male Wipro 3.50
+1381 318126520161 Shaik Hameed MECH Male Wipro 3.50
+1382 318126520162 Shaik P Shehzad MECH Male Wipro 3.50
+1383 318126520164 Simeon Sahasramsa Gajula MECH Male Wipro 3.50
+1384 318126520168 Vayileti Chandra Mouli MECH Male Wipro 3.50
+1385 318126520170 Velagada Chanti Naidu MECH Male Wipro 3.50
+1386 318126520172 Ballankila Sai Dhanunjay MECH Male Wipro 3.50
+1387 318126520177 Cheekati Vamsi MECH Male Wipro 3.50
+1388 318126520182 Jagannadham Surya Durga Prasad MECH Male Wipro 3.50
+1389 318126520183 Kadari Mahesh MECH Male Wipro 3.50
+1390 318126520185 Kodi Mani Kumar MECH Male Wipro 3.50
+1391 318126520190 Anil Marada MECH Male Wipro 3.50
+1392 318126520192 Mavuru Vasu MECH Male Wipro 3.50
+1393 318126520193 Nadiminti Narasinga Rao MECH Male Wipro 3.50
+1394 318126520197 Pasapu Srinivas MECH Male Wipro 3.50
+1395 318126520202 Sunkara Saikiran MECH Male Wipro 3.50
+1396 318126520208 Yenda Yuva Kiran MECH Male Wipro 3.50
+1397 319126520L52 Patchamatla Vamsi Varma MECH Male Wipro 3.50
+1398 319126520L02 Chinnari Natraj MECH Male Wipro 3.50
+1399 319126520L05 Geddavalasa Ravi Kumar MECH Male Wipro 3.50
+1400 319126520L12 Baratam Vineeth MECH Male Wipro 3.50
+1401 319126520L22 Sunkara G S Meher Teja MECH Male Wipro 3.50
+1402 319126520L23 Tutika Ganesh MECH Male Wipro 3.50
+1403 319126520L24 Thadi Vara Prasad MECH Male Wipro 3.50
+1404 319126520L26 Vadapalli Vamshi Pavan Kumar MECH Male Wipro 3.50
+1405 319126520L30 Majji Rama Kanth MECH Male Wipro 3.50
+1406 319126520L42 Kadari Tarun Kumar MECH Male Wipro 3.50
+1407 319126520L43 Chedalla Soma Sekhar MECH Male Wipro 3.50
+1408 319126520L45 Inturi Tanmayasai Krishna Chowdary MECH Male Wipro 3.50
+1409 319126520L46 Mamidi Jaswanth MECH Male Wipro 3.50
+1410 319126520L47 Marri Nikhil Sai MECH Male Wipro 3.50
+1411 319126520L49 Pasupureddi Rajesh MECH Male Wipro 3.50
+1412 319126520L54 V. Vishnu Prasad MECH Male Wipro 3.50
+1413 318126510036 Baby Prasanthi Mandalapu CSE Female Atos Syntel 3.40
+1414 318126511116 Anusha Pradhan IT Female Atos Syntel 3.40
+1415 319126502L14 Mansoor Hussain Shaik CHEM Male Deccan fine Chemical 3.40
+1416 318126512037 Vaishnavi Penta ECE Female MasTec QuadGen Wireless LLP 3.36
+1417 318126502012 Aniketh V R K N S Icchapurapu CHEM Male TCS Ninja 3.36
+1418 318126502023 Yeswanth Sai Kumar Paluri CHEM Male TCS Ninja 3.36
+1419 318126502024 Harsha Vardhan Babu Paruchuru CHEM Male TCS Ninja 3.36
+1420 318126502032 Sindhuja Krishna Veni Vajjala CHEM Female TCS Ninja 3.36
+1421 318126502035 Mani Kanta Thamatapu CHEM Male TCS Ninja 3.36
+1422 319126508L15 Praveen Pathivada Civil Male TCS Ninja 3.36
+1423 318126510008 Uma Maheswari Balabomma CSE Female TCS Ninja 3.36
+1424 318126510011 Shanmuk Arun Bikkavolu CSE Male TCS Ninja 3.36
+1425 318126510014 Nikhil Sai Kumar Botta CSE Male TCS Ninja 3.36
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1426 318126510016 Vt Nns Sreekar Teja Chavali CSE Male TCS Ninja 3.36
+1427 318126510020 Sanjusha Gundu CSE Female TCS Ninja 3.36
+1428 318126510024 Leela Prasad Kalla CSE Male TCS Ninja 3.36
+1429 318126510025 Naga Mahesh Naga Mahesh Katta CSE Male TCS Ninja 3.36
+1430 318126510028 Subba Reddy Kondapalli CSE Male TCS Ninja 3.36
+1431 318126510029 Uday Kumar Kotla CSE Male TCS Ninja 3.36
+1432 318126510031 Jyothsna Lenka CSE Female TCS Ninja 3.36
+1433 318126510032 Lohitha Machavarapu CSE Female TCS Ninja 3.36
+1434 318126510039 Christina Preethi Nelapudi CSE Female TCS Ninja 3.36
+1435 318126510040 Sandeep Neredumalli CSE Male TCS Ninja 3.36
+1436 318126510042 Swetha S N Nunela CSE Female TCS Ninja 3.36
+1437 318126510046 Deepika Ravva CSE Female TCS Ninja 3.36
+1438 318126510052 Tanooja Kosuru CSE Female TCS Ninja 3.36
+1439 318126510053 Tejasri Karri CSE Female TCS Ninja 3.36
+1440 318126510055 Anusha Vadada CSE Female TCS Ninja 3.36
+1441 318126510061 Goutham Sai Pavan Adari CSE Male TCS Ninja 3.36
+1442 318126510064 Darshan Barre CSE Male TCS Ninja 3.36
+1443 318126510067 Bharat Teja Chodavarapu CSE Male TCS Ninja 3.36
+1444 318126510068 Anil Kumar Dakarapu CSE Male TCS Ninja 3.36
+1445 318126510070 Yamini Krishna Damarla CSE Female TCS Ninja 3.36
+1446 318126510074 Jagadeesh Desetti CSE Male TCS Ninja 3.36
+1447 318126510075 Pavan Teja Galla CSE Male TCS Ninja 3.36
+1448 318126510076 Abhi Ram Gatreddi CSE Male TCS Ninja 3.36
+1449 318126510086 Bhaskar Madabattula CSE Male TCS Ninja 3.36
+1450 318126510087 Manoj Kumar Madhavarupu CSE Male TCS Ninja 3.36
+1451 318126510091 Sushma Metta CSE Female TCS Ninja 3.36
+1452 318126510093 Abdul Aziz Mohammad CSE Male TCS Ninja 3.36
+1453 318126510094 Riyaz Ali Mohammad CSE Male TCS Ninja 3.36
+1454 318126510097 Mohan Reddy Nallamilli CSE Male TCS Ninja 3.36
+1455 318126510101 Rakesh Pithani CSE Male TCS Ninja 3.36
+1456 318126510103 Vennela Pydisetty CSE Female TCS Ninja 3.36
+1457 318126510105 Ruchita Podugu CSE Female TCS Ninja 3.36
+1458 318126510107 Bhanu Prakash Sakkuri CSE Male TCS Ninja 3.36
+1459 318126510108 Aiswarya Seepana CSE Female TCS Ninja 3.36
+1460 318126510116 Revanth Vasupalli CSE Male TCS Ninja 3.36
+1461 318126510118 Dinesh Thithy Dinesh CSE Male TCS Ninja 3.36
+1462 318126510119 Sridevi Yamala CSE Female TCS Ninja 3.36
+1463 318126510122 Harshini Lakshmi Durga Allada CSE Female TCS Ninja 3.36
+1464 318126510123 Bharathi Lakshmi Baddi CSE Female TCS Ninja 3.36
+1465 318126510124 Madhu Nitesh Bandi CSE Male TCS Ninja 3.36
+1466 318126510130 Vidya Vikas Bonangi CSE Male TCS Ninja 3.36
+1467 318126510134 Divyanth Ramnath Darsi CSE Male TCS Ninja 3.36
+1468 318126510135 Mohan Manikanta Sai Dasari CSE Male TCS Ninja 3.36
+1469 318126510137 Sharvani Venkata Konda Emandi CSE Female TCS Ninja 3.36
+1470 318126510138 Mourya Prateek Emandi CSE Male TCS Ninja 3.36
+1471 318126510146 Tharun Tej Kalla CSE Male TCS Ninja 3.36
+1472 318126510149 Karthik Killari CSE Male TCS Ninja 3.36
+1473 318126510150 Vandana Killari CSE Female TCS Ninja 3.36
+1474 318126510154 Vignesh Manyala CSE Male TCS Ninja 3.36
+1475 318126510160 Prathyusha Padmanabhuni CSE Female TCS Ninja 3.36
+1476 318126510163 Rohitha Polamarasetty CSE Female TCS Ninja 3.36
+1477 318126510170 Sai Charan Gangu CSE Male TCS Ninja 3.36
+1478 318126510171 Ganesh Sanka CSE Male TCS Ninja 3.36
+1479 318126510172 Harika Savarapu CSE Female TCS Ninja 3.36
+1480 318126510173 Sravani Seera CSE Female TCS Ninja 3.36
+1481 318126510175 Ranga Reddy Siddamreddy CSE Male TCS Ninja 3.36
+1482 319126510L01 Bhavana Pampana CSE Female TCS Ninja 3.36
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1483 319126510L08 Shanmukhi Devi Guntreddi CSE Female TCS Ninja 3.36
+1484 319126510L15 Madu Nagendra Madu CSE Male TCS Ninja 3.36
+1485 318126512001 Abdul Zafeer Mannan ECE Male TCS Ninja 3.36
+1486 318126512003 Hari Siva Ganesh Annamdevula ECE Male TCS Ninja 3.36
+1487 318126512004 Sri Ragamayi Arasada ECE Female TCS Ninja 3.36
+1488 318126512005 Sai Santosh Bagadi ECE Male TCS Ninja 3.36
+1489 318126512008 Hemalatha Boda ECE Female TCS Ninja 3.36
+1490 318126512010 Bharath Bollu ECE Male TCS Ninja 3.36
+1491 318126512014 Suvarchala Chinta ECE Female TCS Ninja 3.36
+1492 318126512015 Mani Vivek Sri Harsha Chintada ECE Male TCS Ninja 3.36
+1493 318126512018 Manikanta Sarma Ganti ECE Male TCS Ninja 3.36
+1494 318126512024 Pramod Siva Kumar Babu Keerthi ECE Male TCS Ninja 3.36
+1495 318126512026 Rahul Babu Kommukuri ECE Male TCS Ninja 3.36
+1496 318126512036 Leela Venkat Madhav Nollu ECE Male TCS Ninja 3.36
+1497 318126512038 Mohan Manoj Pentakota ECE Male TCS Ninja 3.36
+1498 318126512043 Padmapriya Rachagulla ECE Female TCS Ninja 3.36
+1499 318126512044 Naga Sai Nikhil Ramisetty ECE Male TCS Ninja 3.36
+1500 318126512046 Ravi Kumar Saladi ECE Male TCS Ninja 3.36
+1501 318126512048 Hassireen Shaik ECE Female TCS Ninja 3.36
+1502 318126512050 Rakesh Babu Sirigineedi ECE Male TCS Ninja 3.36
+1503 318126512053 Bhargav Sureddi ECE Male TCS Ninja 3.36
+1504 318126512054 Vaishnavi Lingala ECE Female TCS Ninja 3.36
+1505 318126512056 Tirupathi Rao Vankala ECE Male TCS Ninja 3.36
+1506 318126512062 Akshaya Killi ECE Female TCS Ninja 3.36
+1507 318126512067 Venkata Jyothi Ashritha Behara ECE Female TCS Ninja 3.36
+1508 318126512074 Harsha Vardhan Doddi ECE Male TCS Ninja 3.36
+1509 318126512079 Venkata Nagarjuna Reddy Godhala ECE Male TCS Ninja 3.36
+1510 318126512085 Pavani Kollati ECE Female TCS Ninja 3.36
+1511 318126512094 Pavan Kumar Pilla ECE Male TCS Ninja 3.36
+1512 318126512103 Sai Rahul Singampalli ECE Male TCS Ninja 3.36
+1513 318126512110 Mahesh Udarla ECE Male TCS Ninja 3.36
+1514 318126512113 Madhuri Vanjarapu ECE Female TCS Ninja 3.36
+1515 318126512115 Sravani Vantakula ECE Female TCS Ninja 3.36
+1516 318126512124 Harsha Vardhan Bandaru ECE Male TCS Ninja 3.36
+1517 318126512133 Vishnu Vardhan Doddi ECE Male TCS Ninja 3.36
+1518 318126512134 Durga Sai Prasanth Dooba ECE Male TCS Ninja 3.36
+1519 318126512138 Reshma Gude ECE Female TCS Ninja 3.36
+1520 318126512139 Hemanth Ippili ECE Male TCS Ninja 3.36
+1521 318126512143 Janani Kamireddi ECE Female TCS Ninja 3.36
+1522 318126512146 Bhavana Karimajji ECE Female TCS Ninja 3.36
+1523 318126512147 Rohit Karri ECE Male TCS Ninja 3.36
+1524 318126512152 Deepshika Maddala ECE Female TCS Ninja 3.36
+1525 318126512153 Sai Durga Manasa Maddila ECE Female TCS Ninja 3.36
+1526 318126512160 K N Naga Satya Venkata Ayyappa Vuddagiri ECE Male TCS Ninja 3.36
+1527 318126512161 Pujitha Vaidya Nidadavolu ECE Female TCS Ninja 3.36
+1528 318126512168 Vinay Mouli Punumajji ECE Male TCS Ninja 3.36
+1529 318126512174 Pavan Kumar Suggu ECE Male TCS Ninja 3.36
+1530 318126512175 Sai Venkatesh Sunkara ECE Male TCS Ninja 3.36
+1531 319126512L04 Pavan Gudisa ECE Male TCS Ninja 3.36
+1532 318126514003 Gayathri Arasada EEE Female TCS Ninja 3.36
+1533 318126514010 Sri Harsha Chitrada EEE Male TCS Ninja 3.36
+1534 318126514015 Sanjeev Kumar Devadula EEE Male TCS Ninja 3.36
+1535 318126514020 Bhavya Sri Pravallika Guvvala EEE Female TCS Ninja 3.36
+1536 318126514027 Bhargav Kakara EEE Male TCS Ninja 3.36
+1537 318126514030 Vagdevi Konni EEE Female TCS Ninja 3.36
+1538 318126514031 Venkata Pramod Naidu Lagisetti EEE Male TCS Ninja 3.36
+1539 318126514034 Venkata Narasimha Sai Charan Mandalemula EEE Male TCS Ninja 3.36
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1540 318126514037 Prasanna Lakshmi Mutta EEE Female TCS Ninja 3.36
+1541 318126514042 Priyanka Reddy Palikila EEE Female TCS Ninja 3.36
+1542 318126514046 Rohit Sri Satya Sai Rudri EEE Male TCS Ninja 3.36
+1543 318126514061 Santosh Chitta EEE Male TCS Ninja 3.36
+1544 318126514073 Anil Sai Lakhinana EEE Male TCS Ninja 3.36
+1545 318126514078 Keerthi Narne EEE female TCS Ninja 3.36
+1546 318126514083 Narendra Narendra Pilla EEE Male TCS Ninja 3.36
+1547 318126514087 Siri Chandana Puvvala EEE Female TCS Ninja 3.36
+1548 318126514101 Kethan Vijay Kumar Vangapandu EEE Male TCS Ninja 3.36
+1549 318126514106 Chepa Venkata Sai Anudeep Chepa EEE Male TCS Ninja 3.36
+1550 318126514110 Venkata Sai Prathyusha Garbham EEE Female TCS Ninja 3.36
+1551 318126514116 Swetha Reddy Koyya EEE Female TCS Ninja 3.36
+1552 318126514119 Shiva Nookaraju Malla EEE male TCS Ninja 3.36
+1553 318126514120 Hemanth Kumar Mallarapu EEE Male TCS Ninja 3.36
+1554 318126514121 Seetha Rama Raju Meesala EEE Male TCS Ninja 3.36
+1555 318126514122 Bhavani Molleti Molleti EEE Female TCS Ninja 3.36
+1556 318126514123 Jyothika Priya Mongam EEE Female TCS Ninja 3.36
+1557 318126514124 Koushik Reddy Mukku EEE Male TCS Ninja 3.36
+1558 318126514125 Avinash Nimmakayala EEE Male TCS Ninja 3.36
+1559 318126514126 Reetika Palateru EEE Female TCS Ninja 3.36
+1560 318126514129 Chanakya Peela Peela EEE Male TCS Ninja 3.36
+1561 318126514134 Srihari Siripurapu EEE Male TCS Ninja 3.36
+1562 318126514139 Yaswanth Naveen Vasamsetti EEE Male TCS Ninja 3.36
+1563 319126514L17 Sai Kumar Reddy EEE Male TCS Ninja 3.36
+1564 319126514L26 Ashish Kumar Vabbina EEE Male TCS Ninja 3.36
+1565 319126514L33 Durga Prasad Dandipadala EEE Male TCS Ninja 3.36
+1566 319126514L37 Prasanth Pragada EEE Male TCS Ninja 3.36
+1567 318126511001 Kumar Ganesh Teja Amarapini IT Male TCS Ninja 3.36
+1568 318126511003 Kanaka Ratna Kumari Andhavarapu IT Female TCS Ninja 3.36
+1569 318126511008 Rajan Raju Bhupathiraju IT Male TCS Ninja 3.36
+1570 318126511011 Nalini Ratnasai Chetla IT Female TCS Ninja 3.36
+1571 318126511017 Sai Kiran Gadhamsetti IT Male TCS Ninja 3.36
+1572 318126511019 Rachit Hari IT Male TCS Ninja 3.36
+1573 318126511021 Jahnavi Priya Jagarapu IT Female TCS Ninja 3.36
+1574 318126511022 Noothana Jeeru IT Female TCS Ninja 3.36
+1575 318126511024 Gayitri Kallam IT Female TCS Ninja 3.36
+1576 318126511026 Sowmya Kapuganti IT Female TCS Ninja 3.36
+1577 318126511030 Srikanth Kotipalli IT Male TCS Ninja 3.36
+1578 318126511031 Sai Sunil Kundiri IT Male TCS Ninja 3.36
+1579 318126511032 Lakshmi Sailaja Bharathi Ganti IT Female TCS Ninja 3.36
+1580 318126511035 Naveen Naru IT Male TCS Ninja 3.36
+1581 318126511043 Sai Lakshmana Rachakonda IT Male TCS Ninja 3.36
+1582 318126511047 Satya Krishna Mohan Singamsetti IT Male TCS Ninja 3.36
+1583 318126511054 Swaraj Naidu Valireddi IT Male TCS Ninja 3.36
+1584 318126511055 Venkata Sai Dinesh Vetcha IT Male TCS Ninja 3.36
+1585 318126511058 Akhila Kommana IT Female TCS Ninja 3.36
+1586 318126511059 Sai Poojitha Raj Bhupathiraju IT Female TCS Ninja 3.36
+1587 318126511060 Hemanth Sai Vardhan Bodala IT Male TCS Ninja 3.36
+1588 318126511062 Sai Kiran Borra IT Male TCS Ninja 3.36
+1589 318126511065 Pujitha Damodara IT Female TCS Ninja 3.36
+1590 318126511069 Goutham Subrahmanyam Devara IT Male TCS Ninja 3.36
+1591 318126511070 Naga Sai Manikanta Krishna Lohith Dodda IT Male TCS Ninja 3.36
+1592 318126511072 Manikanta Sai Varma Indukuri IT Male TCS Ninja 3.36
+1593 318126511076 Lalitha Samhitha Jhadtheela IT Male TCS Ninja 3.36
+1594 318126511078 Pranith Varma Kalidindi IT Male TCS Ninja 3.36
+1595 318126511080 Keerthana Gnana Karri IT Female TCS Ninja 3.36
+1596 318126511083 Lavanya Kinthada IT Female TCS Ninja 3.36
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1597 318126511084 Bhagnesh Venkata Kona IT Male TCS Ninja 3.36
+1598 318126511085 Deepthi Koppula IT Female TCS Ninja 3.36
+1599 318126511087 Vandana Mvvs IT Female TCS Ninja 3.36
+1600 318126511091 Harshini Nambala IT Female TCS Ninja 3.36
+1601 318126511096 Srinu Pilla IT Male TCS Ninja 3.36
+1602 318126511099 Charan Kumar Poosarla IT Male TCS Ninja 3.36
+1603 318126511108 Venkata Sai Tangudu IT Male TCS Ninja 3.36
+1604 318126511114 Sai Charan Venkata Satya Grandhi IT Male TCS Ninja 3.36
+1605 318126511120 Uma Rani Burugupalli IT Female TCS Ninja 3.36
+1606 318126511121 Ch N V S K Rayudu Enakoti IT Male TCS Ninja 3.36
+1607 318126511125 Jayanth Jajimoggala IT Male TCS Ninja 3.36
+1608 318126511132 Chandan Sowmya Konkyana IT Female TCS Ninja 3.36
+1609 318126511134 Venkata Sai Kuniganti IT Male TCS Ninja 3.36
+1610 318126511136 Chiranjeevi Venkata Surya Teja Maddala IT Male TCS Ninja 3.36
+1611 318126511138 Aishwarya Mane IT Female TCS Ninja 3.36
+1612 318126511143 Sophia Grace Nidaganti IT Female TCS Ninja 3.36
+1613 318126511145 Jyothi Sravanthi Pandranki IT Female TCS Ninja 3.36
+1614 318126511150 Maneesh Kumar Sripatnala IT Male TCS Ninja 3.36
+1615 318126511156 Tabassum IT Female TCS Ninja 3.36
+1616 318126511158 Indira Tirumala Raju IT Female TCS Ninja 3.36
+1617 318126511160 Sai Praveen Vajapeyayajula IT Male TCS Ninja 3.36
+1618 318126511161 Venkata S S Prasanth Patnaik Vandrangi IT Male TCS Ninja 3.36
+1619 318126520003 Anirudh Susarla MECH Male TCS Ninja 3.36
+1620 318126520009 Boddeda Praneeth Babu MECH Male TCS Ninja 3.36
+1621 318126520011 Chilla Tarun Kumar Reddy MECH Male TCS Ninja 3.36
+1622 318126520016 Juttuga Githika Shivani MECH Female TCS Ninja 3.36
+1623 318126520024 Korra Tarun MECH Male TCS Ninja 3.36
+1624 318126520032 Muthu Bhaskar MECH Male TCS Ninja 3.36
+1625 318126520037 Nirujogi Bharath MECH Male TCS Ninja 3.36
+1626 318126520039 Pakki Venkata Naga Lohith MECH Male TCS Ninja 3.36
+1627 318126520045 Rohit Yadav MECH Male TCS Ninja 3.36
+1628 318126520052 Sunkari Anil Kumar MECH Male TCS Ninja 3.36
+1629 318126520057 Velamala Jaya Krishna MECH Male TCS Ninja 3.36
+1630 318126520065 Sujeeth Bavirisetti MECH Male TCS Ninja 3.36
+1631 318126520077 Gadigatla Anudeep MECH Male TCS Ninja 3.36
+1632 318126520080 Dilip Kumar MECH Male TCS Ninja 3.36
+1633 318126520082 Harshavardhan Dora Inapakurthi MECH Male TCS Ninja 3.36
+1634 318126520084 Kakara Karthik MECH Male TCS Ninja 3.36
+1635 318126520116 Yavarna Vineetha MECH Female TCS Ninja 3.36
+1636 318126520123 Boora Deekshitha Kumari MECH Female TCS Ninja 3.36
+1637 318126520126 Budida Pavan Kumar MECH Male TCS Ninja 3.36
+1638 318126520130 Chintada. Vishnu Koushik MECH Male TCS Ninja 3.36
+1639 318126520133 Satish Chittella MECH Male TCS Ninja 3.36
+1640 318126520138 Golla Nikhil Durga Sai MECH Male TCS Ninja 3.36
+1641 318126520147 Kothakota Chaitanya Kumar MECH Male TCS Ninja 3.36
+1642 318126520158 R. Sri Keerthana MECH Female TCS Ninja 3.36
+1643 318126520175 Bokka Chakravarthi MECH Male TCS Ninja 3.36
+1644 318126520178 Gorle Balu MECH Male TCS Ninja 3.36
+1645 318126520179 Gudimetla Naga Rama Bruhathi MECH Female TCS Ninja 3.36
+1646 318126520183 Kadari Mahesh MECH Male TCS Ninja 3.36
+1647 318126520188 M. Sai Nivas MECH Male TCS Ninja 3.36
+1648 318126520189 Mandeti Sampath Kumar MECH Male TCS Ninja 3.36
+1649 318126520198 R Venkat Abhishek MECH Male TCS Ninja 3.36
+1650 318126520205 Vetcha Sai Rohit MECH Male TCS Ninja 3.36
+1651 319126520L40 Thotada Kiran MECH Male TCS Ninja 3.36
+1652 319126520L42 Kadari Tarun Kumar MECH Male TCS Ninja 3.36
+1653 318126512062 Akshaya Killi ECE Female TechMahindra 3.36
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1654 318126512035 Satya Sai Charan Nitta ECE Male TechMahindra 3.25
+1655 318126512036 Leela Venkat Madhav Nollu ECE Male TechMahindra 3.25
+1656 318126512037 Vaishnavi Penta ECE Female TechMahindra 3.25
+1657 318126512042 Priyanka Golivi ECE Female TechMahindra 3.25
+1658 318126512046 Ravi Kumar Saladi ECE Male TechMahindra 3.25
+1659 318126512054 Vaishnavi Lingala ECE Female TechMahindra 3.25
+1660 318126512057 Surya Bhavani Venigalla ECE Female TechMahindra 3.25
+1661 318126511139 Ramu Marothi IT Male TechMahindra 3.25
+1662 318126511152 Mohana Pavan Kumar Sirigiri IT Male TechMahindra 3.25
+1663 318126502026 Varun Sri Pavan Pinapatruni CHEM Male Mphasis 3.25
+1664 318126502003 V. Neelakanteswara Sai Pavan Kumar Baggam CHEM Male Aurobindo 3.02
+1665 318126502021 Venkata Govinda Hemanta Prithviraj Muddada CHEM Male Deccan fine Chemical 3.02
+1666 318126502001 Lokesh Akula CHEM Male Lyfius 3.02
+1667 318126508004 Dharani Anyapu Civil Female DTPL 2.84
+1668 318126508019 Chanukya Karri Civil Male DTPL 2.84
+1669 319126508L18 Venkatesh yelugubantla Civil Male DTPL 2.84
+1670 318126514074 Lammatha Vinod Kumar EEE Male DTPL 2.84
+1671 318126520136 Dwara Srimanth MECH Male DTPL 2.84
+1672 318126520206 Yathirajula Rajendra MECH Male DTPL 2.84
+1673 319126520L36 Nekkala Lokesh MECH Male DTPL 2.84
+1674 319126520L53 Ponnada Karthik MECH Male DTPL 2.84
+1675 319126520L03 Bantu Sandhya MECH Female Dr Reddy's Laboratories Limited 2.6
+1676 318126520117 Akula Lokeshwar MECH Male Team Lease 2.47
+1677 318126514074 Lammatha Vinod Kumar EEE Male Faurecia 2.40
+1678 318126520117 Akula Lokeshwar MECH Male Faurecia 2.40
+1679 318126520172 Ballankila Sai Dhanunjay MECH Male Faurecia 2.40
+1680 318126510100 Vidhya Sagar Netti CSE Male Pennant Technologies 2.40
+1681 318126510120 Yarraju Ajay Yarraju CSE Male Pennant Technologies 2.40
+1682 318126520128 Girish Cheekati MECH Male Pennant Technologies 2.40
+1683 318126520168 Vayileti Chandra Mouli MECH Male Pennant Technologies 2.40
+1684 318126502017 Vinay Guna Sekhar Kari CHEM Male Deccan fine Chemical 2.38
+1685 319126514L03 Kiran Peddada EEE Male IOPEX Technologies 2.23
+1686 319126520L01 Naba Madhavi Priyanka MECH Female MEIL 2.23
+1687 319126520L34 Kutikuppala Punil Chandra MECH Male MEIL 2.23
+1688 319126520L12 Baratam Vineeth MECH Male MEIL 2.23
+1689 319126520L05 Geddavalasa Ravi Kumar MECH Male MEIL 2.23
+1690 319126520L37 Pangi Ganesh Sai Kumar MECH Male MEIL 2.23
+1691 319126520L07 YASODA DAMMU MECH Female MEIL 2.23
+1692 318126520047 Seera Vivek MECH Male MEIL 2.23
+1693 318126520071 Chandu Reddy Kolli MECH Male MEIL 2.23
+1694 318126520109 Sai Pramod Ravada MECH Male MEIL 2.23
+1695 319126520L26 Vadapalli Vamshi Pavan Kumar MECH Male MEIL 2.23
+1696 319126514l38 Harika Vangalapudi MECH Female MEIL 2.23
+1697 318126520160 SANGANI BHASKARA VARMA MECH Male MEIL 2.23
+1698 318126508003 Raveendra Venkata Sai Akula Civil Male MEIL 2.23
+1699 318126508005 Vinay Kumar Balaka Civil Male MEIL 2.23
+1700 318126508006 Sampath Kumar Bandaru Civil Male MEIL 2.23
+1701 318126508007 Jayadeep Beera Civil Male MEIL 2.23
+1702 318126508020 Dileep Kumar Killi Civil Male MEIL 2.23
+1703 318126508023 Raviteja Krishnoth Civil Male MEIL 2.23
+1704 318126508024 Hari Prasad Kumerashan Civil Male MEIL 2.23
+1705 318126508028 Pravallika Manapuram Civil Female MEIL 2.23
+1706 318126508029 Kumar Pavan Muddundi Civil Male MEIL 2.23
+1707 318126508033 Rahul Lakshmi Venkata Siva Sai Palaka Civil Male MEIL 2.23
+1708 318126508034 Vivek Vidya Parapathi Civil Male MEIL 2.23
+1709 318126508037 Kishore Setti Civil Male MEIL 2.23
+1710 318126508039 Prasad Bhanu Siraparapu Civil Male MEIL 2.23
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1711 318126508040 Rao Srinivasa Vasantula Civil Male MEIL 2.23
+1712 318126508044 Reddy Chaithanya Thoningi Civil Male MEIL 2.23
+1713 319126508L07 Naveen Gantyada Civil Male MEIL 2.23
+1714 319126508L01 Siva Naga Durga Pelluri Civil Female MEIL 2.23
+1715 319126508L05 Chandra Vijay Adari Civil Male MEIL 2.23
+1716 319126508L06 Naik Vasu Bhanavath Civil Male MEIL 2.23
+1717 319126508L14 Kumar Sai Tarun Koyyana Civil Male MEIL 2.23
+1718 318126514001 Pradeep Chandra Alamanda EEE Male MEIL 2.23
+1719 318126514045 Jayank Maanas Ranganadham EEE Male MEIL 2.23
+1720 318126514131 Pukkella Narasimha Satya Rohit EEE Male MEIL 2.23
+1721 318126514138 Niroop Sai Vanapalli EEE Male MEIL 2.23
+1722 319126514L03 Kiran Peddada EEE Male MEIL 2.23
+1723 319126514L07 Lalam Sharmila EEE female MEIL 2.23
+1724 319126514L11 Adimulam Achyut EEE Male MEIL 2.23
+1725 319126514L32 Niranjan Raju Boni EEE MALE MEIL 2.23
+1726 319126514L46 Siva Kumar Karimerakala EEE Male MEIL 2.23
+1727 316126520059 Velagada Priyanka MECH Female MEIL 2.23
+1728 317126520206 Laveti Nagitha Joshna MECH Female MEIL 2.23
+1729 318126520014 Tejasree Dukka MECH Female MEIL 2.23
+1730 318126520019 Kandregula Naveen Manikanta Varaprasad MECH Male MEIL 2.23
+1731 318126520062 Aluri Sai Sarat Madhusudana Rao MECH Male MEIL 2.23
+1732 318126520080 Dilip Kumar MECH Male MEIL 2.23
+1733 318126520092 Ladi. Dharma Sasta MECH Male MEIL 2.23
+1734 318126520100 Narava Yuva Kishore MECH Male MEIL 2.23
+1735 318126520106 Polla Srihari MECH Male MEIL 2.23
+1736 318126520112 Shaik Shadiq MECH Male MEIL 2.23
+1737 318126520125 Botcha Bharadwaj Srinivas MECH Male MEIL 2.23
+1738 318126520135 Doddi Revanth MECH Male MEIL 2.23
+1739 318126520140 Gudla Avinash Reddy MECH Male MEIL 2.23
+1740 318126520148 Kundi Karthik Preetham Naidu MECH Male MEIL 2.23
+1741 318126520159 Robbi Chandra Sekhar MECH Male MEIL 2.23
+1742 318126520164 Simeon Sahasramsa Gajula MECH Male MEIL 2.23
+1743 319126520L02 Chinnari Natraj MECH Male MEIL 2.23
+1744 319126520L18 Gudipati Dinesh MECH Male MEIL 2.23
+1745 319126520L20 B Hema Saranya MECH Female MEIL 2.23
+1746 319126520L55 Md Nawazu Uddin MECH Male MEIL 2.23
+1747 319126520L46 Mamidi Jaswanth MECH Male MEIL 2.23
+1748 319126510L09 Praveen Gandreti CSE Male Nueve ITSolutions 2.23
+1749 318126512007 Bhanu Prakash Barla ECE Male Nueve ITSolutions 2.23
+1750 318126511117 Ashok Reddy Sanampudi IT Male Nueve ITSolutions 2.23
+1751 318126510043 Dharani Polavarapu CSE Female TechMahindra 2.23
+1752 318126510083 Himanush Kurakula CSE Male Winwire 2.23
+1753 318126510108 Aiswarya Seepana CSE Female Winwire 2.23
+1754 318126510115 Ranjit Varikuti CSE Male Winwire 2.23
+1755 318126511049 Sraddha Ananya Atyam IT Female Winwire 2.23
+1756 318126511057 Hema Lakshmi Addagarla IT Female Winwire 2.23
+1757 318126511117 Ashok Reddy Sanampudi IT Male Winwire 2.23
+1758 319126502L09 MS. BODABALLA SANDHYA CHEM Female HETERO 2.20
+1759 319126502L13 Vamsidhar Reddy CHEM Male Deccan fine Chemical 2.19
+1760 318126502001 Lokesh Akula CHEM Male HETERO 2.19
+1761 318126502002 Satya Srinivas Reddy B. CHEM Male HETERO 2.19
+1762 318126502003 V. Neelakanteswara Sai Pavan Kumar Baggam CHEM Male HETERO 2.19
+1763 318126502005 Lavanya Dungala CHEM Female HETERO 2.19
+1764 318126502006 Ganapathi Raju Surendra Ganapathi Raju CHEM Male HETERO 2.19
+1765 318126502007 Jagadeesh Gandi CHEM Male HETERO 2.19
+1766 318126502010 Lokesh Gottapu CHEM Male HETERO 2.19
+1767 318126502011 Sai Harsha Vardhan Guthula CHEM Male HETERO 2.19
+Sl No Regd No Name of the Student Branch Gender Name of the Companies CTC (L.P.A)
+1768 318126502013 Santhoshi Harika Katrenikona CHEM Female HETERO 2.19
+1769 318126502017 Vinay Guna Sekhar Kari CHEM Male HETERO 2.19
+1770 318126502018 Sumanohar Karri CHEM Male HETERO 2.19
+1771 318126502021 Venkata Govinda Hemanta Prithviraj Muddada CHEM Male HETERO 2.19
+1772 318126502026 Varun Sri Pavan Pinapatruni CHEM Male HETERO 2.19
+1773 318126502027 Prashanth Raghupatruni CHEM Male HETERO 2.19
+1774 318126502028 Dinesh Rajana CHEM Male HETERO 2.19
+1775 318126502029 Gowtham Saladi CHEM Male HETERO 2.19
+1776 318126502031 Jani Basha Shaik CHEM Male HETERO 2.19
+1777 318126502033 Shameer Rayan Syed CHEM Male HETERO 2.19
+1778 318126502034 Uday Bhaskar Tekkam CHEM Male HETERO 2.19
+1779 318126502038 Laxmi Vara Prasanna Yerra CHEM Female HETERO 2.19
+1780 319126502L01 Rama Murthy Vadapalli CHEM Male HETERO 2.19
+1781 319126502L03 Venkata Vinay Koneti CHEM Male HETERO 2.19
+1782 319126502L04 Sai Nivesh Garikina CHEM Male HETERO 2.19
+1783 319126502L06 Sai Manikanta Vinay Medisetti CHEM Male HETERO 2.19
+1784 319126502L07 Durga Prasad Yandru CHEM Male HETERO 2.19
+1785 319126502L08 Viswanadh Polani CHEM Male HETERO 2.19
+1786 319126502L11 Sai Kiran Merugu CHEM Male HETERO 2.19
+1787 319126502L13 Vamsidhar Reddy CHEM Male HETERO 2.19
+1788 319126502L14 Mansoor Hussain Shaik CHEM Male HETERO 2.19
+1789 319126502L16 Narayana Murthy Yelamanchili CHEM Male HETERO 2.19
+1790 319126502L17 Mutyala Naidu Kothalanka CHEM Male HETERO 2.19
+1791 319126502L19 Efraim Devarapalli CHEM Male HETERO 2.19
+1792 318126508039 Prasad Bhanu Siraparapu Civil Male Rockeira 2.16
+1793 318126520001 AGATHA NAVEEN MECH Male ENERGETIC PEOPLE PVT.LTD 2.12
+1794 318126520029 Madeti Raghavendra Sai Rohit MECH Male ENERGETIC PEOPLE PVT.LTD 2.12
+1795 318126520144 KADAVALA SAI KARTHIK ROY MECH Male ENERGETIC PEOPLE PVT.LTD 2.12
+1796 318126520163 SHAIK SALEEL MECH Male ENERGETIC PEOPLE PVT.LTD 2.12
+1797 318126514005 Sai Rohit Boddeti EEE Male Petrocon 2.10
+1798 318126514007 Burdapati Sri Harsha EEE MALE Petrocon 2.10
+1799 319126514l38 Harika Vangalapudi EEE Female Petrocon 2.10

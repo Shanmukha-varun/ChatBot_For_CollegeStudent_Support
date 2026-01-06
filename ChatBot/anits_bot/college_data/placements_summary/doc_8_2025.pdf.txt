@@ -1,0 +1,64 @@
+Summary of Campus Selections - 2025 Batch
+CTC/Package CSE-
+S. No. Organization Total CSE IT CSE-DS ECE EEE MECH CIVIL CHEM
+in Lacs AI&ML
+1 Josh Technology Group 11.30 1 1
+2 FACTSET 10.30 4 3 1
+3 Inncirles 10.30-6.00 6 4 2
+4 Akrivia HCM 10.00-12.00 3 3
+5 Tejas Network 10.00 1 1
+6 Infosys -SP -Hackwith infy 9.50 2 2
+7 Infosys Ltd. -SP 9.50 9 4 1 1 2 1
+8 LIVSPACE 8.00 1 1
+9 Neurofin AI Technologies Pvt. Ltd. 7.50 1 1
+10 Reliance Industries Ltd 7.50 5 3 2
+11 Dalton IT Solutions 6.80 1 1
+12 Cognizant Genc Next 6.75 6 5 1
+13 o9 Solutions Management India Private Limited 6.50 2 2
+14 Apxor 6.00 1 1
+15 Moschips 6.00 4 4
+16 Pinnacle 6.00 2 1 1
+17 Track3d (Fresherbot) 6.00 5 3 2
+18 Dexterity Edtech Pvt Ltd 4.00-6.00 139 39 1 40 24 34 1
+19 Medha Servo 5.50 7 3 4
+20 Efftronics Systems PVt Ltd 5.30 4 1 1 2
+21 JMAN Group 5.00 3 2 1
+22 Nocac Ventures Private Limited 4.80 1 1
+23 FlintLab 4.80 1 1
+24 Deloitte 4.50 24 6 8 4 2 4
+25 Hansa Solutions 4.50 4 4
+26 Meil 4.50 254 91 123 40
+27 Cognizant Genc 4.50 69 24 20 11 3 8 2 1
+28 HCL 4.25 4 1 3
+29 Avantel 4.20 1 1
+30 Technologics 4.00 19 2 4 2 2 2 2 4 1 0
+31 Eleation 4.00 3 3
+32 Vem Technologies Pvt. Ltd. 4.00 9 3 4 2
+33 Deccan Fine chemical 4.00 8 8
+34 Infosys Ltd. 3.60 - 6.25 234 73 61 21 13 44 12 9 1
+35 Design Tribe (India) Pvt. Ltd 3.60 8 8
+36 IMEG 3.60 5 1 4
+37 Miracle Software Systems Inc. 3.60 8 1 6 1
+38 Nueve It Solutions 1.80-3.60 13 6 3 4
+39 GGS Engineering Services 3.57 6 6
+40 Infinite Solutions 3.50 1 1
+41 Praxsol 3.50 4 3 1
+42 HETERO 3.20 17 17
+43 BSCPL Infrastructure Limited 3.00-5.00 1 1
+44 Sobha Ltd. 3.04 5 5
+45 RDC Concrete 3.00 39 7 4 26 2
+46 L& T Technology Services 3.00 1 1
+47 Vyas Cancer Research Pvt. Ltd(INTERN) 3.00 3 3
+48 Candela Technologies 3.00 1 1
+49 VS Technologies 3.00 1 1
+50 Steel Strips Wheels Ltd. 3.00 8 8
+51 Divi's Laborataries 2.40 4 4
+52 Delphi TVS Technologies 2.22 60 22 18 20
+53 PSS Group 2.16 72 9 31 29 1 1 1
+Total No. of Placements 1095 147 164 47 25 171 191 252 64 34
+Total No. of Student Selections 791 120 129 33 19 110 142 166 48 24
+No. of Eligible Students 1045 195 202 66 29 168 143 167 50 25
+Average Salary 4.25
+Maximum Salary 12.00
+Median Salary 4.50
+Minimum Salary 2.16

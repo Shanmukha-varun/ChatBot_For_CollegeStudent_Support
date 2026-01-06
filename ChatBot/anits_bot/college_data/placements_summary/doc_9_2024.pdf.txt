@@ -1,0 +1,96 @@
+Summary of Campus Selections - 2024 Batch
+S. No. Organization CTC/Package Total CSE IT CSE-DS CSE- ECE EEE MECH CIVIL CHEM
+in Lacs AI&ML
+1 Amazon SDE 48.00 1 1
+2 Walmart Global Tech 27.00 1 1
+3 Amazon Aws 26.00 15 5 6 1 1 2
+4 Darwin box 16.30-21.80 6 4 1 1
+5 Flipkart 11.00 2 1 1
+6 Lloyds Offshore Global Services Pvt. Ltd. 10.71 1 1
+7 Tejas Network 10.40 1 1
+8 Factset 10.08 5 2 1 2
+9 Infosys (HWI - SP Role) 9.50 3 1 1 1
+10 Reliance GET 7.50-9.28 4 3 1
+11 Wiley Mthree 9.00 10 1 5 1 3
+12 TCS (Ninaj, Digital & Prime) 3.60-9.00 110 36 25 13 6 15 7 7 1
+13 Inncircles 8.00 2 1 1
+14 Catalog Software 7.70 2 2
+15 ConstructN.ai 5.50-7.50 5 4 1
+16 Pinnacle Reliability 6.00-6.50 15 11 4
+17 Deloitte 4.50 to 6.50 8 4 3 1
+18 Deepforrest Private Limited 6.00 1 1
+19 Candela Technogies 6.00 6 3 1 1 1
+20 oAppsNET 6.00 3 1 2
+21 Moships (Analog Design) 6.00 1 1
+22 Exaltica 6.00 1 1
+23 Sopra Steria (India) Limited 6.00 5 1 2 2
+24 PalTech 3.00-6.00 4 2 1 1
+25 Georgia IT Solutions LLC 5.56 1 1
+26 Tech Mahindra (Super Coders) 5.54 2 2
+27 Riktam 5.50 5 2 2 1
+28 Efftronics Systems Pvt Ltd. 5.30 5 1 2 2
+29 Global Connect Solutions 5.26 1 1
+30 FACE 5.09 19 5 8 4 1 1
+31 BSCPL 3.00-5.00 10 10
+32 Covasant Technologies Pvt. Ltd. 5.00 1 1
+33 Zithara Technologies (Freshersboot) 4.80 1 1
+34 MEIL 4.50 208 52 113 43
+35 Accenture 4.50 67 22 19 7 4 10 4 1
+36 Moships (Physical Design) 4.50 7 7
+37 Medha Servo Drives 4.48 8 6 1 1
+38 Capgemini 4.25 1 1
+39 LearningSaga Lechnologies 4.15 1 1
+40 Sobha Limited 3.00-4.15 8 8
+41 Crusoe Technogies 4.00 4 4
+42 L&T Technology Services Ltd 4.00 3 3
+43 EXIMIETAS DESIGN 4.00 1 1
+44 Acmegrade 4.00 62 16 14 9 2 10 4 5 2
+45 S2 Technology & Consulting Pvt. Ltd 4.00 7 4 1 1 1
+46 BournTec 4.00 1 1
+47 Deccan Fine Chemicals 3.40-4.00 4 4
+48 Miracle Software 3.20-4.00 18 6 6 1 3 2
+49 Surya Tech Solutions 2.24-4.00 94 37 26 31
+50 Technologics Global Pvt Ltd 2.00-4.00 9 2 2 2 2 1
+51 NxtWave 3.60 1 1
+52 Ziegler Aerospace 3.60 26 18 5 2 1
+53 IMEG 3.60 3 1 2
+54 TalentServe 3.60 87 36 39 9 3
+55 HealthOnUs Technologies Pvt. Ltd 3.60 1 1
+56 inoxair Products 3.75 10 5 5
+57 Easystepin 3.72 1 1
+58 Vem Technolgies 3.50 6 1 1 4
+59 Hyundai Transys 3.50 2 2
+60 Zen Technologies Limited 3.50 2 2
+61 RDC Concrete (India) Pvt Ltd 3.36 5 4 1
+62 Tech Mahindra 3.25 82 28 15 12 1 19 7
+63 Reventure 3.25 1 1
+64 ESYNC SOFTWARE SERVICES SDN BHD 3.20 1 1
+65 MSN Laborataries 3.05 15 15
+66 DCube Data Sciences LLP 3.00 1 1
+67 Laurus Labs Limited 3.00 4 4
+68 Aaradhya 3.00 14 5 3 5 1
+69 Nueve IT soluitons 3.00 10 6 1 1 2
+70 ExcelR Edutech Pvt. Ltd 3.00 34 11 5 5 2 5 5 1
+71 Jytra Technology Solutions (ActCAD) 3.00 2 2
+Summary of Campus Selections - 2024 Batch
+S. No. Organization CTC/Package Total CSE IT CSE-DS CSE- ECE EEE MECH CIVIL CHEM
+in Lacs AI&ML
+72 Praxsol Engineering 3.00 4 1 3
+73 Motherson Automotive Technologies & Engineering 2.76 1 1
+74 CGS BPO India Private Limited 2.80 1 1
+75 VASUDHA PHARMA CHEM LIMITED 2.75 2 2
+76 Vijai Electronics Ltd. 2.64 3 3
+77 Bindroo Software and Consultants Pvt. Ltd. 2.50 1 1
+78 Euthissa Care Technology Pvt.Ltd, 2.00-2.50 52 21 11 5 3 9 3
+79 Federal Operations and Services Limited 2.43 1 1
+80 GGS Engineering Services 2.16 1 1
+81 Synnova Gears & Transmissions Pvt. Ltd. 2.05 8 8
+82 RMSI Pvt. Ltd 2.02 1 1
+83 Estrel AI PvT LTD 1.80 1 1
+Total No. of Placements 1143 258 181 86 43 141 117 214 68 35
+Total No. of Student Selections 732 128 109 41 20 96 91 166 49 32
+No. of Eligible Students 1134 194 198 65 34 188 152 209 60 34
+Average Salary 5.26
+Maximum Salary 48.00
+Median Salary 4.00
+Minimum Salary 2.05

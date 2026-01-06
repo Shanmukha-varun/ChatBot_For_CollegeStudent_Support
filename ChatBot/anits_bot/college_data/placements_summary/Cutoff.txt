@@ -1,0 +1,63 @@
+ANITS Cutoff Ranks 2025 (AP EAMCET) - COMPLETE DATA
+
+CSE (636):
+OC Boys: 7658 | OC Girls: 9104 | SC Boys: 52021 | SC Girls: 61810
+ST Boys: 62666 | ST Girls: 105691 | BCA Boys: 10916 | BCA Girls: 12992
+BCB Boys: 11035 | BCB Girls: 12094 | BCCA Boys: 16251 | BCCA Girls: 16251
+BCDB Boys: 8992 | BCDB Girls: 10509 | BCEB Boys: 29934 | BCEB Girls: 31275
+OCEWS Boys: 9177 | OCEWS Girls: 17628 | Last: 84100
+
+CSM (637):
+OC Boys: 9878 | OC Girls: 10602 | SC Boys: 80067 | SC Girls: 87154
+ST Boys/Girls: 176527 | BCA Boys: 30546 | BCA Girls: 30546
+BCB Boys: 17419 | BCB Girls: 17909 | BCCA Boys: 9878
+BCDB Boys: 91896 | BCEB Boys: 12010 | BCEB Girls: 12218
+OCEWS Boys: 65494 | OCEWS Girls: 92998 | Last: 84100
+
+ECE (638):
+OC Boys/Girls: 16881 | SC Boys/Girls: 103817 | ST Boys/Girls: 125759
+BCA Boys: 32352 | BCA Girls: 32352 | BCB Boys: 42338 | BCB Girls: 51849
+BCCA Boys/Girls: 93917 | BCDB Boys: 20710 | BCDB Girls: 21667
+BCEB Boys/Girls: 65869 | OCEWS Boys/Girls: 21483 | Last: 84100
+
+EEE (639):
+OC Boys/Girls: 30843 | SC Boys/Girls: 177533 | ST Boys/Girls: 147488
+BCA Boys: 64019 | BCA Girls: 96944 | BCB Boys/Girls: 140822
+BCCA Boys/Girls: 148853 | BCDB Boys: 54578 | BCEB Boys/Girls: 137910
+OCEWS Boys: 72500 | OCEWS Girls: 61716 | Last: 84100
+
+INF (IT) (640):
+OC Boys: 14788 | OC Girls: 15177 | SC Boys/Girls: 157361
+ST Boys: 154006 | ST Girls: 170006 | BCA Boys/Girls: 39018
+BCB Boys/Girls: 42696 | BCCA Boys/Girls: 65368
+BCDB Boys: 28711 | BCEB Boys: 91439 | BCEB Girls: 94139
+OCEWS Boys: 26568 | OCEWS Girls: 34978 | Last: 84100
+
+MEC (Mechanical) (641):
+OC Boys: 49372 | OC Girls: 118222 | SC Boys/Girls: 176804
+ST Boys/Girls: 176082 | BCA Boys: 86583 | BCA Girls: 118222
+BCB Boys: 135188 | BCB Girls: 145935 | BCCA Boys: 54903
+BCDB Boys: 134338 | BCEB Boys: 59934 | BCEB Girls: 139864
+OCEWS Boys: 133056 | OCEWS Girls: 147667 | Last: 111044
+
+CHE (Chemical) (633):
+OC Boys/Girls: 47348 | SC Boys/Girls: 172169 | ST Boys: 86158
+BCA Boys/Girls: 81492 | BCB Boys: 100639 | BCB Girls: 174459
+BCCA Boys/Girls: 47348 | BCDB Boys/Girls: 53213
+OCEWS Boys/Girls: 150258 | Last: 84100
+
+CIV (Civil) (634):
+OC Boys: 38344 | OC Girls: 63487 | SC Boys: 133669 | SC Girls: 169217
+ST Boys: 63801 | ST Girls: 94913 | BCA Boys: 101362 | BCA Girls: 128011
+BCB Boys/Girls: 153264 | BCCA Boys: 38344 | BCCA Girls: 63487
+BCDB Boys: 64509 | BCDB Girls: 105339 | BCEB Boys: 79375 | BCEB Girls: 107121
+OCEWS Boys: 126139 | OCEWS Girls: 113602 | Last: 84100
+
+CSD (635):
+OC Boys/Girls: 11969 | SC Boys: 68147 | SC Girls: 140008
+ST Boys/Girls: 99612 | BCA Boys/Girls: 38920
+BCB Boys: 31356 | BCB Girls: 45868 | BCCA Boys/Girls: 11969
+BCDB Boys: 101404 | BCEB Boys/Girls: 18121 | OCEWS Boys/Girls: 101657
+Last: 84100
+
+Source: Official ANITS Cutoff Ranks 2025 (Complete). Query branch + "cutoff" for details.
